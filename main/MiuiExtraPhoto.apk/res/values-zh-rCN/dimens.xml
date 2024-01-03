@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <item type="dimen" name="refocus_operation_text_size">@dimen/px_45</item>
-    <item type="dimen" name="refocus_radio_item_text_max_width">@dimen/px_306</item>
-    <item type="dimen" name="refocus_radio_item_text_padding">@dimen/px_60</item>
-</resources>
