@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>Huduma za muunganisho wa kifaa</item>
+        <item>Muunganisho na kushiriki/Huduma za muunganisho wa kifaa</item>
+        <item>Screen Combo;Duet;Skrini anuwai;Duo;Kompyuta;Akisi;Huduma za muunganisho wa kifaa</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Je, imeshindwa kuunganisha kwa kutumia msimbo wa QR?</item>
+        <item>Je, huwezi kupata vifaa vya mkononi kwa kutumia kompyuta yako?</item>
+        <item>Je, huwezi kufunga kifaa chako cha mkononi?</item>
+        <item>Utangamano</item>
+    </string-array>
+</resources>

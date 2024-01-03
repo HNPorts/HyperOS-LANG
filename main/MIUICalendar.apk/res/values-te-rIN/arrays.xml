@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_sync_frequency">
+        <item>మాన్యువల్</item>
+        <item>ప్రతి %d నిమిషాలు</item>
+        <item>ప్రతి గంటకు</item>
+        <item>ప్రతి %d గంటలు</item>
+        <item>ప్రతి %d గంటలు</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>కుంభం</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>మేషం</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>కర్కాటకం</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>మకరం</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>ఈ ఈవెంట్ మాత్రమే</item>
+        <item>సిరీస్‌లో అన్ని ఈవెంట్‌లు</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>ఈ పర్యాయం మాత్రమే</item>
+        <item>పునరావృత రిమైండర్ ఆఫ్ చేయి</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>ముందుకి</item>
+        <item>వెనక్కు</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>ఈ ఈవెంట్ మాత్రమే</item>
+        <item>ఇది మరియు భవిష్యత్ ఈవెంట్‌లు</item>
+        <item>అన్ని ఈవెంట్‌లు</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>మిధునం</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>సింహం</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>తుల</item>
+    </string-array>
+    <string-array name="locale_calendar_array">
+        <item>ఏదీ లేదు</item>
+        <item>సాంప్రదాయ చైనీస్ క్యాలెండర్</item>
+        <item>ఇస్లామిక్ క్యాలెండర్</item>
+        <item>హిబ్రూ క్యాలెండర్</item>
+        <item>జపనీస్ క్యాలెండర్</item>
+        <item>పెర్షియన్ క్యాలెండర్</item>
+        <item>భారతీయ క్యాలెండర్</item>
+        <item>బుద్దిష్ట్ క్యాలెండర్</item>
+    </string-array>
+    <string-array name="months_English_array">
+        <item>జనవరి</item>
+        <item>ఫిబ్రవరి</item>
+        <item>మార్చి</item>
+        <item>ఏప్రిల్</item>
+        <item>మే</item>
+        <item>జూన్</item>
+        <item>జులై</item>
+        <item>ఆగస్ట్</item>
+        <item>సెప్టెంబర్</item>
+        <item>అక్టోబర్</item>
+        <item>నవంబర్</item>
+        <item>డిసెంబర్</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>ఈ పర్యాయం మాత్రమే</item>
+        <item>పునరావృత రిమైండర్ సెట్ చేయండి</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>మీనం</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>ఆఫ్</item>
+        <item>అన్ని ఈవెంట్‌ల కోసం</item>
+        <item>సమయ ప్రాధాన్య ఈవెంట్‌ల కోసం</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new_summary">
+        <item></item>
+        <item></item>
+        <item>@string/preferences_popup_alert_smart_summary_new</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>ఎల్లప్పుడూ</item>
+        <item>రింగర్‌ని నిశ్శబ్దపరిచినప్పుడు మాత్రమే</item>
+        <item>ఎప్పుడూ వద్దు</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>ప్రాంతం డిఫాల్ట్</item>
+        <item>శనివారం</item>
+        <item>ఆదివారం</item>
+        <item>సోమవారం</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1వ</item>
+        <item>2వ</item>
+        <item>3వ</item>
+        <item>4వ</item>
+        <item>5వ</item>
+        <item>6వ</item>
+        <item>7వ</item>
+        <item>8వ</item>
+        <item>9వ</item>
+        <item>10వ</item>
+        <item>11వ</item>
+        <item>12వ</item>
+        <item>13వ</item>
+        <item>14వ</item>
+        <item>15వ</item>
+        <item>16వ</item>
+        <item>17వ</item>
+        <item>18వ</item>
+        <item>19వ</item>
+        <item>20వ</item>
+        <item>21వ</item>
+        <item>22వ</item>
+        <item>23వ</item>
+        <item>24వ</item>
+        <item>25వ</item>
+        <item>26వ</item>
+        <item>27వ</item>
+        <item>28వ</item>
+        <item>29వ</item>
+        <item>30వ</item>
+        <item>31వ</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>ఎప్పుడూ వద్దు</item>
+        <item>సమయం</item>
+        <item>మొత్తం</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>జన</item>
+        <item>ఫిబ్ర</item>
+        <item>మార్చి</item>
+        <item>ఏప్రి</item>
+        <item>మే</item>
+        <item>జూన్</item>
+        <item>జూలై</item>
+        <item>ఆగ</item>
+        <item>సెప్టెం</item>
+        <item>అక్టో</item>
+        <item>నవం</item>
+        <item>డిసెం</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>మొదటి</item>
+        <item>రెండవ</item>
+        <item>మూడవ</item>
+        <item>నాలుగవ</item>
+        <item>చివరి</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>సోమ - శుక్ర</item>
+        <item>వారాంతం</item>
+        <item>వారం మొత్తం</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>సోమ</item>
+        <item>మంగళ</item>
+        <item>బుధ</item>
+        <item>గురు</item>
+        <item>శుక్ర</item>
+        <item>శని</item>
+        <item>ఆది</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>ఎప్పుడూ వద్దు</item>
+        <item>ప్రతి నెల</item>
+        <item>ప్రతి సంవత్సరం</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>రోజు</item>
+        <item>వారం</item>
+        <item>నెల</item>
+        <item>సంవత్సరం</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>మొదటి సోమవారం</item>
+        <item>మొదటి మంగళవారం</item>
+        <item>మొదటి బుధవారం</item>
+        <item>మొదటి గురువారం</item>
+        <item>మొదటి శుక్రవారం</item>
+        <item>మొదటి శనివారం</item>
+        <item>మొదటి ఆదివారం</item>
+        <item>రెండో సోమవారం</item>
+        <item>రెండో మంగళవారం</item>
+        <item>రెండో బుధవారం</item>
+        <item>రెండో గురువారం</item>
+        <item>రెండో శుక్రవారం</item>
+        <item>రెండో శనివారం</item>
+        <item>రెండో ఆదివారం</item>
+        <item>మూడో సోమవారం</item>
+        <item>మూడో మంగళవారం</item>
+        <item>మూడో బుధవారం</item>
+        <item>మూడో గురువారం</item>
+        <item>మూడో శుక్రవారం</item>
+        <item>మూడో శనివారం</item>
+        <item>మూడో ఆదివారం</item>
+        <item>నాలుగో సోమవారం</item>
+        <item>నాలుగో మంగళవారం</item>
+        <item>నాలుగో బుధవారం</item>
+        <item>నాలుగో గురువారం</item>
+        <item>నాలుగో శుక్రవారం</item>
+        <item>నాలుగో శనివారం</item>
+        <item>నాలుగో ఆదివారం</item>
+        <item>చివరి సోమవారం</item>
+        <item>చివరి మంగళవారం</item>
+        <item>చివరి బుధవారం</item>
+        <item>చివరి గురువారం</item>
+        <item>చివరి శుక్రవారం</item>
+        <item>చివరి శనివారం</item>
+        <item>చివరి ఆదివారం</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>స్పందన లేదు</item>
+        <item>అవును</item>
+        <item>కావచ్చు</item>
+        <item>లేదు</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>స్పందించలేదు</item>
+        <item>అంగీకరించండి</item>
+        <item>తర్వాత నిర్ణయిస్తాను</item>
+        <item>తిరస్కరించు</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>ధనుస్సు</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>వృశ్చికం</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>వృషభం</item>
+    </string-array>
+    <string-array name="timezone_labels_v3">
+        <item>మార్షల్ దీవులు</item>
+        <item>మిడ్‌వే దీవి</item>
+        <item>హవాయి</item>
+        <item>అలాస్కా</item>
+        <item>పసిఫిక్ సమయం</item>
+        <item>టివ్వానా</item>
+        <item>అరిజోనా</item>
+        <item>చివావా</item>
+        <item>మౌంటెయిన్ సమయం</item>
+        <item>సెంట్రల్ అమెరికా</item>
+        <item>సెంట్రల్ సమయం</item>
+        <item>మెక్సికో సిటీ</item>
+        <item>సస్కాచెవన్</item>
+        <item>బొగోటా</item>
+        <item>ఈశాన్య సమయం</item>
+        <item>వెనిజ్వేలా</item>
+        <item>అట్లాంటిక్ సమయం (బార్బడోస్)</item>
+        <item>అట్లాంటిక్ సమయం (కెనడా)</item>
+        <item>మనాస్</item>
+        <item>శాంటియాగో</item>
+        <item>న్యూఫౌండ్‌ల్యాండ్</item>
+        <item>బ్రెసిలియా</item>
+        <item>బ్వేనస్ ఏరీస్</item>
+        <item>గ్రీన్‌ల్యాండ్</item>
+        <item>మాంటవీడియో</item>
+        <item>మిడ్-అట్లాంటిక్</item>
+        <item>అజోర్స్</item>
+        <item>కేప్ వెర్డ్</item>
+        <item>కాసాబ్లాంకా</item>
+        <item>లండన్</item>
+        <item>డబ్లిన్</item>
+        <item>ఆమ్‌స్టర్‌డ్యామ్</item>
+        <item>బెర్లిన్</item>
+        <item>బేల్‌గ్రేడ్</item>
+        <item>బసెల్స్</item>
+        <item>సరయేవో</item>
+        <item>విండ్‌హోక్</item>
+        <item>పశ్చిమ ఆఫ్రికా సమయం</item>
+        <item>అమాన్</item>
+        <item>ఏథేన్స్</item>
+        <item>ఇస్తాంబుల్</item>
+        <item>బేరూట్</item>
+        <item>కైరో</item>
+        <item>హెల్సింకి</item>
+        <item>జెరూసలేం</item>
+        <item>మిన్‌స్క్</item>
+        <item>హరారే</item>
+        <item>బాగ్దాద్</item>
+        <item>మాస్కో</item>
+        <item>కువైట్</item>
+        <item>నైరోబి</item>
+        <item>టెహ్రాన్</item>
+        <item>బాకు</item>
+        <item>బ్లసి</item>
+        <item>యెరెవెన్</item>
+        <item>దుబాయ్</item>
+        <item>కాబూల్</item>
+        <item>కరాచీ</item>
+        <item>ఉరాస్క్</item>
+        <item>ఏకటెరిన్‌బర్గ్</item>
+        <item>కోల్‌కత్తా</item>
+        <item>శ్రీలంక</item>
+        <item>ఖాట్మండు</item>
+        <item>అస్తానా</item>
+        <item>యాంగాన్</item>
+        <item>క్రాస్నోయార్స్క్</item>
+        <item>బ్యాంకాక్</item>
+        <item>బీజింగ్</item>
+        <item>చాంగ్‌పింగ్</item>
+        <item>హాంగ్ కాంగ్</item>
+        <item>మకావ్</item>
+        <item>సింగపూర్</item>
+        <item>ఇర్‌కుట్‌స్క్</item>
+        <item>కౌలాలంపూర్</item>
+        <item>పెర్త్</item>
+        <item>తైపీ</item>
+        <item>సియోల్</item>
+        <item>టోక్యో</item>
+        <item>యాకుట్‌స్క్</item>
+        <item>అడిలైడ్</item>
+        <item>డార్విన్</item>
+        <item>బ్రిస్బేన్</item>
+        <item>హోబర్ట్</item>
+        <item>సిడ్నీ</item>
+        <item>కాన్‌బెర్రా</item>
+        <item>వ్లాడివోస్టాక్</item>
+        <item>గ్వామ్</item>
+        <item>మెగడాన్</item>
+        <item>ఆక్లాండ్</item>
+        <item>ఫిజీ</item>
+        <item>టోంగా</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>కన్యా</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>ఆది</item>
+        <item>సోమ</item>
+        <item>మంగళ</item>
+        <item>బుధ</item>
+        <item>గురు</item>
+        <item>శుక్ర</item>
+        <item>శని</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>పారదర్శకం</item>
+        <item>తెలుపు నేపథ్యం</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>ఆ</item>
+        <item>సో</item>
+        <item>మం</item>
+        <item>బు</item>
+        <item>గు</item>
+        <item>శు</item>
+        <item>శ</item>
+    </string-array>
+</resources>

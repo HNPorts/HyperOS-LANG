@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_sync_frequency">
+        <item>म्यानुअल</item>
+        <item>प्रत्येक %d मिनेट</item>
+        <item>प्रत्येक घण्टा</item>
+        <item>प्रत्येक %d घण्टा</item>
+        <item>प्रत्येक %d घण्टा</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>कुम्भ</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>मेष</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>कर्कट</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>मकर</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>यो कार्यक्रम मात्र</item>
+        <item>सबै कार्यक्रमहरु श्रृंखलामा</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>यस पटकका लागि मात्र</item>
+        <item>बारम्बार हुने रिमाइन्डर बन्द गर्नुहोस्</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>फर्वार्ड गर्नुहोस्</item>
+        <item>बाकवाद्र गर्नुहोस्</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>यो कार्यक्रम मात्र</item>
+        <item>यो र भविष्यको कार्यक्रमहरु</item>
+        <item>सबै कार्यक्रमहरु</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>मिथुन</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>सिंह</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>तुला</item>
+    </string-array>
+    <string-array name="locale_calendar_array">
+        <item>छैन</item>
+        <item>परम्परागत चिनियाँ पात्रो</item>
+        <item>इस्लामिक पात्रो</item>
+        <item>हिब्रु क्यालेन्डर</item>
+        <item>जापानी क्यालेन्डर</item>
+        <item>पर्सियन क्यालेन्डर</item>
+        <item>भारतीय क्यालेन्डर</item>
+        <item>बुधिस्ट क्यालेन्डर</item>
+    </string-array>
+    <string-array name="months_English_array">
+        <item>जनवरी</item>
+        <item>फेब्रुअरी</item>
+        <item>मार्च</item>
+        <item>अप्रिल</item>
+        <item>मे</item>
+        <item>जुन</item>
+        <item>जुलाई</item>
+        <item>अगस्ट</item>
+        <item>सेप्टेम्बर</item>
+        <item>अक्टोबर</item>
+        <item>नोभेम्बर</item>
+        <item>डिसेम्बर</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>यस पटकका लागि मात्र</item>
+        <item>बारम्बार रिमाइन्डर सेट गर्नुहोस्</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>मीन</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>अफ छ</item>
+        <item>सबै कार्यक्रमहरूका लागि</item>
+        <item>समय-सम्वेदनशील घटनाहरूको कार्यक्रमहरूका लागि</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new_summary">
+        <item></item>
+        <item></item>
+        <item>@string/preferences_popup_alert_smart_summary_new</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>सधै</item>
+        <item>रिङगर शान्त हुँदा मात्र</item>
+        <item>कहिले पनि होइन</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>क्षेत्र पूर्वनिर्धारित</item>
+        <item>शनिवार</item>
+        <item>आइतवार</item>
+        <item>सोमवार</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>प्रथम</item>
+        <item>दोस्रो</item>
+        <item>तेस्रो</item>
+        <item>चौँथो</item>
+        <item>पाँचौ</item>
+        <item>छैटौँ</item>
+        <item>सातौँ</item>
+        <item>आठौँ</item>
+        <item>नवौँ</item>
+        <item>दसौँ</item>
+        <item>एघारौँ</item>
+        <item>बाह्रौँ</item>
+        <item>तेह्रौँ</item>
+        <item>चौधौँ</item>
+        <item>पन्ध्रौँ</item>
+        <item>16</item>
+        <item>1७</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25 औं</item>
+        <item>26औं</item>
+        <item>2७औं</item>
+        <item>28औं</item>
+        <item>29औं</item>
+        <item>30औं</item>
+        <item>31औं</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>कहिले पनि होइन</item>
+        <item>समय</item>
+        <item>गणना</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>जनवरी</item>
+        <item>फेब्रुअरी</item>
+        <item>मार्च</item>
+        <item>एप्रिल</item>
+        <item>मे</item>
+        <item>जुन</item>
+        <item>जुलाई</item>
+        <item>अगस्ट</item>
+        <item>सेप्टेम्बर</item>
+        <item>अक्टोबर</item>
+        <item>नोभेम्बर</item>
+        <item>डिसम्बर</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>प्रथम</item>
+        <item>दोस्रो</item>
+        <item>तेस्रो</item>
+        <item>चौथौँ</item>
+        <item>अन्तिम</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>सोम - शुक्र</item>
+        <item>हप्ताको अन्तिम दिन</item>
+        <item>पुरा हप्ता</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>सोम</item>
+        <item>मङ्गल</item>
+        <item>बुध</item>
+        <item>बिही</item>
+        <item>शुक्र</item>
+        <item>शनि</item>
+        <item>आइत</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>कहिले पनि होइन</item>
+        <item>मासिक</item>
+        <item>वार्षिक</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>दिन</item>
+        <item>हप्ता</item>
+        <item>महिना</item>
+        <item>वर्ष</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>पहिलो सोमबार</item>
+        <item>पहिलो मंगलबार</item>
+        <item>पहिलो बुधबार</item>
+        <item>पहिलो बिहिबार</item>
+        <item>पहिलो शुक्रबार</item>
+        <item>पहिलो शनिबार</item>
+        <item>पहिलो आइतबार</item>
+        <item>दोस्रो सोमबार</item>
+        <item>दोस्रो मंगलबार</item>
+        <item>दोस्रो बुधबार</item>
+        <item>दोस्रो बिहिबार</item>
+        <item>दोस्रो शुक्रबार</item>
+        <item>दोस्रो शनिबार</item>
+        <item>दोस्रो आइतबार</item>
+        <item>तेस्रो सोमबार</item>
+        <item>तेस्रो मंगलबार</item>
+        <item>तेस्रो बुधबार</item>
+        <item>तेस्रो बिहिबार</item>
+        <item>तेस्रो शुक्रबार</item>
+        <item>तेस्रो शनिबार</item>
+        <item>तेस्रो आइतबार</item>
+        <item>चौथो सोमबार</item>
+        <item>चौथो मंगलबार</item>
+        <item>चौथो बुधबार</item>
+        <item>चौथो बिहिबार</item>
+        <item>चौथो शुक्रबार</item>
+        <item>चौथो शनिबार</item>
+        <item>चौथो आइतबार</item>
+        <item>महिनाको अन्तिम सोमबार</item>
+        <item>महिनाको अन्तिम मंगलबार</item>
+        <item>महिनाको अन्तिम बुधबार</item>
+        <item>महिनाको अन्तिम बिहिबार</item>
+        <item>महिनाको अन्तिम शुक्रबार</item>
+        <item>महिनाको अन्तिम शनिबार</item>
+        <item>महिनाको अन्तिम आइतबार</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>प्रतिक्रियाहरू छैनन्</item>
+        <item>हजुर</item>
+        <item>हुन सक्छ</item>
+        <item>हैन</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>प्रतिक्रिया नदिनुहोस्</item>
+        <item>स्वीकार गर्नुहोस्</item>
+        <item>पछि निर्णय गर्नुहोस्</item>
+        <item>अस्वीकार गर्नुहोस्</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>धनु</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>बृश्चिक</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>वृष</item>
+    </string-array>
+    <string-array name="timezone_labels_v3">
+        <item>मार्शल द्वीप</item>
+        <item>मिडवेद्विप</item>
+        <item>हवाई</item>
+        <item>अलास्का</item>
+        <item>प्रशान्त समय</item>
+        <item>टिजुआना</item>
+        <item>एरिजोन</item>
+        <item>चिहुआहुआ</item>
+        <item>माउंटेन समय</item>
+        <item>मध्य अमेरिका</item>
+        <item>केंद्रीय समय</item>
+        <item>मेक्सिको सिटी</item>
+        <item>सस्केचेवान</item>
+        <item>बोगोटा</item>
+        <item>पूर्वी समय</item>
+        <item>वेनेजुएला</item>
+        <item>अटलान्टिक समय (बाराबडोस)</item>
+        <item>अटलान्टिक समय (कानाडा)</item>
+        <item>मनौस</item>
+        <item>स्यान्टियागो</item>
+        <item>न्यूफाउन्डल्यान्ड</item>
+        <item>ब्रासीलिया</item>
+        <item>ब्यूनस आयर्स</item>
+        <item>ग्रीनलान्ड</item>
+        <item>मोन्टेभिडियो</item>
+        <item>मध्य-अटलान्टिक</item>
+        <item>अज़ोरेस</item>
+        <item>केप वर्दे</item>
+        <item>क्यासाब्लान्का</item>
+        <item>लन्डन</item>
+        <item>डबलिन</item>
+        <item>एम्स्टर्डम</item>
+        <item>बर्लिन</item>
+        <item>बेलग्रेड</item>
+        <item>ब्रुसेल्स</item>
+        <item>साराजेवो</item>
+        <item>विन्डहोक</item>
+        <item>पु. अफ्रीका समय</item>
+        <item>अम्मान</item>
+        <item>एथेन्स</item>
+        <item>Istanbul</item>
+        <item>बेरूत</item>
+        <item>काइरो</item>
+        <item>हेलसिन्की</item>
+        <item>जेरूसेलम</item>
+        <item>मिन्स्क</item>
+        <item>हरारे</item>
+        <item>बागदाद</item>
+        <item>मास्को</item>
+        <item>कुवैत</item>
+        <item>नाइरोबी</item>
+        <item>तेहरान</item>
+        <item>बाकू</item>
+        <item>टबिलिसि</item>
+        <item>येरेवान</item>
+        <item>दुबई</item>
+        <item>काबुल</item>
+        <item>कराची</item>
+        <item>युराल्स्क</item>
+        <item>येकाटरिंगबर्ग</item>
+        <item>कोलकाता</item>
+        <item>श्रीलङ्का</item>
+        <item>काठमाडौँ</item>
+        <item>अस्टाना</item>
+        <item>यानगोन</item>
+        <item>क्रास्नोयाक्</item>
+        <item>बैंकक</item>
+        <item>बेजीङ</item>
+        <item>चोङ्गगिङ्ग</item>
+        <item>हङकङ</item>
+        <item>मकाऊ</item>
+        <item>सिन्गापुर</item>
+        <item>इर्कुत्स्क</item>
+        <item>क्वालालाम्पुर</item>
+        <item>पर्थ</item>
+        <item>ताईपेई</item>
+        <item>सियोल</item>
+        <item>टोक्यो</item>
+        <item>याकुत्स्क</item>
+        <item>एडिलेड</item>
+        <item>डार्विन</item>
+        <item>ब्रिस्बेन</item>
+        <item>होबर्ट</item>
+        <item>सिडनी</item>
+        <item>क्यानबेरा</item>
+        <item>व्लादिवोस्तोक</item>
+        <item>गुआम</item>
+        <item>म्यागदान</item>
+        <item>अकल्यान्ड</item>
+        <item>फिजी</item>
+        <item>टोँगा</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>कन्या</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>आइत</item>
+        <item>सोम</item>
+        <item>मंगल</item>
+        <item>बुध</item>
+        <item>बीहि</item>
+        <item>शुक्र</item>
+        <item>सनि</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>पारदर्शकता</item>
+        <item>सेतो पृष्ठभूमि</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>आइत</item>
+        <item>सोम</item>
+        <item>मङ्गल</item>
+        <item>बुध</item>
+        <item>बिही</item>
+        <item>शुक्र</item>
+        <item>शनी</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miui15_settings_search_mirror">
+        <item>跨螢幕協同服務</item>
+        <item>連接與共享/跨螢幕協同服務</item>
+        <item>跨螢幕協作;跨螢幕協同;多螢幕協同;電腦協作;電腦協同;跨螢幕協同服務</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>掃碼後無法連線？</item>
+        <item>電腦端找不到手機？</item>
+        <item>無法鎖定螢幕？</item>
+        <item>裝置支援情況</item>
+    </string-array>
+</resources>

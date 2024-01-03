@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d КБ</item>
+        <item>%1$d КБ</item>
+        <item>%1$d КБ</item>
+        <item>%1$d КБ</item>
+        <item>%1$d МБ</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>Службы ўзаемадзеяння прылад</item>
+        <item>Падключэнне і сумеснае выкарыстанне/cлужбы ўзаемадзеяння прылад</item>
+        <item>Screen Combo;Дуэт;Мультыэкран;Дуэт;Кампутар;Люстэрка;Службы ўзаемадзеяння прылад</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Не атрымалася падключыцца з дапамогай QR-кода?</item>
+        <item>Не ўдаецца знайсці мабільныя прылады з дапамогай вашага кампутара?</item>
+        <item>Не можаце заблакаваць сваю мабільную прыладу?</item>
+        <item>Сумяшчальнасць</item>
+    </string-array>
+</resources>

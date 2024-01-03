@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_sync_frequency">
+        <item>ئاپتوماتسىز</item>
+        <item>ھەر %d مىنۇتتا</item>
+        <item>ھەر 1 سائەتتە</item>
+        <item>ھەر %d سائەتتە</item>
+        <item>ھەر %d سائەتتە</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>ئاكۋارىئۇس يۇلتۇز تۈركۈمى</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>ھەمەل يۇلتۇز تۈركۈمى</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>سەرەتان يۇلتۇز تۈركۈمى</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>كاپرىكورنۇس يۇلتۇز تۈركۈمى</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>پەقەت مۇشۇ پائالىيەتلا</item>
+        <item>بارلىق قايتىلانغان پائالىيەت</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>پەقەت بىر قېتىملا تاقاش</item>
+        <item>كېيىن تاقاقلا تۇرسۇن</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>ئارقىغا</item>
+        <item>ئالدىغا</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>پەقەت مۇشۇ قېتىملىق پائالىيەتتىلا</item>
+        <item>بۇ پائالىيەت ۋە كەلگۈسىدىكى پائالىيەت</item>
+        <item>بارلىق پائالىيەت</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>جەۋزا يۇلتۇز تۈركۈمى</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>ئەسەد يۇلتۇز تۈركۈمى</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>مىزان يۇلتۇز تۈركۈمى</item>
+    </string-array>
+    <string-array name="locale_calendar_array">
+        <item>يوق</item>
+        <item>قەمەرىيە كالېندارى</item>
+        <item>ئىسلام كالېندارى</item>
+        <item>ئىبرانچە كالېندار</item>
+        <item>خېلى</item>
+        <item>پارس كالېندارى</item>
+        <item>ھىندىستان كالېندارى</item>
+        <item>بۇددا كالېندارى</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>پەقەت 1 قېتىملا ئېچىش</item>
+        <item>كېيىن ئوچۇقلا تۇرسۇن</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>ھوت يۇلتۇز تۈركۈمى</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>ئىشلەتمەسلىك</item>
+        <item>بارلىق كۈنتەرتىپكە ئىشلىتىش</item>
+        <item>ئېنىق كۈنتەرتىپكە قوشۇش</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new_summary">
+        <item></item>
+        <item></item>
+        <item>@string/preferences_popup_alert_smart_summary_new</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>ئىزچىل</item>
+        <item>ئۈنسىز ھالەتتىلا</item>
+        <item>ھەرگىز</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>تىل رايونى سۈكۈتتىكى تەڭشىكى</item>
+        <item>شەنبە</item>
+        <item>يەكشەنبە</item>
+        <item>دۈشەنبە</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1-كۈنى</item>
+        <item>2-كۈنى</item>
+        <item>3-كۈنى</item>
+        <item>4-كۈنى</item>
+        <item>5-كۈنى</item>
+        <item>6-كۈنى</item>
+        <item>7-كۈنى</item>
+        <item>8-كۈنى</item>
+        <item>9-كۈنى</item>
+        <item>10-كۈنى</item>
+        <item>11-كۈنى</item>
+        <item>12-كۈنى</item>
+        <item>13-كۈنى</item>
+        <item>14-كۈنى</item>
+        <item>15-كۈنى</item>
+        <item>16-كۈنى</item>
+        <item>17-كۈنى</item>
+        <item>18-كۈنى</item>
+        <item>19-كۈنى</item>
+        <item>20-كۈنى</item>
+        <item>21-كۈنى</item>
+        <item>22-كۈنى</item>
+        <item>23-كۈنى</item>
+        <item>24-كۈنى</item>
+        <item>25-كۈنى</item>
+        <item>26-كۈنى</item>
+        <item>27-كۈنى</item>
+        <item>28-كۈنى</item>
+        <item>29-كۈنى</item>
+        <item>30-كۈنى</item>
+        <item>31-كۈنى</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>ھەرگىز</item>
+        <item>ۋاقىت</item>
+        <item>قېتىم سانى</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>يانۋار</item>
+        <item>فېۋرال</item>
+        <item>مارت</item>
+        <item>ئاپرېل</item>
+        <item>ماي</item>
+        <item>ئىيۇل</item>
+        <item>ئىيۇن</item>
+        <item>ئاۋغۇست</item>
+        <item>سېنتەبىر</item>
+        <item>ئۆكتەبىر</item>
+        <item>نويابىر</item>
+        <item>دېكابىر</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>بىرىنجى</item>
+        <item>ئىككىنجى</item>
+        <item>ئۈچۈنجى</item>
+        <item>تۆتىنجى</item>
+        <item>ئەڭ ئاخىرقى</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>دۈشەنبىدىن جۈمەگىچە</item>
+        <item>ھەپتە ئاخىرى</item>
+        <item>پۈتۈن ھەپتە</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>دۈشەنبە</item>
+        <item>سەيشەنبە</item>
+        <item>چارشەنبە</item>
+        <item>پەيشەنبە</item>
+        <item>جۈمە</item>
+        <item>شەنبە</item>
+        <item>يەكشەنبە</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>قەتئىي بولمايدۇ</item>
+        <item>ھەر ئاي</item>
+        <item>ھەر يىلى</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>" كۈن"</item>
+        <item>ھەپتە</item>
+        <item>ئاي</item>
+        <item>يىل</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>بىرىنچى دۈشەنبە</item>
+        <item>بىرىنچى سەيشەنبە</item>
+        <item>بىرىنچى چارشەنبە</item>
+        <item>بىرىنچى پەيشەنبە</item>
+        <item>بىرىنچى جۈمە</item>
+        <item>بىرىنچى شەنبە</item>
+        <item>بىرىنچى يەكشەنبە</item>
+        <item>ئىككىنچى دۈشەنبە</item>
+        <item>ئىككىنچى سەيشەنبە</item>
+        <item>ئىككىنچى چارشەنبە</item>
+        <item>ئىككىنچى پەيشەنبە</item>
+        <item>ئىككىنچى جۈمە</item>
+        <item>ئىككىنچى شەنبە</item>
+        <item>ئىككىنچى يەكشەنبە</item>
+        <item>ئۈنچىنچى دۈشەنبە</item>
+        <item>ئۈچىنچى سەيشەنبە</item>
+        <item>ئۈچىنچى چارشەنبە</item>
+        <item>ئۈچىنچى پەيشەنبە</item>
+        <item>ئۈچىنچى جۈمە</item>
+        <item>ئۈچىنچى شەنبە</item>
+        <item>ئۈچىنچى يەكشەنبە</item>
+        <item>تۆتىنچى دۈشەنبە</item>
+        <item>تۆتىنچى سەيشەنبە</item>
+        <item>تۆتىنچى چارشەنبە</item>
+        <item>تۆتىنچى سەيشەنبە</item>
+        <item>تۆتىنچى جۈمە</item>
+        <item>تۆتىنچى شەنبە</item>
+        <item>تۆتىنچى يەكشەنبە</item>
+        <item>ئەڭ ئاخىرقى دۈشەنبە</item>
+        <item>ئەڭ ئاخىرقى سەيشەنبە</item>
+        <item>ئەڭ ئاخىرقى چارشەنبە</item>
+        <item>ئەڭ ئاخىرقى پەيشەنبە</item>
+        <item>ئەڭ ئاخىرقى جۈمە</item>
+        <item>ئەڭ ئاخىرقى شەنبە</item>
+        <item>ئەڭ ئاخىرقى يەكشەنبە</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>ئىنكاس يوق</item>
+        <item>ھەئە</item>
+        <item>بەلكىم</item>
+        <item>ياق</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>ئىنكاس يوق</item>
+        <item>قوبۇل قىلىش</item>
+        <item>بەلكىم</item>
+        <item>ياق</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>قەۋس يۇلتۇز تۈركۈمى</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>ئەقرەب يۇلتۇز تۈركۈمى</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>سەۋر يۇلتۇز تۈركۈمى</item>
+    </string-array>
+    <string-array name="timezone_labels_v3">
+        <item>مارشال تاقىم ئاراللىرى</item>
+        <item>ئوتتۇرا يول ئارىلى</item>
+        <item>ھاۋاي</item>
+        <item>ئالياسكا شىتاتى</item>
+        <item>تىنچ ئوكيان ۋاقتى</item>
+        <item>تىجۇئەننا</item>
+        <item>ئارىزونا شىتاتى</item>
+        <item>چىگۋاگۋا شىتاتى</item>
+        <item>تاغلىق رايون ۋاقتى</item>
+        <item>ئوتتۇرا ئامېرىكا قىتئەسى</item>
+        <item>مەركىزىي ۋاقىت</item>
+        <item>مېكسىكا شەھىرى</item>
+        <item>ساسكاچېۋان</item>
+        <item>بوگوتا</item>
+        <item>شەرق ئۆلچەملىك ۋاقتى</item>
+        <item>ۋىنىزولا</item>
+        <item>ئاتلانتىك ئوكيان ۋاقتى (باربادوس)</item>
+        <item>ئاتلانتىك ئوكيان ۋاقتى (كانادا)</item>
+        <item>ماناۋسى</item>
+        <item>سانتىياگو</item>
+        <item>نېۋفۇندلاند</item>
+        <item>برازىلىيە</item>
+        <item>بۇئېنوس ئايرېس</item>
+        <item>گرولاند</item>
+        <item>مونتېۋىدېئو</item>
+        <item>ئوتتۇرا ئاتلانتىك ئوكيان</item>
+        <item>ياشۇر تاقىم ئارىلى</item>
+        <item>يېشىل تۇمشۇق تاقىم ئارىلى</item>
+        <item>كاسابۇلەنكا</item>
+        <item>لوندۇن</item>
+        <item>دۇربىلىن</item>
+        <item>ئامىستىردام</item>
+        <item>بېرلىن</item>
+        <item>بېلگراد</item>
+        <item>بريۇسسېل</item>
+        <item>سارايېۋو</item>
+        <item>ۋىندخوك</item>
+        <item>غەربىي ئافرىقا ۋاقتى</item>
+        <item>ئاممەن</item>
+        <item>ئافېنا</item>
+        <item>ئىستانبۇل</item>
+        <item>بېرۇت</item>
+        <item>قاھىرە</item>
+        <item>خېلسىنكى</item>
+        <item>جېرۇسالېم</item>
+        <item>مىنسك</item>
+        <item>ھارارې</item>
+        <item>باغداد</item>
+        <item>موسكىۋا</item>
+        <item>كۈۋەيىت</item>
+        <item>نايروبى</item>
+        <item>تېھران</item>
+        <item>باكۇ</item>
+        <item>دىبلىس</item>
+        <item>يېرېۋان</item>
+        <item>دۇبەي</item>
+        <item>قابۇل</item>
+        <item>كاراچ</item>
+        <item>ئورالسىك</item>
+        <item>ھېكاجلىنباد</item>
+        <item>كالكۇتتا</item>
+        <item>سىرلانكا</item>
+        <item>كاتماندۇ</item>
+        <item>ئاستانا</item>
+        <item>رانگون</item>
+        <item>كىراسنو يارسكى</item>
+        <item>باڭكوك</item>
+        <item>بېيجىڭ</item>
+        <item>مارالبېشى</item>
+        <item>شاڭگاڭ</item>
+        <item>ئاۋمېن</item>
+        <item>سىنگاپور</item>
+        <item>ئېركۇسىك</item>
+        <item>جىلومپو</item>
+        <item>پوس</item>
+        <item>كۇئالالۇمپۇر</item>
+        <item>سېئۇل</item>
+        <item>توكيو</item>
+        <item>ياكۇسىك</item>
+        <item>توكيو،ئوساكا</item>
+        <item>دارۋېن</item>
+        <item>بۇلىسبەن</item>
+        <item>دارۋىن</item>
+        <item>سىدنېي</item>
+        <item>كانبېررا</item>
+        <item>خوبات</item>
+        <item>گۇئام ئارىلى</item>
+        <item>ھولوتۇرىيە ئېگىزلىكى</item>
+        <item>گۇئام</item>
+        <item>ماگدەن</item>
+        <item>ئاۋكلاند</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>سۇنبۇلە يۇلتۇز تۈركۈمى</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>يەكشەنبە</item>
+        <item>دۈشەنبە</item>
+        <item>سەيشەنبە</item>
+        <item>چارشەنبە</item>
+        <item>پەيشەنبە</item>
+        <item>جۈمە</item>
+        <item>شەنبە</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>قارا سۈزۈك</item>
+        <item>ئاق تەگلىك</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>يەكشەنبە</item>
+        <item>دۈشەنبە</item>
+        <item>سەيشەنبە</item>
+        <item>چارشەنبە</item>
+        <item>پەيشەنبە</item>
+        <item>جۈمە</item>
+        <item>شەنبە</item>
+    </string-array>
+</resources>

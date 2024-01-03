@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>Hade haden sabis</item>
+        <item>"Haɗin &amp; rabawa/Sabisin haɗin na'ura"</item>
+        <item>"Screen Combo;Duet;Multiscreen;Duo;Computer;Mirror;Sabisin haɗin na'ura"</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"Ba'a iya hadawa ta amfani da lambar QR?"</item>
+        <item>"Ba a iya samun na'urorin mobayil ta amfani da kwamfutarka?"</item>
+        <item>"Ba'a iya kulle na'urar mobayil?"</item>
+        <item>Dacewa</item>
+    </string-array>
+</resources>

@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">提前%d天</item>
+        <item quantity="one">提前%d天</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">%1$d天后%2$s</item>
+        <item quantity="one">%1$d天后%2$s</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">提前%1$d天%2$s</item>
+        <item quantity="one">提前%1$d天%2$s</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">提前%d小时</item>
+        <item quantity="one">提前%d小时</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">提前%d分钟</item>
+        <item quantity="one">提前%d分钟</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">提前%d周</item>
+        <item quantity="one">提前%d周</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d小时前</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">半小时前</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d小时后</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">半小时后</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">马上</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d分钟后</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">刚刚</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d分钟前</item>
+    </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">%d分钟后</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">%1$s天</item>
+        <item quantity="one">%1$s天</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">【纪念日】%1$d天后是%2$s%3$d周年</item>
+        <item quantity="one">【纪念日】%1$d天后是%2$s%3$d周年</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">【纪念日】%1$s%2$d周年</item>
+        <item quantity="one">【纪念日】%1$s%2$d周年</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">%1$s周年</item>
+        <item quantity="one">%1$s周年</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d天前</item>
+        <item quantity="one">%1$d天前</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d天后</item>
+        <item quantity="one">%1$d天后</item>
+    </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s岁</item>
+        <item quantity="one">%1$s岁</item>
+    </plurals>
+    <plurals name="birthday_notification_text_days_later">
+        <item quantity="other">还有%1$s天是TA的%2$s%3$s%4$s（%5$s）</item>
+        <item quantity="one">还有%1$s天是TA的%2$s%3$s%4$s（%5$s）</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">%1$s天后</item>
+        <item quantity="one">%1$s天后</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d天后</item>
+        <item quantity="one">%1$d天后</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d天前</item>
+        <item quantity="one">%1$d天前</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">往后推%1$d天</item>
+        <item quantity="one">往后推%1$d天</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">往前推%1$d天</item>
+        <item quantity="one">往前推%1$d天</item>
+    </plurals>
+    <plurals name="delete_select_dup_events_title">
+        <item quantity="other">所选日程中包含重复日程。若删除该日程，将为您同步删除关联的重复日程。确定要删除所选的%d个日程吗？</item>
+    </plurals>
+    <plurals name="delete_select_event_title">
+        <item quantity="other">确定要删除所选的%d个日程吗？</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">请输入%1$d范围内的天数</item>
+        <item quantity="one">请输入%1$d范围内的天数</item>
+    </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">账号最多支持%d个提醒</item>
+        <item quantity="one">账号最多支持%d个提醒</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">已选择%d项</item>
+        <item quantity="one">已选择%d项</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="n_attendees">
+        <item quantity="other">%1$d个邀请对象</item>
+        <item quantity="one">1个邀请对象</item>
+    </plurals>
+    <plurals name="n_weeks">
+        <item quantity="other">第%d周</item>
+        <item quantity="one">第1周</item>
+    </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">其他%d个日程</item>
+    </plurals>
+    <plurals name="other_num_todo_events">
+        <item quantity="other">其他%d个待办事项</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">天</item>
+        <item quantity="one">天</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">小时</item>
+        <item quantity="one">小时</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">分钟</item>
+        <item quantity="one">分钟</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">将于%1$d分钟后提醒</item>
+    </plurals>
+    <plurals name="repeat_custom_prompt">
+        <item quantity="other">每%1$s的%2$s</item>
+        <item quantity="one">每%1$s的%2$s</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other"> %1$d 天</item>
+        <item quantity="one"> %1$d 天</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other"> %1$d 月</item>
+        <item quantity="one"> %1$d 月</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other"> %1$d 周</item>
+        <item quantity="one"> %1$d 周</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other"> %1$d 年</item>
+        <item quantity="one"> %1$d 年</item>
+    </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">今日有%d个日程</item>
+    </plurals>
+    <plurals name="travel_time_range_hours">
+        <item quantity="other">%d时</item>
+    </plurals>
+    <plurals name="travel_time_range_mins">
+        <item quantity="other">%d分</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">第 %d 周</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s天</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d个日程进行中</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">下个日程%d分钟后开始</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">明天有%d个日程</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">其中工作日%1$d天</item>
+        <item quantity="one">其中工作日%1$d天</item>
+    </plurals>
+</resources>

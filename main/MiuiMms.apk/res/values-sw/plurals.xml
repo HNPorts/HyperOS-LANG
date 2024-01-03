@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="batch_delete_confirm_dialog_message">
+        <item quantity="other">Futa jumbe %1$s</item>
+        <item quantity="one">Futa ujumbe %1$s</item>
+    </plurals>
+    <plurals name="cloud_sms_count">
+        <item quantity="other">Jumbe %d</item>
+        <item quantity="one">Ujumbe %d</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">Ujumbe %d haujasawazishwa</item>
+        <item quantity="one">Ujumbe %d haujasawazishwa</item>
+    </plurals>
+    <plurals name="confirm_delete_conversation">
+        <item quantity="other">Ungependa kufuta mazungumzo %1$s uliyochagua?</item>
+        <item quantity="one">Ungependa kufuta mazungumzo %1$s uliyochagua?</item>
+    </plurals>
+    <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d imechaguliwa</item>
+        <item quantity="one">%d imechaguliwa</item>
+    </plurals>
+    <plurals name="delivery_toast_body_more_plurals">
+        <item quantity="other">Ujumbe umepokelewa na %1$s na watu wingine %2$d</item>
+        <item quantity="one">Ujumbe umepokelewa na %1$s na mtu mwingine %2$d</item>
+    </plurals>
+    <plurals name="group_message_failed_title">
+        <item quantity="other">Haikuweza kutuma kwa anwani %d</item>
+        <item quantity="one">Haikuweza kutuma kwa anwani %d</item>
+    </plurals>
+    <plurals name="hint_search_sms">
+        <item quantity="other">Jumbe %d</item>
+        <item quantity="one">Ujumbe %d</item>
+    </plurals>
+    <plurals name="mark_number_dialog_subtitle">
+        <item quantity="other">Imetiwa alama kama %2$s na watu %1$d</item>
+        <item quantity="one">Imetiwa alama kama %2$s na watu %1$d</item>
+    </plurals>
+    <plurals name="message_count">
+        <item quantity="other">Ujumbe %1$s</item>
+        <item quantity="one">Ujumbe %1$s</item>
+    </plurals>
+    <plurals name="notification_multiple">
+        <item quantity="other">"Jumbe %s | "</item>
+        <item quantity="one">"Ujumbe %s | "</item>
+    </plurals>
+    <plurals name="privacy_state_revoked_revoked_1">
+        <item quantity="other">Ondoa (%ds)</item>
+        <item quantity="one">Ondoa (%ds)</item>
+    </plurals>
+    <plurals name="rcs_group_notification_invitation_receive">
+        <item quantity="other">Umepokea mialiko %d ya gumzo la kikundi</item>
+        <item quantity="one">Umepokea mwaliko %d wa gumzo la kikundi</item>
+    </plurals>
+    <plurals name="recipient_count">
+        <item quantity="other">Watu %1$s</item>
+        <item quantity="one">Mtu %1$s</item>
+    </plurals>
+    <plurals name="search_results_title">
+        <item quantity="other">Matokeo %1$s ya %2$s</item>
+        <item quantity="one">Tokeo%1$s ya %2$s</item>
+    </plurals>
+    <plurals name="select_duration_time">
+        <item quantity="other">Sekunde %d</item>
+        <item quantity="one">Sekunde %d</item>
+    </plurals>
+    <plurals name="send_to_count">
+        <item quantity="other">Tuma jumbe %1$s</item>
+        <item quantity="one">Tuma ujumbe %1$s</item>
+    </plurals>
+    <plurals name="slide_audio_duration">
+        <item quantity="other">Sekunde %d</item>
+        <item quantity="one">Sekunde %d</item>
+    </plurals>
+    <plurals name="slide_duration">
+        <item quantity="other">Sekunde %d</item>
+        <item quantity="one">Sekunde %d</item>
+    </plurals>
+    <plurals name="timed_message_expired_title">
+        <item quantity="other">Jumbe %d zilizoratibiwa hazijatumwa</item>
+        <item quantity="one">Ujumbe %d ulioratibiwa haujatumwa</item>
+    </plurals>
+    <plurals name="timed_message_in_total">
+        <item quantity="other">(Jumbe %d)</item>
+        <item quantity="one">(Ujumbe %d)</item>
+    </plurals>
+    <plurals name="to_count">
+        <item quantity="other">Wapokeaji %d</item>
+        <item quantity="one">Mpokeaji %d</item>
+    </plurals>
+</resources>

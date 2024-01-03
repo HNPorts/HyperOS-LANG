@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>ডিভাইচ আন্তঃসংযোগশীলতা সেৱাসমূহ</item>
+        <item>সংযোগ আৰু ভাগ-বতৰা/ডিভাইচ আন্তঃসংযোগশীলতা সেৱাসমূহ</item>
+        <item>"Screen Combo;ডুৱেট;মাল্টিস্ক্ৰীণ;Duo;কম্পিউটাৰ;মিৰ'ৰ;ডিভাইচ আন্তঃসংযোগশীলতা সেৱাসমূহ"</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"QR ক'ডৰ ব্যৱহাৰেৰে সংযোগ কৰিব নোৱাৰে নেকি?"</item>
+        <item>"কম্পিউটাৰ ব্যৱহাৰ কৰি ম'বাইল ডিভাইচ বিচাৰি পোৱা নাই নেকি?"</item>
+        <item>"ম'বাইল ডিভাইচটো লক কৰিব পৰা নাই নেকি?"</item>
+        <item>সুসমতা</item>
+    </string-array>
+</resources>

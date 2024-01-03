@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_sync_frequency">
+        <item>Manual</item>
+        <item>Cdo %d minuta</item>
+        <item>Çdo orë</item>
+        <item>Cdo %d ore</item>
+        <item>Çdo %d orë</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Ujori</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Dashi</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Uriqi</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Bricjapi</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Vetëm këtë ngjarje</item>
+        <item>Të gjitha ngjarjet në seri</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Vetëm për këtë kohë</item>
+        <item>Çaktivizo kujtesën e përsëritur</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Para</item>
+        <item>Prapa</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Vetëm këtë ngjarje</item>
+        <item>Këtë dhe ngjarjet e ardhshme</item>
+        <item>Të gjitha ngjarjet</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>Binjakët</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>Luani</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>Peshorja</item>
+    </string-array>
+    <string-array name="locale_calendar_array">
+        <item>Asnjë</item>
+        <item>Kalendari tradicional kinez</item>
+        <item>Kalendari Islamik</item>
+        <item>Kalendar Hebrew</item>
+        <item>Kalendar Japonez</item>
+        <item>Kalendari Persian</item>
+        <item>Kalendar Indian</item>
+        <item>Kalendar Budist</item>
+    </string-array>
+    <string-array name="months_English_array">
+        <item>Janar</item>
+        <item>Shkurt</item>
+        <item>Mars</item>
+        <item>Prill</item>
+        <item>Maj</item>
+        <item>Qershor</item>
+        <item>Korrik</item>
+        <item>Gusht</item>
+        <item>Shtator</item>
+        <item>Tetor</item>
+        <item>Nëntor</item>
+        <item>Dhjetor</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Vetëm për këtë kohë</item>
+        <item>Vendosni alarmin e përsëritur</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Peshqit</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Fikur</item>
+        <item>Për të gjitha ngjarjet</item>
+        <item>Për ngjarje të ndjeshme ndaj kohës</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new_summary">
+        <item></item>
+        <item></item>
+        <item>@string/preferences_popup_alert_smart_summary_new</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Gjithmonë</item>
+        <item>Vetëm kur zilja është në heshtje</item>
+        <item>Kurrë</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Parazgjedhje sipas rajonit</item>
+        <item>E shtunë</item>
+        <item>E diel</item>
+        <item>E hënë</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>I 1-ri</item>
+        <item>I 2-ti</item>
+        <item>I 3-ti</item>
+        <item>I 4-ti</item>
+        <item>I 5-ti</item>
+        <item>I 6-ti</item>
+        <item>I 7-ti</item>
+        <item>I 8-ti</item>
+        <item>I 9-ti</item>
+        <item>I 10-ti</item>
+        <item>I 11-ti</item>
+        <item>I 12-ti</item>
+        <item>I 13-ti</item>
+        <item>I 14-ti</item>
+        <item>I 15-ti</item>
+        <item>I 16-ti</item>
+        <item>I 17-ti</item>
+        <item>I 18-ti</item>
+        <item>I 19-ti</item>
+        <item>I 20-ti</item>
+        <item>I 21-ti</item>
+        <item>I 22-ti</item>
+        <item>I 23-ti</item>
+        <item>I 24-ti</item>
+        <item>I 25-ti</item>
+        <item>I 26-ti</item>
+        <item>I 27-ti</item>
+        <item>I 28-ti</item>
+        <item>I 29-ti</item>
+        <item>I 30-ti</item>
+        <item>I 31-ti</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Kurrë</item>
+        <item>Ora</item>
+        <item>Numërimi</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Shk</item>
+        <item>Mar</item>
+        <item>Pri</item>
+        <item>Maj</item>
+        <item>Qer</item>
+        <item>Kor</item>
+        <item>Gus</item>
+        <item>Sht</item>
+        <item>Tet</item>
+        <item>Nën</item>
+        <item>Dhj</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>i pari</item>
+        <item>i dyti</item>
+        <item>i treti</item>
+        <item>i katërti</item>
+        <item>i fundit</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Hën - Pre</item>
+        <item>Fundjavë</item>
+        <item>E gjithë java</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Hën</item>
+        <item>Mar</item>
+        <item>Mër</item>
+        <item>Enj</item>
+        <item>Pre</item>
+        <item>Sht</item>
+        <item>Die</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Kurrë</item>
+        <item>Mujor</item>
+        <item>Vjetor</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>ditë</item>
+        <item>javë</item>
+        <item>muaj</item>
+        <item>vit</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>e Hëna e parë</item>
+        <item>e Marta e parë</item>
+        <item>e Mërkura e parë</item>
+        <item>e Enjtja e parë</item>
+        <item>e Premtja e parë</item>
+        <item>e Shtuna e parë</item>
+        <item>e Diela e parë</item>
+        <item>e Hëna e dytë</item>
+        <item>e Marta e dytë</item>
+        <item>e Mërkura e dytë</item>
+        <item>e Enjtja e dytë</item>
+        <item>e Premtja e dytë</item>
+        <item>e Shtuna e dytë</item>
+        <item>e Djela e dytë</item>
+        <item>e Hëna e tretë</item>
+        <item>e Marta e tretë</item>
+        <item>e Mërkura e tretë</item>
+        <item>e Enjtja e tretë</item>
+        <item>e Premtja e tretë</item>
+        <item>e Shtuna e tretë</item>
+        <item>e Diela e tretë</item>
+        <item>e Hëna e katërt</item>
+        <item>e Marta e katërt</item>
+        <item>e Mërkura e katërt</item>
+        <item>e Enjtja e katërt</item>
+        <item>e Premtja e katërt</item>
+        <item>e Shtuna e katërt</item>
+        <item>e Diela e katërt</item>
+        <item>e Hëna e fundit</item>
+        <item>e Marta e fundit</item>
+        <item>e Mërkura e fundit</item>
+        <item>e Enjtja e fundit</item>
+        <item>e Premtja e fundit</item>
+        <item>e Shtuna e fundit</item>
+        <item>e Diela e fundit</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Nuk ka përgjigje</item>
+        <item>Po</item>
+        <item>Ndoshta</item>
+        <item>Jo</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Mos u pergjigj</item>
+        <item>Prano</item>
+        <item>Vendos më vonë</item>
+        <item>Refuzo</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Shigjetari</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Akrepi</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Demi</item>
+    </string-array>
+    <string-array name="timezone_labels_v3">
+        <item>Ishujt Marshallë</item>
+        <item>Ishulli Miduej</item>
+        <item>Hauai</item>
+        <item>Alaska</item>
+        <item>Ora e paqësorit</item>
+        <item>Tixhuana</item>
+        <item>Arizona</item>
+        <item>Çiuaua</item>
+        <item>Ora Mountain</item>
+        <item>Amerika Qendrore</item>
+        <item>Ora Qendrore</item>
+        <item>Meksiko Siti</item>
+        <item>Saskatçevan</item>
+        <item>Bogota</item>
+        <item>Ora Lindore</item>
+        <item>Venezuela</item>
+        <item>Ora Atlantike (Barbados)</item>
+        <item>Ora Atlantike (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Njufaundland</item>
+        <item>Brazilia</item>
+        <item>Buenos Aires</item>
+        <item>Grenlandë</item>
+        <item>Montevideo</item>
+        <item>Mid-Atlantiku</item>
+        <item>Azoret</item>
+        <item>Cape Verde</item>
+        <item>Kazablanka</item>
+        <item>Londra</item>
+        <item>Dublin</item>
+        <item>Amsterdam</item>
+        <item>Berlin</item>
+        <item>Beograd</item>
+        <item>Bruksel</item>
+        <item>Sarajevë</item>
+        <item>Uindhoek</item>
+        <item>Ora e Afrikës Perëndimore</item>
+        <item>Aman</item>
+        <item>Athina</item>
+        <item>Stamboll</item>
+        <item>Bejrut</item>
+        <item>Kajro</item>
+        <item>Helsinki</item>
+        <item>Jeruzalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moska</item>
+        <item>Kuvajti</item>
+        <item>Nairobi</item>
+        <item>Teheran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Jerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Karaçi</item>
+        <item>Uralsk</item>
+        <item>Jekaterinburg</item>
+        <item>Kalkuta</item>
+        <item>Sri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Jangon</item>
+        <item>Kranojarsk</item>
+        <item>Bangkok</item>
+        <item>Pekin</item>
+        <item>Çongqing</item>
+        <item>Hong Kong</item>
+        <item>Makau</item>
+        <item>Singapore</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tokyo</item>
+        <item>Jakutsk</item>
+        <item>Adelajde</item>
+        <item>Darvin</item>
+        <item>Brisbejn</item>
+        <item>Hobart</item>
+        <item>Sidnej</item>
+        <item>Kanberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Okland</item>
+        <item>Fixhi</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Virgjëresha</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>DIE</item>
+        <item>HËN</item>
+        <item>MAR</item>
+        <item>MËR</item>
+        <item>ENJ</item>
+        <item>PRE</item>
+        <item>SHT</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Transparent</item>
+        <item>Sfond i bardhë</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+    </string-array>
+</resources>

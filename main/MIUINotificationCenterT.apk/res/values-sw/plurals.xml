@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="last_sent_time_day">
+        <item quantity="other">Siku %d zilizopita</item>
+        <item quantity="one">Siku %d iliyopita</item>
+    </plurals>
+    <plurals name="last_sent_time_hour">
+        <item quantity="other">Saa %d zilizopita</item>
+        <item quantity="one">Saa %d iliyopita</item>
+    </plurals>
+    <plurals name="last_sent_time_minute">
+        <item quantity="other">Dakika %d zilizopita</item>
+        <item quantity="one">Dakika %d iliyopita</item>
+    </plurals>
+    <plurals name="last_sent_time_month">
+        <item quantity="other">Miezi %d iliyopita</item>
+        <item quantity="one">mwezi %d uliopita</item>
+    </plurals>
+    <plurals name="last_sent_time_week">
+        <item quantity="other">Wiki %d zilizopita</item>
+        <item quantity="one">Wiki %d iliyopita</item>
+    </plurals>
+    <plurals name="sent_frequency_per_day">
+        <item quantity="other">Arifa %d kwa siku</item>
+        <item quantity="one">Arifa %d kwa siku</item>
+    </plurals>
+    <plurals name="sent_frequency_per_week">
+        <item quantity="other">Arifa %d kwa wiki</item>
+        <item quantity="one">Arifa %d kwa wiki</item>
+    </plurals>
+</resources>

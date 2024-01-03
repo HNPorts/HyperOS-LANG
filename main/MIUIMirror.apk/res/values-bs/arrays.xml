@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>Usluge interkonektivnosti uređaja</item>
+        <item>Konekcija i dijeljenje/Usluge interkonektivnosti uređaja</item>
+        <item>Screen Combo;Duet;Više ekrana;Duo;Kompjuter;Zrcalo;Usluge interkonektivnosti uređaja</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Ne možete se povezati pomoću QR koda?</item>
+        <item>Ne možete pronaći mobilni uređaj vašim kompjuterom?</item>
+        <item>Ne možete zaključati vaš mobilni telefon?</item>
+        <item>Kompatibilnost</item>
+    </string-array>
+</resources>

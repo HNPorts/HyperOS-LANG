@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>Gailuaren interkonektibitate-zerbitzuak</item>
+        <item>Konexioa eta partekatzea/Gailuaren interkonektibitate-zerbitzuak</item>
+        <item>Screen Combo;Duetoa;Pantaila anitza;Duo;Ordenagailua:Ispilua;Gailuaren interkonektibitate-zerbitzuak</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Ezin da konektatu QR kodea erabilita?</item>
+        <item>Ezin dituzu gailu mugikorrak aurkitu zure ordenagailua erabiliz?</item>
+        <item>Ezin duzu zure gailu mugikorra blokeatu?</item>
+        <item>Bateragarritasuna</item>
+    </string-array>
+</resources>

@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">ಈವೆಂಟ್‌ನ %d ದಿನಗಳ ಮೊದಲು</item>
+        <item quantity="one">ಈವೆಂಟ್‌ನ %d ದಿನದ ಮೊದಲು</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">%1$d ದಿನಗಳು ಸುಮಾರು%2$s</item>
+        <item quantity="one">%1$d ದಿನ ಸುಮಾರು%2$s</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">%2$s ನ ಈವೆಂಟ್‌ನ %1$d ದಿನಗಳ ಮೊದಲು</item>
+        <item quantity="one">%2$s ನ ಈವೆಂಟ್‌ನ %1$d ದಿನದ ಮೊದಲು</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">ಈವೆಂಟ್‌ನ %d ಗಂಟೆಗಳ ಮೊದಲು</item>
+        <item quantity="one">ಈವೆಂಟ್‌ನ %d ಗಂಟೆಯ ಮೊದಲು</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">ಈವೆಂಟ್‌ನ %d ನಿಮಿಷಗಳ ಮೊದಲು</item>
+        <item quantity="one">ಈವೆಂಟ್‌ನ %d ನಿಮಿಷದ ಮೊದಲು</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">ಈವೆಂಟ್‌ನ %d ವಾರಗಳ ಮೊದಲು</item>
+        <item quantity="one">ಈವೆಂಟ್‌ನ %d ವಾರದ ಮೊದಲು</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 ಗಂಟೆ ಹಿಂದೆ</item>
+        <item quantity="one">1 ಗಂಟೆ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d ಗಂಟೆ ಮೊದಲು</item>
+        <item quantity="one">%d ಗಂಟೆ ಮೊದಲು</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">ಅರ್ಧಗಂಟೆ ಹಿಂದೆ</item>
+        <item quantity="one">ಅರ್ಧಗಂಟೆ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d ಗಂಟೆಯಲ್ಲಿ</item>
+        <item quantity="one">%d ಗಂಟೆಯಲ್ಲಿ</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">ಅರ್ಧಗಂಟೆಯಲ್ಲಿ</item>
+        <item quantity="one">ಅರ್ಧಗಂಟೆಯಲ್ಲಿ</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">ಈ ಕ್ಷಣವೇ</item>
+        <item quantity="one">ಈ ಕ್ಷಣವೇ</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d ನಿಮಿಷಗಳಲ್ಲಿ</item>
+        <item quantity="one">%d ನಿಮಿಷದಲ್ಲಿ</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ಈಗ ತಾನೇ</item>
+        <item quantity="one">ಈಗ ತಾನೇ</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d ನಿಮಿ.ಗಳ ಮೊದಲು</item>
+        <item quantity="one">%d ನಿಮಿ ಮೊದಲು</item>
+    </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">%d ನಿಮಿಷಗಳಲ್ಲಿ</item>
+        <item quantity="one">%d ನಿಮಿಷದಲ್ಲಿ</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">%1$s ದಿನಗಳು</item>
+        <item quantity="one">%1$s ದಿನ</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">ವಾರ್ಷಿಕೋತ್ಸವ: %2$s ಆಗಿ %1$d ದಿನಗಳಲ್ಲಿ%3$d ವರ್ಷಗಳು</item>
+        <item quantity="one">ವಾರ್ಷಿಕೋತ್ಸವ: %2$s ಆಗಿ %1$d ದಿನಗಳಲ್ಲಿ%3$d ವರ್ಷ</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">ವಾರ್ಷಿಕೋತ್ಸವ: %1$s ರಿಂದ %2$d ವರ್ಷಗಳು</item>
+        <item quantity="one">ವಾರ್ಷಿಕೋತ್ಸವ: %1$s ರಿಂದ %2$d ವರ್ಷ</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">%1$s ವರ್ಷಗಳು</item>
+        <item quantity="one">%1$s ವರ್ಷ</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d ದಿನಗಳಿಂದ</item>
+        <item quantity="one">%1$d ದಿನದಿಂದ</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d ದಿನಗಳ ಕಾಲ</item>
+        <item quantity="one">%1$d ದಿನ ಕಾಲ</item>
+    </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s-ವರ್ಷ</item>
+        <item quantity="one">%1$s-ವರ್ಷ</item>
+    </plurals>
+    <plurals name="birthday_notification_text_days_later">
+        <item quantity="other">%4$sಗೆ %1$s ದಿನಗಳಿವೆ (%5$s)</item>
+        <item quantity="one">%4$sಗೆ %1$s ದಿನವಿದೆ (%5$s)</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">%1$s ದಿನಗಳು ಬಾಕಿಯಿವೆ</item>
+        <item quantity="one">%1$s ದಿನ ಬಾಕಿಯಿದೆ</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d ದಿನಗಳ ಬಳಿಕ</item>
+        <item quantity="one">%1$d ದಿನದ ಬಳಿಕ</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d ದಿನಗಳ ಹಿಂದೆ</item>
+        <item quantity="one">%1$d ದಿನದ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">%1$d ದಿನಗಳ ನಂತರ</item>
+        <item quantity="one">%1$d ದಿನದ ನಂತರ</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">%1$d ದಿನಗಳ ಹಿಂದೆ</item>
+        <item quantity="one">%1$d ದಿನದ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="delete_select_dup_events_title">
+        <item quantity="other">ಪುನರಾವರ್ತಿತ ಈವೆಂಟ್‌ ಅಳಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದೀರಿ. %d ಈವೆಂಟ್‌ಗಳನ್ನು ಅದರ ಪುನರಾವರ್ತನೆಗಳೊಂದಿಗೆ ಅಳಿಸಬೇಕೇ?</item>
+        <item quantity="one">ಪುನರಾವರ್ತಿತ ಈವೆಂಟ್‌ ಅಳಿಸಲು ಪ್ರಯತ್ನಿಸುತ್ತಿದ್ದೀರಿ. %d ಈವೆಂಟ್‌ ಅನ್ನು ಅದರ ಪುನರಾವರ್ತನೆಗಳೊಂದಿಗೆ ಅಳಿಸಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="delete_select_event_title">
+        <item quantity="other">%d ಈವೆಂಟ್‌ಗಳನ್ನು ಅಳಿಸಬೇಕೇ?</item>
+        <item quantity="one">%d ಈವೆಂಟ್‌ ಅಳಿಸಬೇಕೇ?</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">ನೀವು %1$d ದಿನಗಳವರೆಗೆ ನಮೂದಿಸಬಹುದು</item>
+        <item quantity="one">ನೀವು %1$d ದಿನದವರೆಗೆ ನಮೂದಿಸಬಹುದು</item>
+    </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">%dಗಳಷ್ಟು ರಿಮೈಂಡರ್‌ಗಳನ್ನು ಹೊಂದಿಸಬಹುದು</item>
+        <item quantity="one">%dನಷ್ಟು ರಿಮೈಂಡರ್‌ ಹೊಂದಿಸಬಹುದು</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">ಅರ್ಧಗಂಟೆ ಹಿಂದೆ</item>
+        <item quantity="one">ಅರ್ಧಗಂಟೆ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 ಗಂಟೆಯಲ್ಲಿ</item>
+        <item quantity="one">1 ಗಂಟೆಯಲ್ಲಿ</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">ಅರ್ಧಗಂಟೆಯಲ್ಲಿ</item>
+        <item quantity="one">ಅರ್ಧಗಂಟೆಯಲ್ಲಿ</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">ಈ ಕ್ಷಣವೇ</item>
+        <item quantity="one">ಈ ಕ್ಷಣವೇ</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d ನಿಮಿಷಗಳಲ್ಲಿ</item>
+        <item quantity="one">1 ನಿಮಿಷದಲ್ಲಿ</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ಈಗ ತಾನೇ</item>
+        <item quantity="one">ಈಗ ತಾನೇ</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d ಐಟಂಗಳನ್ನು ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">%d ಐಟಂ ಆಯ್ಕೆ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="n_attendees">
+        <item quantity="other">%d ಆಹ್ವಾನಗಳು</item>
+        <item quantity="one">%d ಆಹ್ವಾನ</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d ನಿಮಿಷಗಳ ಹಿಂದೆ</item>
+        <item quantity="one">1 ನಿಮಿಷ ಹಿಂದೆ</item>
+    </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">%d ಕ್ಕಿಂತ ಹೆಚ್ಚು ಈವೆಂಟ್‌ಗಳು</item>
+        <item quantity="one">%d ಕ್ಕಿಂತ ಹೆಚ್ಚು ಈವೆಂಟ್‌</item>
+    </plurals>
+    <plurals name="other_num_todo_events">
+        <item quantity="other">%d ಇನ್ನಷ್ಟು ಕಾರ್ಯಗಳು</item>
+        <item quantity="one">%d ಇನ್ನಷ್ಟು ಕಾರ್ಯ</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" ದಿನಗಳು"</item>
+        <item quantity="one">" ದಿನ"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" ಗಂಟೆಗಳು"</item>
+        <item quantity="one">" ಗಂಟೆ"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" ನಿಮಿಷಗಳು"</item>
+        <item quantity="one">" ನಿಮಿಷ"</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">%1$d ನಿಮಿಷಗಳಲ್ಲಿ ಮುಂದಿನ ರಿಮೈಂಡರ್‌</item>
+        <item quantity="one">%1$d ನಿಮಿಷದಲ್ಲಿ ಮುಂದಿನ ರಿಮೈಂಡರ್‌</item>
+    </plurals>
+    <plurals name="repeat_custom_prompt">
+        <item quantity="other">ಪ್ರತಿ %1$s %2$s ರಂದು</item>
+        <item quantity="one">ಪ್ರತಿ %1$s %2$s ರಂದು</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d ದಿನಗಳು</item>
+        <item quantity="one">%1$d ದಿನ</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$d ತಿಂಗಳುಗಳು</item>
+        <item quantity="one">%1$d ತಿಂಗಳು</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d ವಾರಗಳು</item>
+        <item quantity="one">%1$d ವಾರ</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$d ವರ್ಷಗಳು</item>
+        <item quantity="one">%1$d ವರ್ಷ</item>
+    </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">ಇಂದು %d ಈವೆಂಟ್‌ಗಳನ್ನು ಪ್ಲ್ಯಾನ್‌ ಮಾಡಲಾಗಿದೆ</item>
+        <item quantity="one">ಇಂದು %d ಈವೆಂಟ್‌ ಪ್ಲ್ಯಾನ್‌ ಮಾಡಲಾಗಿದೆ</item>
+    </plurals>
+    <plurals name="travel_time_range_hours">
+        <item quantity="other">%d ಗಂ.ಗಳು</item>
+        <item quantity="one">%d ಗಂ</item>
+    </plurals>
+    <plurals name="travel_time_range_mins">
+        <item quantity="other">%d ನಿಮಿ.ಗಳು</item>
+        <item quantity="one">%d ನಿಮಿ</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">ವಾರ %d</item>
+        <item quantity="one">ವಾರ %d</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s ದಿನಗಳು</item>
+        <item quantity="one">%1$s ದಿನ</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d ನಡೆಯುತ್ತಿರುವ ಈವೆಂಟ್‌ಗಳು</item>
+        <item quantity="one">%d ನಡೆಯುತ್ತಿರುವ ಈವೆಂಟ್‌</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">ಮುಂದಿನ ಈವೆಂಟ್‌ %d ನಿಮಿ.ಗಳಲ್ಲಿ</item>
+        <item quantity="one">ಮುಂದಿನ ಈವೆಂಟ್‌ %d ನಿಮಿ.ದಲ್ಲಿ</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">ನಾಳೆ %d ಈವೆಂಟ್‌ಗಳು</item>
+        <item quantity="one">ನಾಳೆ %d ಈವೆಂಟ್‌</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">%d ಕಾರ್ಯ ದಿನಗಳು</item>
+        <item quantity="one">%d ಕಾರ್ಯ ದಿನ</item>
+    </plurals>
+</resources>

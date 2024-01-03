@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="korea_permission_groups_descriptions">
+        <item>Kwa kutambua vipengee vilivyosawazishwa</item>
+        <item>Kwa ajili ya kusawazisha ujumbe</item>
+        <item>Kwa kusawazisha anwani</item>
+        <item>Kwa kusawazisha matukio ya kalenda</item>
+        <item>Kwa kusawazisha vipengee na huduma zinazotumia hifadhi</item>
+    </string-array>
+    <string-array name="korea_permission_groups_names">
+        <item>Simu</item>
+        <item>SMS</item>
+        <item>Anwani</item>
+        <item>Kalenda</item>
+        <item>Hifadhi</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray">
+        <item>Sawazisha anwani zako, ujumbe, madokezo, kalenda na zaidi</item>
+        <item>Hifadhi nakala za programu, Mpangilio wa skrini ya kwanza, na pamba ukuta</item>
+        <item>Hifadhi nakala ya mipangilio muhimu, ikijumuisha Wi-Fi na mwonekano</item>
+        <item>Funga kifaa chako ukiwa mbali ikiwa kitapotea</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china">
+        <item>Sawazisha anwani zako, ujumbe, madokezo, kalenda na zaidi</item>
+        <item>Hifadhi nakala za programu, Mpangilio wa skrini ya kwanza, na pamba ukuta</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Funga kifaa chako ukiwa mbali ikiwa kitapotea</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_china_v2">
+        <item>Sawazisha anwani zako, ujumbe, madokezo, kalenda na zaidi</item>
+        <item>Hifadhi nakala za programu, Mpangilio wa skrini ya kwanza, na pamba ukuta</item>
+        <item>Back up important settings, including WLAN and display</item>
+        <item>Funga kifaa chako ukiwa mbali ikiwa kitapotea</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_pad">
+        <item>Sawazisha picha zako, madokezo, rekodi na zaidi</item>
+        <item>Funga kifaa chako ukiwa mbali ikiwa kitapotea</item>
+    </string-array>
+    <string-array name="micloud_entrance_subtitleArray_v2">
+        <item>Sawazisha anwani zako, ujumbe, madokezo, kalenda na zaidi</item>
+        <item>Hifadhi nakala za programu, Mpangilio wa skrini ya kwanza, na pamba ukuta</item>
+        <item>Hifadhi nakala ya mipangilio muhimu, ikijumuisha Wi-Fi na mwonekano</item>
+        <item>Funga kifaa chako ukiwa mbali ikiwa kitapotea</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray">
+        <item>Sawazisha data ya programu</item>
+        <item>Hifadhi nakala ya mpangilio wa Skrini ya kwanza</item>
+        <item>Hifadhi nakala za mipangilio ya mfumo</item>
+        <item>Tafuta kifaa</item>
+    </string-array>
+    <string-array name="micloud_entrance_titleArray_pad">
+        <item>Sawazisha data ya programu</item>
+        <item>Tafuta kifaa</item>
+    </string-array>
+    <string-array name="privacy_dialog_finddevice_runtime_perm_desc_new">
+        <item>Kwa ajili ya kupata kifaa chako na kubadilisha kwa Hali ya simu kupotea</item>
+        <item>Kwa kupata kifaa hiki wakati hakijaunganishwa kwenye mtandao</item>
+        <item>Ili kupata nambari ya simu ili kupata kifaa hiki kikiwa hakijaunganishwa kwenye intaneti</item>
+    </string-array>
+    <string-array name="settings_search_backup_manage">
+        <item>Nakala</item>
+        <item>Vipengee vilivyohifadhiwa nakala</item>
+        <item>Wingu;Hifadhi nakala;Hifadhi; Huduma za Wingu;Wingu la Xiaomi;Skrini ya kwanza;Mpangilio;Programu;Dhibiti nakala;Rejesha</item>
+    </string-array>
+    <string-array name="settings_search_backup_setting">
+        <item>Hifadhi nakala ya Skrini ya kwanza kwenye Wingu la Xiaomi</item>
+        <item>Hifadhi nakala ya mpangilio wa Skrini ya kwanza, orodha ya programu zilizosakinishwa, na mipangilio ya mfumo</item>
+        <item>Wingu;Hifadhi nakala;Hifadhi; Huduma za Wingu;Wingu la Xiaomi;Skrini ya kwanza;Mpangilio;Programu; Mipangilio;Marudio ya nakala;Dhibiti nakala;Rejesha</item>
+    </string-array>
+    <string-array name="settings_search_browser">
+        <item>Sawazisha Kivinjari na Wingu la Xiaomi</item>
+        <item>Washa usawazishaji</item>
+        <item>Kivinjari;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_calendar">
+        <item>Sawazisha Kalenda na Wingu la Xiaomi</item>
+        <item>Washa usawazishaji</item>
+        <item>Kalenda;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_contacts">
+        <item>Sawazisha anwani na Wingu la Xiaomi</item>
+        <item>Washa/weka usawazishaji</item>
+        <item>Anwani;Rekodi ya simu zilizopigwa;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_dial">
+        <item>Sawazisha rekodi ya simu na Wingu la Xiaomi</item>
+        <item>Washa/weka usawazishaji</item>
+        <item>Rekodi ya simu zilizopigwa;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_find_pad">
+        <item>Tafuta kifaa</item>
+        <item>Futa data na ufunge kifaa chako kikipotea</item>
+        <item>Tafuta kifaa;Kimepotea;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_find_phone">
+        <item>Tafuta kifaa</item>
+        <item>Futa data na ufunge kifaa chako kikipotea</item>
+        <item>Tafuta kifaa;Kimepotea;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_gallery">
+        <item>Sawazisha Matunzio na Wingu la Xiaomi</item>
+        <item>Washa/weka usawazishaji</item>
+        <item>Matunzio;Picha;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_notes">
+        <item>Sawazisha madokezo na Wingu la Xiaomi</item>
+        <item>Washa usawazishaji</item>
+        <item>Madokezo;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_notes_v2">
+        <item>Sawazisha madokezo na Wingu la Xiaomi</item>
+        <item>Washa usawazishaji</item>
+        <item>Madokezo;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_personal_assistant">
+        <item>Sawazisha App vault na Wingu la Xiaomi</item>
+        <item>Washa usawazishaji</item>
+        <item>App vault;Kadi;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_phrase">
+        <item>Sawazisha majibu ya haraka</item>
+        <item>Washa usawazishaji</item>
+        <item>Majibu ya haraka;Ubao wa kunakili;Mhariri;Wingu;Sawazisha;Huduma za Wingu</item>
+    </string-array>
+    <string-array name="settings_search_recorder">
+        <item>Sawazisha rekodi na Wingu la Xiaomi</item>
+        <item>Washa/weka usawazishaji</item>
+        <item>Kinasa sauti;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin">
+        <item>Vipengee vilivyofutwa kwenye Wingu la Xiaomi</item>
+        <item>Rejesha anwani, picha, ujumbe na zaidi</item>
+        <item>Taka;Vipengee vilivyofutwa; Pipa la taka;Rejesha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_recycle_bin_pad">
+        <item>Vipengee vilivyofutwa kwenye Wingu la Xiaomi</item>
+        <item>Rejesha picha, madokezo na zaidi</item>
+        <item>Taka;Vipengee vilivyofutwa; Pipa la taka;Rejesha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_restore_device">
+        <item>Rejesha vipengee kutoka kwa Wingu la Xiaomi</item>
+        <item>Pakua vipengee vilivyohifadhiwa nakala kwenye kifaa chako</item>
+        <item>Wingu;Hifadhi nakala;Hifadhi;Rudisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_security">
+        <item>Usawazishaji wa wingu wa usalama</item>
+        <item>Washa usawazishaji</item>
+        <item>Usalama;Wingu;Wingu la Xiaomi;Sawazisha;Huduma za Wingu</item>
+    </string-array>
+    <string-array name="settings_search_security_pad">
+        <item>Usawazishaji wa wingu wa usalama</item>
+        <item>Washa usawazishaji</item>
+        <item>Usalama;Wingu;Wingu la Xiaomi;Sawazisha;Huduma za Wingu</item>
+    </string-array>
+    <string-array name="settings_search_sms">
+        <item>Sawazisha jumbe na Wingu la Xiaomi</item>
+        <item>Washa/weka usawazishaji</item>
+        <item>Jumbe;SMS;MMS;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_subscribe_vip">
+        <item>Uanachama wa Wingu la Xiaomi</item>
+        <item>Boresha uanachama wako, upate nafasi zaidi ya kuhifadhi na ulinde data yako</item>
+        <item>Hifadhi haitoshi;Uanachama;Hifadhi;Nafasi ya kuhifadhi;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi;Kubwa zaidi;Ultra;VIP;Hifadhi nakala;Hifadhi;Rejesha;Taka;Vipengee vilivyofutwa;Pipa la taka</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage">
+        <item>Wingu la Xiaomi. Huduma zote za Mi katika sehemu moja.</item>
+        <item>Fikia picha, anwani, ujumbe na vifaa vyako kutoka popote</item>
+        <item>Hifadhi haitoshi;Uanachama;Hifadhi;Nafasi ya kuhifadhi;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi;Tupio;Vipengee vilivyofutwa;Usalama</item>
+    </string-array>
+    <string-array name="settings_search_sync_manage_pad">
+        <item>Wingu la Xiaomi. Huduma zote za Mi katika sehemu moja.</item>
+        <item>Fikia picha, madokezo na vifaa vyako kutoka popote</item>
+        <item>Hifadhi haitoshi;Uanachama;Hifadhi;Nafasi ya kuhifadhi;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi;Tupio;Vipengee vilivyofutwa;Usalama</item>
+    </string-array>
+    <string-array name="settings_search_wlan">
+        <item>Sawazisha mipangilio ya Wi-Fi na Wingu la Xiaomi</item>
+        <item>Washa usawazishaji</item>
+        <item>WLAN;wifi;Wi-Fi;Wingu;Sawazisha;Huduma za Wingu;Wingu la Xiaomi</item>
+    </string-array>
+    <string-array name="settings_search_wlan_china">
+        <item>Sync WLAN settings with Xiaomi Cloud</item>
+        <item>Turn on sync</item>
+        <item>WLAN;wifi;Wi-Fi;Cloud;Sync;Cloud services;Xiaomi Cloud</item>
+    </string-array>
+</resources>

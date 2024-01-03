@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="current_page_number">
+        <item quantity="other">Unatazama ukurasa %d</item>
+        <item quantity="one">Unatazama ukurasa %d</item>
+    </plurals>
+    <plurals name="total_pages">
+        <item quantity="other">Jumla ya kurasa %d</item>
+        <item quantity="one">Jumla ya ukurasa %d</item>
+    </plurals>
+</resources>

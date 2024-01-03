@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sistem güvenlik bileşenleri</string>
+    <string name="avl_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve AVL sunucularına yükler (%s)</string>
+    <string name="avl_dialog_policy">Gizlilik politikası</string>
+    <string name="avl_dialog_title">"AVL'nin gizlilik politikası"</string>
+    <string name="call_notification_answer_action">Yanıtla</string>
+    <string name="call_notification_answer_video_action">Video</string>
+    <string name="call_notification_decline_action">Reddet</string>
+    <string name="call_notification_hang_up_action">Kapat</string>
+    <string name="call_notification_incoming_text">Gelen arama</string>
+    <string name="call_notification_ongoing_text">Devam eden arama</string>
+    <string name="call_notification_screening_text">Gelen aramayı tarama</string>
+    <string name="tencent_dialog_cloudscan">Çevrimiçi virüs tanımlarını kullanarak uygulama adlarını ve ayrıntılarını yükleyin ve tarayın</string>
+    <string name="tencent_dialog_dbupdate">Virüs tanımlarını otomatik olarak güncelle</string>
+    <string name="tencent_dialog_header">Bu özellik cihazınızın kimliğini şifreler ve Tencent sunucularına yükler (%s)</string>
+    <string name="tencent_dialog_policy">Gizlilik politikası</string>
+    <string name="tencent_dialog_title">Tencent'in gizlilik politikası</string>
+    <string name="threat_type_adware_desc">Bu uygulama reklamları uygunsuz şekillerde görüntüler ve pili tüketir veya sistem kaynaklarını kötüye kullanır</string>
+    <string name="threat_type_backdoor_desc">Bu uygulama kodu uzaktan çalıştırarak sizi ve cihazınızı güvenlik risklerine maruz bırakabilir</string>
+    <string name="threat_type_default_desc">Bu uygulama güvenlik riskleri içeriyor ve pili tüketiyor veya sistem kaynaklarını kötüye kullanıyor</string>
+    <string name="threat_type_exploit_desc">Bu uygulama cihaz özelliklerini değiştirebilir veya gizliliğinizi tehlikeye atacak kötü amaçlı kod çalıştırabilir</string>
+    <string name="threat_type_hacktool_desc">Bu uygulama hackleme yoluyla cihazınızın özelliklerini veya davranışını değiştirebilir ve cihaz güvenliğini etkileyebilir</string>
+    <string name="threat_type_monitoring_desc">Bu uygulama özel verilerinizi izleyebilir veya toplayabilir</string>
+    <string name="threat_type_rootkit_desc">"Bu uygulama gizlenebilir ve sistemde düşündüğünüzden daha uzun süre kalabilir, bu da veri güvenliğini tehlikeye atabilir"</string>
+    <string name="threat_type_spyware_desc">Bu uygulama özel verilerinizi çalabilir</string>
+    <string name="threat_type_trackware_desc">Bu uygulama özel verilerinizi izler ve sızdırabilir veya ifşa edebilir</string>
+    <string name="threat_type_trojan_desc">Bu uygulama Truva atı yazılımı kullanıyor olabilir ve belirli koşullar karşılandığında kötü amaçlı kod çalıştıracaktır</string>
+    <string name="threat_type_virus_desc">Bu uygulama cihazınızı ve içindeki verileri tehlikeye atabilecek bir virüstür</string>
+    <string name="threat_type_worm_desc">Bu uygulama virüs içerebilir ve bunları diğer cihazlara yayabilir</string>
+</resources>

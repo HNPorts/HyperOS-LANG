@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="miuix_label_text_size_small">4.5dip</dimen>
+    <item type="dimen" name="pc_charge_times_margin_bottom">@dimen/dp_16</item>
+    <item type="dimen" name="pc_temp_value_margin_bottom">@dimen/dp_16</item>
+</resources>

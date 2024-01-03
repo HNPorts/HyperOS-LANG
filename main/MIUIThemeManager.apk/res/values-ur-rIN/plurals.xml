@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 گھنٹہ قبل</item>
+        <item quantity="one">1 گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d گھنٹہ پہلے</item>
+        <item quantity="one">%d گھنٹہ پہلے</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">آدھا گھنٹہ قبل</item>
+        <item quantity="one">آدھا گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">%d گھنٹہ میں</item>
+        <item quantity="one">%d گھنٹہ میں</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">آدھا گھنٹہ میں</item>
+        <item quantity="one">آدھا گھنٹہ میں</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">فوراً</item>
+        <item quantity="one">فوراً</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">%d منٹ میں</item>
+        <item quantity="one">%d منٹ میں</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">ابھی ابھی</item>
+        <item quantity="one">ابھی ابھی</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d منٹ پہلے</item>
+        <item quantity="one">%d منٹ پہلے</item>
+    </plurals>
+    <plurals name="account_coins_num">
+        <item quantity="other">%1s سکے</item>
+        <item quantity="one">%1s سکہ</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">ماحولیاتی دباؤ: %s ہیکٹوپاسکل</item>
+        <item quantity="one">ماحولیاتی دباؤ: %s ہیکٹوپاسکل</item>
+    </plurals>
+    <plurals name="confirm_delete_tasks">
+        <item quantity="other">‎%d ٹاسکس ابھی حذف کریں؟</item>
+        <item quantity="one">‎%d ٹاسک ابھی حذف کریں؟</item>
+    </plurals>
+    <plurals name="delete_tasks_successfully">
+        <item quantity="other">%d ٹاسک کامیابی سے حذف کر دیے گئے</item>
+        <item quantity="one">%d ٹاسک کامیابی سے حذف کر دیا گیا</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">آدھا گھنٹہ قبل</item>
+        <item quantity="one">آدھا گھنٹہ قبل</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">%1$s کیلوری جلائی</item>
+        <item quantity="one">%1$s کیلوری جلائی</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">کیلوری ہدف: %1$s کیلوری</item>
+        <item quantity="one">کیلوری ہدف: %1$s کیلوری</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s کلو کیلوری</item>
+        <item quantity="one">%1$s/%2$s کلو کیلوری</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">سرگرمی کا وقت: %1$s منٹ</item>
+        <item quantity="one">سرگرمی کا وقت: %1$s منٹ</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">سرگرمی کا ہدف: %1$s منٹ</item>
+        <item quantity="one">سرگرمی کا ہدف: %1$s منٹ</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s منٹ</item>
+        <item quantity="one">%1$s/%2$s منٹ</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">%1$s گھنٹوں کے اندر کھڑے ہوئے</item>
+        <item quantity="one">%1$s گھنٹہ کے اندر کھڑے ہوئے</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">کھڑے ہونے کا ہدف: %1$s گھنٹے</item>
+        <item quantity="one">کھڑے ہونے کا ہدف: %1$s گھنٹہ</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s گھنٹے</item>
+        <item quantity="one">%1$s/%2$s گھنٹہ</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">موجودہ قدم شمار: %1$s قدم</item>
+        <item quantity="one">موجودہ قدم شمار: %1$s قدم</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">قدم ہدف: %1$s قدم</item>
+        <item quantity="one">قدم ہدف: %1$s قدم</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s قدم</item>
+        <item quantity="one">%1$s/%2$s قدم</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">1 گھنٹہ میں</item>
+        <item quantity="one">1 گھنٹہ میں</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">آدھا گھنٹہ میں</item>
+        <item quantity="one">آدھا گھنٹہ میں</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">فوری طور پر</item>
+        <item quantity="one">فوراً</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">%d منٹ میں</item>
+        <item quantity="one">1 منٹ میں</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">ابھی ابھی</item>
+        <item quantity="one">ابھی ابھی</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d آئٹمز منتخب کیے گئے</item>
+        <item quantity="one">%d آئٹم منتخب ہوا</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d منٹ قبل</item>
+        <item quantity="one">1 منٹ پہلے</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"%1$d سکے = %2$d آئی ڈی آر
+سکے قابل ریفنڈ نہیں ہیں"</item>
+        <item quantity="one">"%1$d سکہ = %2$d آئی ڈی آر
+سکے قابل ریفنڈ نہیں ہیں"</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">%d کام</item>
+        <item quantity="one">%d کام</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_one">
+        <item quantity="other">"%d آرڈر کامیابی کے ساتھ ریفنڈ کر دیے گئے۔ "</item>
+        <item quantity="one">"%d آرڈر کامیابی کے ساتھ ریفنڈ کر دیا گیا۔ "</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_two">
+        <item quantity="other">آپ کے سکے %d گھنٹے کے اندر جمع ہو جائیں گے۔</item>
+        <item quantity="one">آپ کے سکے %d گھنٹہ کے اندر جمع ہو جائیں گے۔</item>
+    </plurals>
+    <plurals name="purchase_refund_success_notice">
+        <item quantity="other">آپ کا ریفنڈ پراسیس کر دیا گیا ہے۔ آپ کے سکے %d گھنٹے کے اندر جمع کر دیے جائیں گے۔</item>
+        <item quantity="one">آپ کا ریفنڈ پراسیس کر دیا گیا ہے۔ آپ کے سکے %d گھنٹہ کے اندر جمع کر دیے جائیں گے۔</item>
+    </plurals>
+    <plurals name="purchased_authorizing_dialog_content">
+        <item quantity="other">اس میں کچھ وقت لگ سکتا ہے۔ اگر آپ خریدے گئے آئٹمز کو %d گھنٹے میں موصول نہیں کرتے ہیں, تو ہمیں مسئلہ کے بارے میں بتانے کے لیے فیڈ بیک جمع کریں۔</item>
+        <item quantity="one">اس میں کچھ وقت لگ سکتا ہے۔ اگر آپ خریدے گئے آئٹمز کو %d گھنٹہ میں موصول نہیں کرتے ہیں, تو ہمیں مسئلہ کے بارے میں بتانے کے لیے فیڈ بیک جمع کریں۔</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data>ادائیگی مکمل کرنے کے ذریعہ, آپ &lt;a href=\"%1$s\">دروں ایپ خریداریوں کی نوٹس&lt;/a> سے اتفاق کرتے ہیں۔&lt;br>خریداری کرنے کے &lt;xliff:g id=time>%2$d&lt;/xliff:g> گھنٹے بعد ریفنڈ دستیاب ہیں۔&lt;/Data></item>
+        <item quantity="one">&lt;Data>ادائیگی مکمل کرنے کے ذریعہ, آپ &lt;a href=\"%1$s\">دروں ایپ خریداریوں کی نوٹس&lt;/a> سے اتفاق کرتے ہیں۔&lt;br>خریداری کرنے کے &lt;xliff:g id=time>%2$d&lt;/xliff:g> گھنٹہ بعد ریفنڈ دستیاب ہیں۔&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">آرڈر %d گھنٹے زیادہ سے پہلے مکمل ہو گیا تھا۔ ہمیں ایک ای میل بھیجیں۔</item>
+        <item quantity="one">آرڈر %d گھنٹہ زیادہ سے پہلے مکمل ہو گیا تھا۔ ہمیں ایک ای میل بھیجیں۔</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">آپ %d گھنٹے کے اندر سکے موصول کریں گے۔</item>
+        <item quantity="one">آپ %d گھنٹہ کے اندر سکے موصول کریں گے۔</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">کامیابی کے ساتھ %1$s فانٹ ڈاؤن لوڈ کیے گئے</item>
+        <item quantity="one">کامیابی کے ساتھ %1$s فانٹ ڈاؤن لوڈ کیا گیا</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">کامیابی کے ساتھ %1$s تھیم ڈاؤن لوڈ کیے گئے</item>
+        <item quantity="one">کامیابی کے ساتھ %1$s تھیم ڈاؤن لوڈ کیا گیا</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">%1$s کام</item>
+        <item quantity="one">%1$s کام</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">%1$s | %2$d تصاویر</item>
+        <item quantity="one">%1$s | %2$d تصویر</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">درجہ حرارت: %1$s ڈگری, %2$s</item>
+        <item quantity="one">درجہ حرارت: %1$s ڈگری, %2$s</item>
+    </plurals>
+</resources>

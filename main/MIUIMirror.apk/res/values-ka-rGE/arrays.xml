@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>მოწყობილობის ურთიერთდაკავშირების სერვისები</item>
+        <item>დაკავშირება და გაზიარება/მოწყობილობის ურთიერთდაკავშირების სერვისები</item>
+        <item>ეკრანის კომბინაცია; დუეტი; მრავალეკრანი; დუო;კომპიუტერი;სარკე;მოწყობილობების ურთიერთდაკავშირების სერვისები</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>დაკავშირება QR კოდის გამოყენებით ვერ ხერხდება?</item>
+        <item>მობილური მოწყობილობების პოვნა თქვენი კომპიუტერის გამოყენებით ვერ ხერხდება?</item>
+        <item>თქვენი მობილური მოწყობილობის დაბლოკვა ვერ ხერხდება?</item>
+        <item>თავსებადობა</item>
+    </string-array>
+</resources>

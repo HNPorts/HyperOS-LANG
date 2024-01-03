@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="alert_message_delete">
+        <item quantity="other">Ungependa kufuta vipengee %1$s?</item>
+        <item quantity="one">Ungependa kufuta kipengee %1$s?</item>
+    </plurals>
+    <plurals name="cloud_state_unsynced_count">
+        <item quantity="other">Vipengee %1$s havijasawazishwa</item>
+        <item quantity="one">Kipengee %1$s hakijasawazishwa</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">Siku %1$d baadaye</item>
+        <item quantity="one">Siku %1$d baadaye</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">Siku %1$d kabla</item>
+        <item quantity="one">Siku %1$d kabla</item>
+    </plurals>
+    <plurals name="format_move_notes_out_folder">
+        <item quantity="other">Madokezo %1$s yameondolewa kwenye folda</item>
+        <item quantity="one">Dokezo %1$s limeondolewa kwenye folda</item>
+    </plurals>
+    <plurals name="format_move_notes_to_folder">
+        <item quantity="other">Madokezo %1$s yamehamishwa hadi %2$s</item>
+        <item quantity="one">Dokezo %1$s limehamishwa hadi %2$s</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="pc_notes_search_result">
+        <item quantity="other">Imepata madokezo %1$s</item>
+        <item quantity="one">Imepata dokezo %1$s</item>
+    </plurals>
+    <plurals name="pc_todo_search_result">
+        <item quantity="other">Imepata kazi %1$s</item>
+        <item quantity="one">Imepata kazi %1$s</item>
+    </plurals>
+    <plurals name="record_last_ten_seconds_reminder">
+        <item quantity="other">Imesalia sekunde %d</item>
+        <item quantity="one">Imesalia sekunde %d</item>
+    </plurals>
+    <plurals name="toast_notes_unhidden_count">
+        <item quantity="other">Imefanikiwa kufichua madokezo %1$s</item>
+        <item quantity="one">Imefanikiwa kufichua dokezo %1$s</item>
+    </plurals>
+    <plurals name="todo_N_days_after">
+        <item quantity="other">Katika siku %1$d</item>
+        <item quantity="one">Katika siku %1$d</item>
+    </plurals>
+    <plurals name="todo_N_days_ago">
+        <item quantity="other">Siku %1$d zilizopita</item>
+        <item quantity="one">Siku %1$d iliyopita</item>
+    </plurals>
+    <plurals name="todo_alert_message_delete">
+        <item quantity="other">Ungependa kufuta kazi %1$s?</item>
+        <item quantity="one">Ungependa kufuta kazi %1$s?</item>
+    </plurals>
+    <plurals name="todo_event_description_days_ago">
+        <item quantity="other">Siku %1$d zilizopita</item>
+        <item quantity="one">Siku %1$d iliyopita</item>
+    </plurals>
+    <plurals name="todo_event_description_days_later">
+        <item quantity="other">Katika siku %1$d</item>
+        <item quantity="one">Katika siku %1$d</item>
+    </plurals>
+    <plurals name="todo_terms">
+        <item quantity="other">Kazi %1$s</item>
+        <item quantity="one">Kazi %1$s</item>
+    </plurals>
+    <plurals name="word_count">
+        <item quantity="other">Herufi %d</item>
+        <item quantity="one">herufi %d</item>
+    </plurals>
+</resources>

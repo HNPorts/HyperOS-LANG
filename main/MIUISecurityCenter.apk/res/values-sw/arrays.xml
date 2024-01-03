@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alarm_repeat_type">
+        <item>Mara moja</item>
+        <item>Kila siku</item>
+        <item>Siku za kazi za kisheria</item>
+        <item>Siku za wiki</item>
+        <item>Maalum</item>
+    </string-array>
+    <string-array name="alarm_repeat_type_no_workdays">
+        <item>Mara moja</item>
+        <item>Kila siku</item>
+        <item>Siku za wiki</item>
+        <item>Maalum</item>
+    </string-array>
+    <string-array name="app_behavior_type_menu">
+        <item>Rekodi zote</item>
+        <item>Anzisha kiotomatiki</item>
+        <item>Programu kuzindua programu nyingine kichinichini.</item>
+        <item>Kutumia ruhusa</item>
+        <item>Vitendo nyeti</item>
+    </string-array>
+    <string-array name="applock_password_types">
+        <item>Ruwaza</item>
+        <item>PIN</item>
+        <item>Nenosiri</item>
+    </string-array>
+    <string-array name="cache_sort_type">
+        <item>Ukubwa</item>
+        <item>Jina</item>
+    </string-array>
+    <string-array name="cellular_data_unit">
+        <item>GB</item>
+        <item>MB</item>
+    </string-array>
+    <string-array name="cellular_package_type">
+        <item>Mpango wa mwezi</item>
+        <item>Bila kikomo</item>
+        <item>Mpango wa kila siku</item>
+    </string-array>
+    <string-array name="daily_brand">
+        <item>Maalum</item>
+        <item>Kadi ya shabiki wa Xiaomi</item>
+        <item>Kadi ya Xiao Tiansheng</item>
+        <item>Tencent King kadi</item>
+    </string-array>
+    <string-array name="daily_rent_card_brands">
+        <item>Maalum</item>
+        <item>Mi Mobile</item>
+        <item>Kadi ya shabiki wa Xiaomi</item>
+        <item>Kadi ya Tianshen</item>
+        <item>Kadi ya tencent</item>
+    </string-array>
+    <string-array name="date_of_app_all">
+        <item>"Jana (data ya mtandao wa simu) "</item>
+        <item>"Leo (data ya mtandao wa simu) "</item>
+        <item>"Mwezi uliopita (data ya mtandao wa simu) "</item>
+        <item>"Mwezi huu (data ya mtandao wa simu) "</item>
+        <item>"Jana (Wi-Fi) "</item>
+        <item>"Leo (Wi-Fi) "</item>
+        <item>"Mwezi uliopita (Wi-Fi) "</item>
+        <item>"Mwezi huu (Wi-Fi) "</item>
+    </string-array>
+    <string-array name="date_of_traffic">
+        <item>"Jana "</item>
+        <item>"Leo "</item>
+        <item>"Mwezi uliopita "</item>
+        <item>"Mwezi huu "</item>
+    </string-array>
+    <string-array name="date_of_traffic_cmcc">
+        <item>"Wiki hii "</item>
+        <item>"Leo "</item>
+        <item>"Mwezi huu "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix">
+        <item>"Jana: "</item>
+        <item>"Leo: "</item>
+        <item>"Mwezi uliopita: "</item>
+        <item>"Mwezi huu: "</item>
+    </string-array>
+    <string-array name="date_of_traffic_prefix_cmcc">
+        <item>"Wiki hii "</item>
+        <item>"Leo: "</item>
+        <item>"Mwezi huu: "</item>
+    </string-array>
+    <string-array name="debug_open_intercept">
+        <item>Itawezekana kufikia na kuhariri faili kwenye kifaa chako kwa kutumia kompyuta.</item>
+        <item>Kusakinisha programu kwenye kifaa chako bila ruhusa yako dhahiri kutaruhusiwa.</item>
+        <item>Utaweza kufuatilia na kurekodi maudhui ya skrini yako ukiwa mbali.</item>
+        <item>Itawezekana kufikia taarifa ya kina kuhusu kifaa chako.</item>
+    </string-array>
+    <string-array name="exo_controls_playback_speeds">
+        <item>0.25x</item>
+        <item>0.5x</item>
+        <item>0.75x</item>
+        <item>Ya kawaida</item>
+        <item>1.25x</item>
+        <item>1.5x</item>
+        <item>2x</item>
+    </string-array>
+    <string-array name="gb_adv_touch_custom_level">
+        <item>Chini kabisa</item>
+        <item>Chini</item>
+        <item>Kawaida</item>
+        <item>Juu</item>
+        <item>Juu zaidi</item>
+    </string-array>
+    <string-array name="gb_voice_change_gender">
+        <item>@string/gb_voice_changer_gender_man</item>
+        <item>@string/gb_voice_changer_gender_female</item>
+    </string-array>
+    <string-array name="input_package_names">
+        <item>com.baidu.input_mi</item>
+        <item>com.iflytek.inputmethod.miui</item>
+        <item>com.sohu.inputmethod.sogou.xiaomi</item>
+    </string-array>
+    <string-array name="key_app_info">
+        <item>install_source</item>
+        <item>install_time</item>
+        <item>update_source</item>
+        <item>update_time</item>
+    </string-array>
+    <string-array name="lock_mode">
+        <item>Wakati kifaa kimefungwa</item>
+        <item>Wakati kifaa kimefungwa au baada ya kuondoka kwenye programu</item>
+        <item>Wakati kifaa kimefungwa au baada ya dakika 1 baada ya kuondoka kwenye programu</item>
+    </string-array>
+    <string-array name="mi_service_traffic_type">
+        <item>"Matumizi ya simu "</item>
+        <item>"matumizi ya Wi-Fi "</item>
+    </string-array>
+    <string-array name="miui_optimization_close_intercept">
+        <item>Muhimu: Programu nyingi za mfumo zinaweza kukoma kufanya kazi vizuri.</item>
+        <item>Mipangilio ya maandishi, akaunti, na maudhui huenda yasionyeshwe ipasavyo.</item>
+    </string-array>
+    <string-array name="operate_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="operate_memory_entries">
+        <item>@string/auto_task_operation_open</item>
+        <item>@string/auto_task_operation_close</item>
+        <item>@string/auto_task_operation_no_op</item>
+    </string-array>
+    <string-array name="operate_memory_entryValues">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="over_limit_traffic_waring_style">
+        <item>Onyesha onyo</item>
+        <item>Onya na uzime data ya mtandao wa simu</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/power_center_battery_all</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_battery_history_spinner_choice_new">
+        <item>@string/pc_battery_history_consume_rank_menu_item</item>
+        <item>@string/power_center_battery_all</item>
+        <item>@string/power_center_battery_software</item>
+        <item>@string/power_center_battery_hardware</item>
+        <item>@string/pc_battery_history_battery_detail_menu_item</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry">
+        <item>10%</item>
+        <item>20%</item>
+        <item>30%</item>
+        <item>40%</item>
+        <item>50%</item>
+    </string-array>
+    <string-array name="pc_fast_charge_entry_value">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_entries">
+        <item>Chaguomsingi</item>
+        <item>Tanguliza utendakazi</item>
+    </string-array>
+    <string-array name="pc_settings_thermal_summaries">
+        <item>Kwa kutumia hali chaguomsingi ya kudhibiti halijoto</item>
+        <item>Tanguliza utendakazi</item>
+    </string-array>
+    <string-array name="perm_intercept_notification">
+        <item>Soma arifa zako zote, ikiwa ni pamoja na maudhui ya SMS zako na vipengee vingine ambavyo vinaweza kuwa na taarifa ya kibinafsi</item>
+        <item>Zuia ruhusa za arifa kwa baadhi ya programu</item>
+        <item>Iga arifa za kugonga na ufungue programu</item>
+        <item>Washa na uzime hali ya DND</item>
+    </string-array>
+    <string-array name="perm_intercept_statitics">
+        <item>Kusanya data kuhusu mambo yanayokuvutia na tabia yako kwa kujifunza programu unazotumia na mara ngapi unazitumia</item>
+        <item>Fikia mipangilio ya lugha inayohusiana na mtoa huduma wako, pamoja na taarifa mengine</item>
+    </string-array>
+    <string-array name="perm_intercept_unknown_source">
+        <item>Programu za wahusika wengine ambazo hazijathibitishwa zinaweza kusababisha matatizo mengi na kupunguza uthabiti wa mfumo.</item>
+        <item>Baadhi ya programu za wahusika wengine zinaweza kuwa na programu hasidi ambayo inahatarisha data yako ya kibinafsi.</item>
+    </string-array>
+    <string-array name="priority_storage_entries">
+        <item>Hifadhi ya ndani</item>
+        <item>Hifadhi ya nje</item>
+    </string-array>
+    <string-array name="roaming_network_type">
+        <item>Kila mara</item>
+        <item>Ya vighairi pekee</item>
+        <item>Kamwe</item>
+    </string-array>
+    <string-array name="sms_report_type">
+        <item>Matumizi ya data</item>
+        <item>Salio la simu</item>
+    </string-array>
+    <string-array name="sort_title_new">
+        <item>Inapanga kwa jina la programu</item>
+        <item>Inapangwa kwa iliyotumika hivi karibuni</item>
+        <item>Inapanga kwa hifadhi iliyotumika</item>
+        <item>Inapanga kwa muda wa usakinishaji</item>
+    </string-array>
+    <string-array name="sort_type_new">
+        <item>Jina la programu</item>
+        <item>Imetumika hivi karibuni</item>
+        <item>Hifadhi iliyotumika</item>
+        <item>Muda wa usakinishaji</item>
+    </string-array>
+    <string-array name="tether_limit_warn_type">
+        <item>Zima na uarifu</item>
+        <item>Arifu pekee</item>
+    </string-array>
+    <string-array name="title_app_info">
+        <item>Chanzo cha ufungaji</item>
+        <item>Muda wa usakinishaji</item>
+        <item>Chanzo cha sasisho la mwisho</item>
+        <item>Muda wa sasisho la mwisho</item>
+    </string-array>
+    <string-array name="traffic_package_type">
+        <item>Mpango wa data wa mwezi</item>
+        <item>Mpango wa data wa kila siku</item>
+        <item>Mpango wa data usio na kikomo</item>
+    </string-array>
+    <string-array name="traffic_type">
+        <item>"Matumizi ya data ya mtandao wa simu "</item>
+        <item>"matumizi ya Wi-Fi "</item>
+    </string-array>
+</resources>

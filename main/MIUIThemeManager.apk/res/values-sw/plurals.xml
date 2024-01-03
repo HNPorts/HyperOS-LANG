@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="account_coins_num">
+        <item quantity="other">Sarafu %1s</item>
+        <item quantity="one">Sarafu %1s</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Kanieneo angahewa : hektopaskali %s</item>
+        <item quantity="one">Kanieneo angahewa : hektopaskali %s</item>
+    </plurals>
+    <plurals name="confirm_delete_tasks">
+        <item quantity="other">Je, ungependa kufuta kazi %d sasa?</item>
+        <item quantity="one">Je, ungependa kufuta kazi %d sasa?</item>
+    </plurals>
+    <plurals name="delete_tasks_successfully">
+        <item quantity="other">Imefuta kazi %d kwa mafanikio</item>
+        <item quantity="one">Imefuta kazi %d kwa mafanikio</item>
+    </plurals>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="other">Sogeza mbele haraka kwa sekunde %d</item>
+        <item quantity="one">Sogeza mbele haraka kwa sekunde %d</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="other">Rudisha nyuma kwa sekunde %d</item>
+        <item quantity="one">Rudisha nyuma kwa sekunde %d</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Umechoma Kalori %1$s</item>
+        <item quantity="one">Umechoma Kalori %1$s</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Lengo la kalori: Kalori %1$s</item>
+        <item quantity="one">Lengo la kalori: Kalori %1$s</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kilokalori</item>
+        <item quantity="one">%1$s/%2$s kilokalori</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Muda wa shughuli: dakika %1$s</item>
+        <item quantity="one">Muda wa shughuli: dakika %1$s</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Lengo la shughuli: dakika %1$s</item>
+        <item quantity="one">Lengo la shughuli: dakika %1$s</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s dakika</item>
+        <item quantity="one">%1$s/%2$s dakika</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Ulisimama ndani ya saa %1$s</item>
+        <item quantity="one">Ulisimama ndani ya saa %1$s</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Lengo la kusimama: saa %1$s</item>
+        <item quantity="one">Lengo la kusimama: saa %1$s</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s saa</item>
+        <item quantity="one">%1$s/%2$s saa</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Hesabu ya sasa ya hatua: hatua %1$s</item>
+        <item quantity="one">Hesabu ya sasa ya hatua: hatua %1$s</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Lengo la hatua: hatua %1$s</item>
+        <item quantity="one">Lengo la hatua: hatua %1$s</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s hatua</item>
+        <item quantity="one">%1$s/%2$s hatua</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="payment_coins_tips">
+        <item quantity="other">"Sarafu %1$d = %2$d IDR
+Sarafu hazirudishwi"</item>
+        <item quantity="one">"Sarafu %1$d = %2$d IDR
+Sarafu hazirudishwi"</item>
+    </plurals>
+    <plurals name="portfolio">
+        <item quantity="other">Kazi %d</item>
+        <item quantity="one">Kazi %d</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_one">
+        <item quantity="other">Maagizo ya %d yamerejeshwa kwa mafanikio</item>
+        <item quantity="one">"Agizo la%d limerejeshwa kwa mafanikio. "</item>
+    </plurals>
+    <plurals name="purchase_refund_success_diag_notice_two">
+        <item quantity="other">Sarafu zako zitawekwa ndani ya saa %d.</item>
+        <item quantity="one">Sarafu zako zitawekwa ndani ya saa %d.</item>
+    </plurals>
+    <plurals name="purchase_refund_success_notice">
+        <item quantity="other">Pesa zako zimechakatwa. Sarafu zako zitawekwa ndani ya saa %d.</item>
+        <item quantity="one">Pesa zako zimechakatwa. Sarafu zako zitawekwa ndani ya saa %d.</item>
+    </plurals>
+    <plurals name="purchased_authorizing_dialog_content">
+        <item quantity="other">Hii inaweza kuchukua muda kidogo. Ikiwa hujapokea bidhaa ulizonunua ndani ya saa %d, wasilisha maoni ili utufahamishe kuhusu tatizo.</item>
+        <item quantity="one">Hii inaweza kuchukua muda kidogo. Ikiwa hujapokea bidhaa ulizonunua ndani ya saa %d, wasilisha maoni ili utufahamishe kuhusu tatizo.</item>
+    </plurals>
+    <plurals name="purchased_instructions">
+        <item quantity="other">&lt;Data>Kwa kukamilisha malipo, unakubali &lt;a href=\"%1$s\">Ilani kuhusu Ununuzi wa Ndani ya Programu&lt;/a>.&lt;br>Marejesho ya pesa zinapatikana kwa saa &lt;xliff:g id=time>%2$d&lt;/xliff:g> baada ya ununuzi kufanywa.&lt;/Data></item>
+        <item quantity="one">&lt;Data>Kwa kukamilisha malipo, unakubali &lt;a href=\"%1$s\">Ilani kuhusu Ununuzi wa Ndani ya Programu&lt;/a>.&lt;br>Marejesho ya pesa zinapatikana kwa saa &lt;xliff:g id=time>%2$d&lt;/xliff:g> baada ya ununuzi kufanywa.&lt;/Data></item>
+    </plurals>
+    <plurals name="purchased_refund_constact_us_success_dialog_message">
+        <item quantity="other">Agizo lilikamilishwa zaidi ya saa %d iliyopita. Tutumie barua pepe.</item>
+        <item quantity="one">Agizo lilikamilishwa zaidi ya saa %d iliyopita. Tutumie barua pepe.</item>
+    </plurals>
+    <plurals name="purchased_refund_success_dialog_message">
+        <item quantity="other">Utapokea sarafu ndani ya saa %d.</item>
+        <item quantity="one">Utapokea sarafu ndani ya saa %d.</item>
+    </plurals>
+    <plurals name="resource_font_download_notification_title_many">
+        <item quantity="other">Imepakua fonti %1$s kwa mafanikio</item>
+        <item quantity="one">Imepakua fonti %1$s kwa mafanikio</item>
+    </plurals>
+    <plurals name="resource_theme_download_notification_title_many">
+        <item quantity="other">Imepakua mandhari %1$s kwa mafanikio</item>
+        <item quantity="one">Imepakua mandhari %1$s kwa mafanikio</item>
+    </plurals>
+    <plurals name="theme_designer_products_count">
+        <item quantity="other">Kazi %1$s</item>
+        <item quantity="one">Kazi %1$s</item>
+    </plurals>
+    <plurals name="wallpaper_staggered_item_text">
+        <item quantity="other">Picha %1$s | %2$d</item>
+        <item quantity="one">Picha %1$s | %2$d</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Halijoto: nyuzi %1$s, %2$s</item>
+        <item quantity="one">Halijoto: nyuzi %1$s, %2$s</item>
+    </plurals>
+</resources>

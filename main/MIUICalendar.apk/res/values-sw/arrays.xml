@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_sync_frequency">
+        <item>Wewe mwenyewe</item>
+        <item>Kila dakika %d</item>
+        <item>Kila saa</item>
+        <item>Kila saa %d</item>
+        <item>Kila saa %d</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Aquarius</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Aries</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Cancer</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Capricorn</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Tukio hili pekee</item>
+        <item>Matukio yote katika mfululizo</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Kwa muda huu tu</item>
+        <item>Zima kikumbusho kinachorudiwa</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Mbele</item>
+        <item>Nyuma</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Tukio hili pekee</item>
+        <item>Hili na matukio yajayo</item>
+        <item>Matukio yote</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>Gemini</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>Leo</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>Libra</item>
+    </string-array>
+    <string-array name="locale_calendar_array">
+        <item>Hakuna</item>
+        <item>Kalenda ya jadi ya Kichina</item>
+        <item>Kalenda ya Kiislamu</item>
+        <item>Kalenda ya Kiebrania</item>
+        <item>Kalenda ya Kijapani</item>
+        <item>Kalenda ya Kiajemi</item>
+        <item>Kalenda ya Kihindi</item>
+        <item>Kalenda ya Buddha</item>
+    </string-array>
+    <string-array name="months_English_array">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Machi</item>
+        <item>Aprili</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Julai</item>
+        <item>Agosti</item>
+        <item>Septemba</item>
+        <item>Oktoba</item>
+        <item>Novemba</item>
+        <item>Desemba</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Kwa muda huu tu</item>
+        <item>Weka kikumbusho kinachorudiwa</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Pisces</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Imezimwa</item>
+        <item>Kwa matukio yote</item>
+        <item>Kwa matukio yanayozingatia wakati</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new_summary">
+        <item></item>
+        <item></item>
+        <item>@string/preferences_popup_alert_smart_summary_new</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Kila mara</item>
+        <item>Wakati tu mlio umezimwa</item>
+        <item>Kamwe</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Mkoa chaguomsingi</item>
+        <item>Jumamosi</item>
+        <item>Jumapili</item>
+        <item>Jumatatu</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Kamwe</item>
+        <item>Wakati</item>
+        <item>Hesabu</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Feb</item>
+        <item>Machi</item>
+        <item>Apr</item>
+        <item>Mei</item>
+        <item>Jun</item>
+        <item>Jul</item>
+        <item>Ago</item>
+        <item>Sep</item>
+        <item>Okt</item>
+        <item>Nov</item>
+        <item>Des</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>ya kwanza</item>
+        <item>ya pili</item>
+        <item>ya tatu</item>
+        <item>ya nne</item>
+        <item>ya mwisho</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Jumatatu - Ijumaa</item>
+        <item>Wikendi</item>
+        <item>Wiki mzima</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Jumatatu</item>
+        <item>Jumanne</item>
+        <item>Jumatano</item>
+        <item>Alhamisi</item>
+        <item>Ijumaa</item>
+        <item>Jumamosi</item>
+        <item>Jumapili</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Kamwe</item>
+        <item>Kila mwezi</item>
+        <item>Kila mwaka</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>siku</item>
+        <item>wiki</item>
+        <item>mwezi</item>
+        <item>mwaka</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>Jumatatu ya kwanza</item>
+        <item>Jumanne ya kwanza</item>
+        <item>Jumatano ya kwanza</item>
+        <item>Alhamisi ya kwanza</item>
+        <item>Ijumaa ya kwanza</item>
+        <item>Jumamosi ya kwanza</item>
+        <item>Jumapili ya kwanza</item>
+        <item>Jumatatu ya pili</item>
+        <item>Jumanne ya pili</item>
+        <item>Jumatano ya pili</item>
+        <item>Alhamisi ya pili</item>
+        <item>Ijumaa ya pili</item>
+        <item>Jumamosi ya pili</item>
+        <item>Jumapili ya pili</item>
+        <item>Jumatatu ya tatu</item>
+        <item>Jumanne ya tatu</item>
+        <item>Jumatano ya tatu</item>
+        <item>Alhamisi ya tatu</item>
+        <item>Ijumaa ya tatu</item>
+        <item>Jumamosi ya tatu</item>
+        <item>Jumapili ya tatu</item>
+        <item>Jumatatu ya nne</item>
+        <item>Jumanne ya nne</item>
+        <item>Jumatano ya nne</item>
+        <item>Alhamisi ya nne</item>
+        <item>Ijumaa ya nne</item>
+        <item>Jumamosi ya nne</item>
+        <item>Jumapili ya nne</item>
+        <item>Jumatatu iliyopita</item>
+        <item>Jumanne iliyopita</item>
+        <item>Jumatano iliyopita</item>
+        <item>Alhamisi iliyopita</item>
+        <item>Ijumaa iliyopita</item>
+        <item>Jumamosi iliyopita</item>
+        <item>Jumapili iliyopita</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Hakuna jibu</item>
+        <item>Ndiyo</item>
+        <item>Labda</item>
+        <item>Hapana</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Usijibu</item>
+        <item>Kubali</item>
+        <item>Amua baadaye</item>
+        <item>Kataa</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Sagittarius</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Scorpio</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Taurus</item>
+    </string-array>
+    <string-array name="timezone_labels_v3">
+        <item>Visiwa vya Marshall</item>
+        <item>Kisiwa cha Midway</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Wakati wa Pacific</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Wakati wa Mlima</item>
+        <item>Amerika ya Kati</item>
+        <item>Wakati wa Kati</item>
+        <item>Mexico City</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Wakati wa Mashariki</item>
+        <item>Venezuela</item>
+        <item>Wakati wa Atlantiki (Barbados)</item>
+        <item>Wakati wa Atlantiki (Canada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>Newfoundland</item>
+        <item>Brasilia</item>
+        <item>Buenos Aires</item>
+        <item>Greenland</item>
+        <item>Montevideo</item>
+        <item>Katikati ya Atlantiki</item>
+        <item>Azores</item>
+        <item>Cape Verde</item>
+        <item>Casablanca</item>
+        <item>London</item>
+        <item>Dublin</item>
+        <item>Amsterdam</item>
+        <item>Berlin</item>
+        <item>Belgrade</item>
+        <item>Brussels</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Wakati wa W. Afrika</item>
+        <item>Amman</item>
+        <item>Athens</item>
+        <item>Istanbul</item>
+        <item>Beirut</item>
+        <item>Cairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moscow</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Chongqing</item>
+        <item>Hong Kong</item>
+        <item>Macau</item>
+        <item>Singapore</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>Tokyo</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney</item>
+        <item>Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Virgo</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>JUMAPILI</item>
+        <item>JUMATATU</item>
+        <item>JUMANNE</item>
+        <item>JUMATANO</item>
+        <item>ALHAMISI</item>
+        <item>IJUMAA</item>
+        <item>JUMAMOSI</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Uangavu</item>
+        <item>Picha ya chinichini ya rangi nyeupe</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>S</item>
+        <item>M</item>
+        <item>T</item>
+        <item>W</item>
+        <item>T</item>
+        <item>F</item>
+        <item>S</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>डिवाइस इंटरकनेक्टिविटी सेवाएं</item>
+        <item>कनेक्शन और शेयरिंग/डिवाइस इंटरकनेक्टिविटी सेवाएं</item>
+        <item>Screen Combo;जुगलबंदी;मल्टीस्क्रीन;Duo;कंप्यूटर; मिरर;डिवाइस इंटरकनेक्टिविटी सेवाएं</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>QR कोड का उपयोग करके कनेक्ट नहीं किया जा सकता?</item>
+        <item>आपके कंप्यूटर के ज़रिए मोबाइल डिवाइस नहीं खोज पा रहे हैं?</item>
+        <item>अपने मोबाइल डिवाइस को लॉक नहीं कर पा रहे हैं?</item>
+        <item>अनुकूलता</item>
+    </string-array>
+</resources>

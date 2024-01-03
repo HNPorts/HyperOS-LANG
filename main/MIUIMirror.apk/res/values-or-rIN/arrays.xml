@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>ଡିଭାଇସ ଇଣ୍ଟରକନେକ୍ଟିଭିଟି ସେବା</item>
+        <item>ସଂଯୋଗ ଏବଂ ସେଆରିଂ/ଡିଭାଇସ ଇଣ୍ଟରକନେକ୍ଟିଭିଟି ସେବା</item>
+        <item>Screen Combo;ଡୁଏଟ;ମଲ୍ଟିସ୍କ୍ରିନ;Duo;କମ୍ପ୍ୟୁଟର;ମିରର;ଡିଭାଇସ ଇଣ୍ଟରକନେକ୍ଟିଭିଟି ସେବାଗୁଡ଼ିକ</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>QR କୋଡ୍ ବ୍ୟବହାର କରି ସଂଯୋଗ ହୋଇପାରୁନାହିଁ?</item>
+        <item>ଆପଣଙ୍କ କମ୍ପ୍ୟୁଟର ବ୍ୟବହାର କରି ମୋବାଇଲ ଡିଭାଇସ ପାଇପାରୁନାହାଁନ୍ତି?</item>
+        <item>ଆପଣଙ୍କ ମୋବାଇଲ ଡିଭାଇସକୁ ଲକ୍ କରିପାରୁନାହାଁନ୍ତି?</item>
+        <item>ଅନୁକୂଳତା</item>
+    </string-array>
+</resources>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="aod_dual_togother_city">
+        <item quantity="other">"Saa  %1$s %2$s"</item>
+        <item quantity="one">"Saa  %1$s %2$s"</item>
+    </plurals>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">Kanieneo angahewa : hektopaskali %s</item>
+        <item quantity="one">Kanieneo angahewa : hektopaskali %s</item>
+    </plurals>
+    <plurals name="character_pitch_minus">
+        <item quantity="other">Kupunguka kwa nafasi kati ya herufi. Nafasi kati ya herufi ya %s.</item>
+        <item quantity="one">Kupunguka kwa nafasi kati ya herufi. Nafasi kati ya herufi ya %s.</item>
+    </plurals>
+    <plurals name="character_pitch_plus">
+        <item quantity="other">Kuongezeka kwa nafasi kati ya herufi. Nafasi kati ya herufi ya %s.</item>
+        <item quantity="one">Kuongezeka kwa nafasi kati ya herufi. Nafasi kati ya herufi ya %s.</item>
+    </plurals>
+    <plurals name="choose_long_gif_limit_toast_tip">
+        <item quantity="other">"Muda wa kucheza wa uhuishaji hauwezi kuzidi sekunde %d.
+Uhuishaji wa muda mrefu zaidi utakomeshwa hapa."</item>
+        <item quantity="one">"Muda wa kucheza wa uhuishaji hauwezi kuzidi sekunde %d.
+Uhuishaji wa muda mrefu zaidi utakomeshwa hapa."</item>
+    </plurals>
+    <plurals name="count_selected">
+        <item quantity="other">Umechagua vipengee %d</item>
+        <item quantity="one">Umechagua kipengee %d</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">Umechoma Kalori %1$s</item>
+        <item quantity="one">Umechoma Kalori %1$s</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">Lengo la kalori: Kalori %1$s</item>
+        <item quantity="one">Lengo la kalori: Kalori %1$s</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s kilokalori</item>
+        <item quantity="one">%1$s/%2$s kilokalori</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">Muda wa shughuli: dakika %1$s</item>
+        <item quantity="one">Muda wa shughuli: dakika %1$s</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">Lengo la shughuli: dakika %1$s</item>
+        <item quantity="one">Lengo la shughuli: dakika %1$s</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s dakika</item>
+        <item quantity="one">%1$s/%2$s dakika</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">Ulisimama ndani ya saa %1$s</item>
+        <item quantity="one">Ulisimama ndani ya saa %1$s</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">Lengo la kusimama: saa %1$s</item>
+        <item quantity="one">Lengo la kusimama: saa %1$s</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s saa</item>
+        <item quantity="one">%1$s/%2$s saa</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">Hesabu ya sasa ya hatua: hatua %1$s</item>
+        <item quantity="one">Hesabu ya sasa ya hatua: hatua %1$s</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">Lengo la hatua: hatua %1$s</item>
+        <item quantity="one">Lengo la hatua: hatua %1$s</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s hatua</item>
+        <item quantity="one">%1$s/%2$s hatua</item>
+    </plurals>
+    <plurals name="line_spacing_puls">
+        <item quantity="other">Kuongezeka kwa nafasi kati ya mistari. Nafasi kati ya mistari ya %s.</item>
+        <item quantity="one">Kuongezeka kwa nafasi kati ya mistari. Nafasi kati ya mistari ya %s.</item>
+    </plurals>
+    <plurals name="lines_pacing_minus">
+        <item quantity="other">Kupunguka kwa nafasi kati ya mistari. Nafasi kati ya mistari ya %s.</item>
+        <item quantity="one">Kupunguka kwa nafasi kati ya mistari. Nafasi kati ya mistari ya %s.</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">Halijoto: nyuzi %1$s, %2$s</item>
+        <item quantity="one">Halijoto: nyuzi %1$s, %2$s</item>
+    </plurals>
+</resources>

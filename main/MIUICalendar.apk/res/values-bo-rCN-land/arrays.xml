@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="week_header_name">
+        <item>གཟའ་ཉི་མ།</item>
+        <item>གཟའ་ཟླ་བ།</item>
+        <item>གཟའ་མིག་དམར།</item>
+        <item>གཟའ་ལྷག་པ།</item>
+        <item>གཟའ་ཕུར་བུ།</item>
+        <item>གཟའ་པ་སངས།</item>
+        <item>གཟའ་སྤེན་པ།</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>சாதனம் உள் இணைப்பு சேவைகள்</item>
+        <item>இணைப்பு &amp; பகிர்தல்/சாதன இண்டர்கனெக்டிவிட்டி சேவைகள்</item>
+        <item>Screen Combo;டூயட்;மல்டிஸ்கிரீன்;டியோ;கம்ப்யூட்டர்;மிரர்;சாதன இன்டர்கனெக்டிவிட்டி சேவைகள்</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>QR குறியீட்டை பயன்படுத்தி இணைக்க முடியவில்லையா?</item>
+        <item>உங்கள் கணினியைப் பயன்படுத்தி மொபைல் சாதனங்களைக் கண்டறிய முடியவில்லையா?</item>
+        <item>உங்கள் மொபைல் சாதனத்தைப் பூட்ட முடியவில்லையா?</item>
+        <item>இணக்கத்தன்மை</item>
+    </string-array>
+</resources>

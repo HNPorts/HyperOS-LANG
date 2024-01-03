@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="file_received_successfully">
+        <item quantity="other">Imepokea faili za %2$d kutoka kwa %1$s kwa mafanikio</item>
+        <item quantity="one">Imepokea faili ya %2$d kutoka kwa %1$s kwa mafanikio</item>
+    </plurals>
+    <plurals name="file_type_detail_count">
+        <item quantity="other">Faili %1$d</item>
+        <item quantity="one">Faili %1$d</item>
+    </plurals>
+    <plurals name="image_received_successfully">
+        <item quantity="other">Imepokea picha za %2$d kutoka kwa %1$s kwa mafanikio</item>
+        <item quantity="one">Imepokea picha ya %2$d kutoka kwa %1$s kwa mafanikio</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc">
+        <item quantity="other">%2$d vifurushi vya usakinishaji (%3$s) kutoka kwa %1$s</item>
+        <item quantity="one">%2$d kifurushi cha usakinishaji (%3$s) kutoka kwa %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_received">
+        <item quantity="other">Imepokea vifurushi vya usakinishaji %2$d (%3$s ) kutoka kwa %1$s</item>
+        <item quantity="one">Imepokea kifurushi cha usakinishaji %2$d (%3$s ) kutoka kwa %1$s</item>
+    </plurals>
+    <plurals name="send_apk_dialog_desc_receiving">
+        <item quantity="other">Inapokea %2$d vifurushi vya usakinishaji (%3$s ) kutoka kwa %1$s…</item>
+        <item quantity="one">Inapokea %2$d kifurushi cha usakinishaji (%3$s ) kutoka kwa %1$s…</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc">
+        <item quantity="other">%2$d faili za sauti (%3$s) kutoka kwa %1$s</item>
+        <item quantity="one">%2$d faili ya sauti (%3$s) kutoka kwa %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_received">
+        <item quantity="other">Imepokea faili ya sauti %2$d (%3$s ) kutoka kwa %1$s</item>
+        <item quantity="one">Imepokea faili ya sauti %2$d (%3$s ) kutoka kwa %1$s</item>
+    </plurals>
+    <plurals name="send_audio_dialog_desc_receiving">
+        <item quantity="other">Inapokea %2$d faili za sauti (%3$s ) kutoka kwa %1$s…</item>
+        <item quantity="one">Inapokea %2$d faili ya sauti (%3$s ) kutoka kwa %1$s…</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc">
+        <item quantity="other">"Faili %2$d %3$s (%4$s) kutoka %1$s "</item>
+        <item quantity="one">"Faili %2$d %3$s (%4$s) kutoka %1$s "</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_received">
+        <item quantity="other">Imepokea %2$d %3$s faili (%4$s) kutoka %1$s</item>
+        <item quantity="one">Imepokea %2$d %3$s faili (%4$s) kutoka %1$s</item>
+    </plurals>
+    <plurals name="send_file_dialog_desc_receiving">
+        <item quantity="other">Inapokea %2$d %3$s faili (%4$s) kutoka %1$s…</item>
+        <item quantity="one">Inapokea %2$d %3$s faili (%4$s) kutoka %1$s…</item>
+    </plurals>
+    <plurals name="send_file_success_detail_files">
+        <item quantity="other">Imetuma faili %1$s kwa mafanikio</item>
+        <item quantity="one">Imetuma faili %1$s kwa mafanikio</item>
+    </plurals>
+    <plurals name="send_file_success_detail_files_content">
+        <item quantity="other">Imehamisha faili %1$d hadi %2$s</item>
+        <item quantity="one">Imehamisha faili %1$d hadi %2$s</item>
+    </plurals>
+    <plurals name="send_file_success_detail_images">
+        <item quantity="other">Imetuma picha %1$s kwa mafanikio</item>
+        <item quantity="one">Imetuma picha %1$s kwa mafanikio</item>
+    </plurals>
+    <plurals name="send_file_success_detail_images_content">
+        <item quantity="other">Imehamisha picha %1$d hadi %2$s</item>
+        <item quantity="one">Imehamisha picha %1$d hadi %2$s</item>
+    </plurals>
+    <plurals name="send_files_to_device_files">
+        <item quantity="other">Inatayarisha kutuma faili %2$d kwa %1$s…</item>
+        <item quantity="one">Inatayarisha kutuma faili %2$d kwa %1$s…</item>
+    </plurals>
+    <plurals name="send_files_to_device_images">
+        <item quantity="other">Inatayarisha kutuma picha %2$d kwa %1$s…</item>
+        <item quantity="one">Inatayarisha kutuma picha %2$d kwa %1$s…</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc">
+        <item quantity="other">Picha %2$d kutoka %1$s</item>
+        <item quantity="one">Picha %2$d kutoka %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_received">
+        <item quantity="other">Imepokea picha %2$d kutoka kwa %1$s</item>
+        <item quantity="one">Imepokea picha %2$d kutoka kwa %1$s</item>
+    </plurals>
+    <plurals name="send_image_dialog_desc_receiving">
+        <item quantity="other">Inapokea picha %2$d kutoka kwa %1$s…</item>
+        <item quantity="one">Inapokea picha %2$d kutoka kwa %1$s…</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc">
+        <item quantity="other">Picha na video %2$d kutoka %1$s</item>
+        <item quantity="one">Picha au video %2$d kutoka %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_received">
+        <item quantity="other">Imepokea picha na video %2$d kutoka kwa %1$s</item>
+        <item quantity="one">Imepokea picha au video %2$d kutoka kwa %1$s</item>
+    </plurals>
+    <plurals name="send_image_video_dialog_desc_receiving">
+        <item quantity="other">Inapokea %2$d picha na video kutoka kwa %1$s…</item>
+        <item quantity="one">Inapokea %2$d picha au video kutoka kwa %1$s…</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc">
+        <item quantity="other">Faili %2$d kutoka %1$s</item>
+        <item quantity="one">Faili %2$d kutoka %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_received">
+        <item quantity="other">Imepokea faili %2$d kutoka kwa %1$s</item>
+        <item quantity="one">Imepokea faili %2$d kutoka kwa %1$s</item>
+    </plurals>
+    <plurals name="send_more_type_file_dialog_desc_receiving">
+        <item quantity="other">Inapokea faili %2$d kutoka %1$s…</item>
+        <item quantity="one">Inapokea faili %2$d kutoka %1$s…</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc">
+        <item quantity="other">Video %2$d kutoka %1$s</item>
+        <item quantity="one">Video %2$d kutoka %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_received">
+        <item quantity="other">Imepokea video %2$d kutoka kwa %1$s</item>
+        <item quantity="one">Imepokea video %2$d kutoka kwa %1$s</item>
+    </plurals>
+    <plurals name="send_video_dialog_desc_receiving">
+        <item quantity="other">Inapokea %2$d video kutoka kwa %1$s…</item>
+        <item quantity="one">Inapokea %2$d video kutoka kwa %1$s…</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc">
+        <item quantity="other">%2$d kumbukumbu (%3$s) kutoka kwa %1$s</item>
+        <item quantity="one">%2$d kumbukumbu (%3$s) kutoka kwa %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_received">
+        <item quantity="other">Imepokea kumbukumbu %2$d (%3$s) kutoka kwa %1$s</item>
+        <item quantity="one">Imepokea kumbukumbu %2$d (%3$s) kutoka kwa %1$s</item>
+    </plurals>
+    <plurals name="send_zip_dialog_desc_receiving">
+        <item quantity="other">Inapokea %2$d kumbukumbu (%3$s) kutoka kwa %1$s…</item>
+        <item quantity="one">Inapokea %2$d kumbukumbu (%3$s) kutoka kwa %1$s…</item>
+    </plurals>
+    <plurals name="someone_send_file_to_you_files">
+        <item quantity="other">%1$s inatuma faili %2$d kwako…</item>
+        <item quantity="one">%1$s inatuma faili %2$d kwako…</item>
+    </plurals>
+    <plurals name="someone_send_file_to_you_images">
+        <item quantity="other">%1$s inatuma picha %2$d kwako…</item>
+        <item quantity="one">%1$s inatuma picha %2$d kwako…</item>
+    </plurals>
+    <plurals name="someone_send_somefile_files">
+        <item quantity="other">%1$s inatuma faili %2$d kwako…</item>
+        <item quantity="one">%1$s inatuma faili %2$d kwako…</item>
+    </plurals>
+    <plurals name="someone_send_somefile_images">
+        <item quantity="other">%1$s inatuma picha %2$d kwako…</item>
+        <item quantity="one">%1$s inatuma picha %2$d kwako…</item>
+    </plurals>
+    <plurals name="start_receive_files_files">
+        <item quantity="other">Inapokea faili %2$d kutoka %1$s…</item>
+        <item quantity="one">Inapokea faili %2$d kutoka %1$s…</item>
+    </plurals>
+    <plurals name="start_receive_files_images">
+        <item quantity="other">Inapokea picha %2$d kutoka %1$s…</item>
+        <item quantity="one">Inapokea picha %2$d kutoka %1$s…</item>
+    </plurals>
+    <plurals name="start_send_files_to_device_files">
+        <item quantity="other">Inatuma faili %2$d kwa %1$s…</item>
+        <item quantity="one">Inatuma faili %2$d kwa %1$s…</item>
+    </plurals>
+    <plurals name="start_send_files_to_device_images">
+        <item quantity="other">Inatuma picha %2$d kwa %1$s…</item>
+        <item quantity="one">Inatuma picha %2$d kwa %1$s…</item>
+    </plurals>
+    <plurals name="success_receive_file_files">
+        <item quantity="other">Imepokea faili %2$d kutoka %1$s. Gusa ili kutazama.</item>
+        <item quantity="one">Imepokea faili %2$d kutoka %1$s. Gusa ili kutazama.</item>
+    </plurals>
+    <plurals name="success_receive_file_images">
+        <item quantity="other">Imepokea picha %2$d kutoka %1$s. Gusa ili kutazama.</item>
+        <item quantity="one">Imepokea picha %2$d kutoka %1$s. Gusa ili kutazama.</item>
+    </plurals>
+    <plurals name="successfully_sent_files">
+        <item quantity="other">Imetuma faili %2$d kwa %1$s kwa mafanikio</item>
+        <item quantity="one">Imetuma faili %2$d kwa %1$s kwa mafanikio</item>
+    </plurals>
+    <plurals name="successfully_sent_images">
+        <item quantity="other">Imetuma picha %2$d kwa %1$s kwa mafanikio</item>
+        <item quantity="one">Imetuma picha %2$d kwa %1$s kwa mafanikio</item>
+    </plurals>
+</resources>

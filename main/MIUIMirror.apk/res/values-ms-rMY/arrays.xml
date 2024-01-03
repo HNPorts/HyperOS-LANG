@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>Perkhidmatan kesalinghubungan peranti</item>
+        <item>Sambungan &amp; perkongsian/Perkhidmatan kesalinghubungan peranti</item>
+        <item>Screen Combo; Duet; Multi-skrin; Duo; Komputer; Cermin; Perkhidmatan kesalinghubungan peranti</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Tidak dapat menyambung menggunakan kod QR?</item>
+        <item>Tidak menemui peranti mudah alih menggunakan komputer anda?</item>
+        <item>Tidak dapat mengunci peranti mudah alih anda?</item>
+        <item>Keserasian</item>
+    </string-array>
+</resources>

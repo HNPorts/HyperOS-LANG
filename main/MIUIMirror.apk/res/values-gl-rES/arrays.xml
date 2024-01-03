@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>Servizos de interconectividade do dispositivo</item>
+        <item>Servizos de compartir conexión/interconectividade do dispositivo</item>
+        <item>Screen Combo;Dueto;Multipantalla;Dúo;Ordenador;Espellor;Servizos de interconectividade do dispositivo</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Non podo conectar usando un código QR?</item>
+        <item>Non podes atopar dispositivos móbiles usando o teu ordenador?</item>
+        <item>Non podes bloquear o teu dispositivo móbil?</item>
+        <item>Compatibilidade</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>Ierīces savstarpējās savienojamības pakalpojumi</item>
+        <item>Savienojums un kopīgošana/Ierīces savstarpējās savienojamības pakalpojumi</item>
+        <item>Screen Combo;Duets;Vairāki ekrāni;Duo;Dators;Spogulis;Ierīces savstarpējās savienojamības pakalpojumi</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Nevar izveidot savienojumu, izmantojot QR kodu?</item>
+        <item>Nevar atrast mobilās ierīces, izmantojot datoru?</item>
+        <item>Nevar bloķēt jūsu mobilo ierīci?</item>
+        <item>Saderība</item>
+    </string-array>
+</resources>

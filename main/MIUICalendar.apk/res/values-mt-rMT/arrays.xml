@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_sync_frequency">
+        <item>Meta tagħżel int</item>
+        <item>Kull %d-il minuta</item>
+        <item>Kull siegħa</item>
+        <item>Kull %d sigħat</item>
+        <item>Kull %d-il siegħa</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Aquarius</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Aries</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Cancer</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Capricorn</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Dan l-avveniment biss</item>
+        <item>"L-avvenimenti kollha f'din is-serje"</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Did-darba biss</item>
+        <item>Itfi t-tfakkira li tirrepeti</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>"'Il Quddiem"</item>
+        <item>Lura</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Dan l-avveniment biss</item>
+        <item>Dan l-avveniment u l-oħra fil-ġejjieni</item>
+        <item>L-avvenimenti kollha</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>Gemini</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>Leo</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>Libra</item>
+    </string-array>
+    <string-array name="locale_calendar_array">
+        <item>L-ebda</item>
+        <item>Kalendarju Tradizzjonali Ċiniż</item>
+        <item>Kalendarju Islamiku</item>
+        <item>Kalendarju Lhudi</item>
+        <item>Kalendarju Ġappuniż</item>
+        <item>Kalendarju Persjan</item>
+        <item>Kalendarju Indjan</item>
+        <item>Kalendarju Buddist</item>
+    </string-array>
+    <string-array name="months_English_array">
+        <item>Jannar</item>
+        <item>Frar</item>
+        <item>Marzu</item>
+        <item>April</item>
+        <item>Mej</item>
+        <item>Ġunju</item>
+        <item>Lulju</item>
+        <item>Awwissu</item>
+        <item>Settembru</item>
+        <item>Ottubru</item>
+        <item>Novembru</item>
+        <item>Diċembru</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Did-darba biss</item>
+        <item>Oħloq tfakkira li tirrepeti</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Pisces</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>Mitfi</item>
+        <item>Għall-avvenimenti kollha</item>
+        <item>Għall-avvenimenti li huma sensittivi għall-ħin</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new_summary">
+        <item></item>
+        <item></item>
+        <item>@string/preferences_popup_alert_smart_summary_new</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Dejjem</item>
+        <item>Meta l-apparat taċ-ċempil ikun imsikket biss</item>
+        <item>Qatt</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>L-Għażla komuni tar-reġjun</item>
+        <item>Is-Sibt</item>
+        <item>Il-Ħadd</item>
+        <item>It-Tnejn</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>L-1</item>
+        <item>It-2</item>
+        <item>It-3</item>
+        <item>L-4</item>
+        <item>Il-5</item>
+        <item>Is-6</item>
+        <item>Is-7</item>
+        <item>It-8</item>
+        <item>Id-9</item>
+        <item>L-10</item>
+        <item>L-11</item>
+        <item>It-12</item>
+        <item>It-13</item>
+        <item>L-14</item>
+        <item>Il-15</item>
+        <item>Is-16</item>
+        <item>Is-17</item>
+        <item>It-18</item>
+        <item>Id-19</item>
+        <item>L-20</item>
+        <item>Il-21</item>
+        <item>It-22</item>
+        <item>It-23</item>
+        <item>L-24</item>
+        <item>Il-25</item>
+        <item>Is-26</item>
+        <item>Is-27</item>
+        <item>It-28</item>
+        <item>Id-29</item>
+        <item>It-30</item>
+        <item>Il-31</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Qatt</item>
+        <item>Ħin</item>
+        <item>Għodd</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Jan</item>
+        <item>Fra</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>Mej</item>
+        <item>Ġun</item>
+        <item>Lul</item>
+        <item>Aww</item>
+        <item>Set</item>
+        <item>Ott</item>
+        <item>Nov</item>
+        <item>Diċ</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>l-ewwel</item>
+        <item>it-tieni</item>
+        <item>it-tielet</item>
+        <item>"ir-raba'"</item>
+        <item>l-aħħar</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Tne - Ġim</item>
+        <item>Tmiem il-Ġimgħa</item>
+        <item>Ġimgħa sħiħa</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Tne</item>
+        <item>Tli</item>
+        <item>Erb</item>
+        <item>Ħam</item>
+        <item>Ġim</item>
+        <item>Sib</item>
+        <item>Ħad</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Qatt</item>
+        <item>Kull xahar</item>
+        <item>Kull sena</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>jum</item>
+        <item>ġimgħa</item>
+        <item>xahar</item>
+        <item>sena</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>"l-ewwel nhar ta' Tnejn"</item>
+        <item>"l-ewwel nhar ta' Tlieta"</item>
+        <item>"l-ewwel nhar ta' Erbgħa"</item>
+        <item>"l-ewwel nhar ta' Ħamis"</item>
+        <item>"l-ewwel nhar ta' Ġimgħa"</item>
+        <item>"l-ewwel nhar ta' Sibt"</item>
+        <item>"l-ewwel nhar ta' Ħadd"</item>
+        <item>"it-tieni nhar ta' Tnejn"</item>
+        <item>"it-tieni nhar ta' Tlieta"</item>
+        <item>"it-tieni nhar ta' Erbgħa"</item>
+        <item>"it-tieni nhar ta' Ħamis"</item>
+        <item>"it-tieni nhar ta' Ġimgħa"</item>
+        <item>"it-tieni nhar ta' Sibt"</item>
+        <item>"it-tieni nhar ta' Ħadd"</item>
+        <item>"it-tielet nhar ta' Tnejn"</item>
+        <item>"it-tielet nhar ta' Tlieta"</item>
+        <item>"it-tielet nhar ta' Erbgħa"</item>
+        <item>"it-tielet nhar ta' Ħamis"</item>
+        <item>"it-tielet nhar ta' Ġimgħa"</item>
+        <item>"it-tielet nhar ta' Sibt"</item>
+        <item>"it-tielet nhar ta' Ħadd"</item>
+        <item>"ir-raba' nhar ta' Tnejn"</item>
+        <item>"ir-raba' nhar ta' Tlieta"</item>
+        <item>"ir-raba' nhar ta' Erbgħa"</item>
+        <item>"ir-raba' nhar ta' Ħamis"</item>
+        <item>"ir-raba' nhar ta' Ġimgħa"</item>
+        <item>"ir-raba' nhar ta' Sibt"</item>
+        <item>"ir-raba' nhar ta' Ħadd"</item>
+        <item>"l-aħħar nhar ta' Tnejn"</item>
+        <item>"l-aħħar nhar ta' Tlieta"</item>
+        <item>"l-aħħar nhar ta' Erbgħa"</item>
+        <item>"l-aħħar nhar ta' Ħamis"</item>
+        <item>"l-aħħar nhar ta' Ġimgħa"</item>
+        <item>"l-aħħar nhar ta' Sibt"</item>
+        <item>"l-aħħar nhar ta' Ħadd"</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>L-ebda risposta</item>
+        <item>Iva</item>
+        <item>Forsi</item>
+        <item>Le</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Tweġibx</item>
+        <item>Aċċetta</item>
+        <item>Agħżel iktar tard</item>
+        <item>Iċħad</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Sagittarius</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Scorpio</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Taurus</item>
+    </string-array>
+    <string-array name="timezone_labels_v3">
+        <item>Gżejjer Marshall</item>
+        <item>Gżira Midway</item>
+        <item>Hawaii</item>
+        <item>Alaska</item>
+        <item>Ħin tal-Paċifiku</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>Ħin tal-Muntanji</item>
+        <item>Amerika Ċentrali</item>
+        <item>Ħin Ċentrali</item>
+        <item>Il-Belt tal-Messiku</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>Ħin tal-Lvant</item>
+        <item>Veneżwela</item>
+        <item>Ħin tal-Atlantiku (il-Barbados)</item>
+        <item>Ħin tal-Atlantiku (il-Kanada)</item>
+        <item>Manaus</item>
+        <item>Santjago</item>
+        <item>Newfoundland</item>
+        <item>Brasilja</item>
+        <item>Buenos Aires</item>
+        <item>Groenlandja</item>
+        <item>Montevideo</item>
+        <item>Atlantiku Ċentrali</item>
+        <item>Azores</item>
+        <item>Kap Verde</item>
+        <item>Kasablanca</item>
+        <item>Londra</item>
+        <item>Dublin</item>
+        <item>Amsterdam</item>
+        <item>Berlin</item>
+        <item>Belgrad</item>
+        <item>Brussell</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>Ħin tal-Afrika tal-Punent</item>
+        <item>Amman</item>
+        <item>Ateni</item>
+        <item>Istanbul</item>
+        <item>Bejrut</item>
+        <item>Kajr</item>
+        <item>Helsinki</item>
+        <item>Ġerusalemm</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bagdad</item>
+        <item>Moska</item>
+        <item>Kuwajt</item>
+        <item>Najrobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubaj</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kalkutta</item>
+        <item>Sri Lanka</item>
+        <item>Katmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Bejġing</item>
+        <item>Chongqing</item>
+        <item>Hong Kong</item>
+        <item>Makaw</item>
+        <item>Singapor</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Tajpej</item>
+        <item>Seoul</item>
+        <item>Tokjo</item>
+        <item>Yakutsk</item>
+        <item>Adelajde</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>Sydney</item>
+        <item>Canberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Virgo</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>ĦAD</item>
+        <item>TNE</item>
+        <item>TLI</item>
+        <item>ERB</item>
+        <item>ĦAM</item>
+        <item>ĠIM</item>
+        <item>SIB</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Trasparenti</item>
+        <item>Sfond abjad</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>Ħa</item>
+        <item>Tn</item>
+        <item>Tl</item>
+        <item>Er</item>
+        <item>Ħa</item>
+        <item>Ġi</item>
+        <item>Si</item>
+    </string-array>
+</resources>

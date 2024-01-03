@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">%d ditët perpara ngjarjes</item>
+        <item quantity="one">%d dite perpara ngjarjes</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">Brenda %1$d diteve ne %2$s</item>
+        <item quantity="one">Brenda %1$d ditëve në %2$s</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">%1$dditët përpara ngjarjes në %2$s</item>
+        <item quantity="one">%1$dditë përpara ngjarjes në %2$s</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">%d orët perpara ngjarjes</item>
+        <item quantity="one">%d orë perpara ngjarjes</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">%d minuta perpara ngjarjeve</item>
+        <item quantity="one">%d minut perpara ngjarjes</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">%d jave perpara ngjarjes</item>
+        <item quantity="one">%d jave perpara ngjarjes</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">1 orë më parë</item>
+        <item quantity="one">1 orë më parë</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">%d ore më parë</item>
+        <item quantity="one">%d ore më parë</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Gjysmë ore më parë</item>
+        <item quantity="one">Gjysmë ore më parë</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Në %d orë</item>
+        <item quantity="one">Në %d orë</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Për gjysmë ore</item>
+        <item quantity="one">Për gjysmë ore</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Menjëherë</item>
+        <item quantity="one">Menjëherë</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">në %d minuta</item>
+        <item quantity="one">në %d minut</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Tani</item>
+        <item quantity="one">Tani</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">%d minuta më parë</item>
+        <item quantity="one">%d minut më parë</item>
+    </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">Në %d mins</item>
+        <item quantity="one">In %d min</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">%1$s ditët</item>
+        <item quantity="one">%1$s ditë</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">Përvjetor: %3$d qe nga vitet %2$s në %1$d ditë</item>
+        <item quantity="one">Përvjetor: %3$d qe nga viti %2$s në %1$d dita</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">Përvjetor: %2$d vitet që prej %1$s</item>
+        <item quantity="one">Përvjetor: %2$d vit që prej %1$s</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">%1$s vite</item>
+        <item quantity="one">%1$s vit</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d ditë që nga ajo kohë</item>
+        <item quantity="one">%1$d ditë që nga ajo kohë</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d ditë deri në</item>
+        <item quantity="one">%1$d ditë deri në</item>
+    </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">%1$s-vjeç</item>
+        <item quantity="one">%1$s-vjeç</item>
+    </plurals>
+    <plurals name="birthday_notification_text_days_later">
+        <item quantity="other">%1$s ditë deri %4$s (%5$s)</item>
+        <item quantity="one">%1$s ditë deri %4$s (%5$s)</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">%1$s ditët e mbetura</item>
+        <item quantity="one">%1$s ditë të mbetura</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">%1$d dite me pas</item>
+        <item quantity="one">%1$d ditë më pas</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">%1$d ditë përpara</item>
+        <item quantity="one">%1$d ditë përpara</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">%1$d ditë më pas</item>
+        <item quantity="one">%1$d ditë më pas</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">%1$d ditë përpara</item>
+        <item quantity="one">%1$d ditë përpara</item>
+    </plurals>
+    <plurals name="delete_select_dup_events_title">
+        <item quantity="other">Po përpiqeni të fshini ngjarjet e përsëritura. Të fshihet %d ngjarjet me të gjitha përsëritjet e tyre tani?</item>
+        <item quantity="one">Po përpiqeni të fshini një ngjarje të përsëritur. Të fshihet %d ngjarje me të gjitha përsëritjet e saj tani?</item>
+    </plurals>
+    <plurals name="delete_select_event_title">
+        <item quantity="other">Fshiji %d këto ngjarje tani?</item>
+        <item quantity="one">Fshije %d kete ngjarje tani?</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">Mund të vendosësh deri në ditët %1$d ditët</item>
+        <item quantity="one">Mund të vendosësh deri në ditët %1$d ditë</item>
+    </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">Mund të konfigurojë deri në %d kujtuesit</item>
+        <item quantity="one">Mund të konfigurojë deri në %d kujtues</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Gjysmë ore më parë</item>
+        <item quantity="one">Gjysmë ore më parë</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Për 1 orë</item>
+        <item quantity="one">Për 1 orë</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Për gjysmë ore</item>
+        <item quantity="one">Për gjysmë ore</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Menjëherë</item>
+        <item quantity="one">Menjëherë</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">për %d minuta</item>
+        <item quantity="one">për 1 minutë</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Tani</item>
+        <item quantity="one">Tani</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">%d artikuj të zgjedhur</item>
+        <item quantity="one">%d artikull i zgjedhur</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="n_attendees">
+        <item quantity="other">%d ftesat</item>
+        <item quantity="one">%d ftese</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d minuta më parë</item>
+        <item quantity="one">1 minutë më parë</item>
+    </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">%d me shume ngjarje</item>
+        <item quantity="one">%d me shume ngjarje</item>
+    </plurals>
+    <plurals name="other_num_todo_events">
+        <item quantity="other">%d me shume detyra</item>
+        <item quantity="one">%d more task me shume detyre</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">" ditët"</item>
+        <item quantity="one">" ditë"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">" oret"</item>
+        <item quantity="one">" ore"</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">" minuta"</item>
+        <item quantity="one">" minut"</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Kujtesa tjetër në %1$d minuta</item>
+        <item quantity="one">Kujtesa tjetër në %1$d minut</item>
+    </plurals>
+    <plurals name="repeat_custom_prompt">
+        <item quantity="other">çdo %1$s në datën %2$s</item>
+        <item quantity="one">çdo %1$s në datën %2$s</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">%1$d ditë</item>
+        <item quantity="one">%1$d ditë</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">%1$d muajt</item>
+        <item quantity="one">%1$d muaj</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">%1$d javët</item>
+        <item quantity="one">%1$d javë</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">%1$d vite</item>
+        <item quantity="one">%1$d vit</item>
+    </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">%d ngjarjet e planifikuara për sot</item>
+        <item quantity="one">%d ngjarje e planifikuar për sot</item>
+    </plurals>
+    <plurals name="travel_time_range_hours">
+        <item quantity="other">%d orë</item>
+        <item quantity="one">%d orë</item>
+    </plurals>
+    <plurals name="travel_time_range_mins">
+        <item quantity="other">%d minuta</item>
+        <item quantity="one">%d minutë</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">JAVA %d</item>
+        <item quantity="one">JAVA %d</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">%1$s ditë</item>
+        <item quantity="one">%1$s ditë</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">%d ngjarjet në vazhdim</item>
+        <item quantity="one">%d ngjarje në vazhdim</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">Ngjarja tjetër në %d mins</item>
+        <item quantity="one">Ngjarja tjetër në %d min</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">%d ngjarjet nesër</item>
+        <item quantity="one">%d ngjarja nesër</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">%d ditë pune</item>
+        <item quantity="one">%d ditë pune</item>
+    </plurals>
+</resources>

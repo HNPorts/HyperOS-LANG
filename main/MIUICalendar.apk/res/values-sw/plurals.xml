@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">Siku %d kabla ya tukio</item>
+        <item quantity="one">Siku %d kabla ya tukio</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">Baada ya siku %1$d saa %2$s</item>
+        <item quantity="one">Baada ya siku %1$d saa %2$s</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">Siku %1$d kabla ya tukio saa %2$s</item>
+        <item quantity="one">Siku %1$d kabla ya tukio saa %2$s</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">Saa %d kabla ya tukio</item>
+        <item quantity="one">Saa %d kabla ya tukio</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">Dakika %d kabla ya tukio</item>
+        <item quantity="one">Dakika %d kabla ya tukio</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">Wiki %d kabla ya tukio</item>
+        <item quantity="one">Wiki %d kabla ya tukio</item>
+    </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">Katika dakika %d</item>
+        <item quantity="one">Katika dakika %d</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">Siku %1$s</item>
+        <item quantity="one">Siku %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">Maadhimisho: Miaka %3$d tangu %2$s kwa siku %1$d</item>
+        <item quantity="one">Maadhimisho: Mwaka %3$d tangu %2$s kwa siku %1$d</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">Maadhimisho: Miaka %2$d tangu %1$s</item>
+        <item quantity="one">Maadhimisho: Mwaka %2$d tangu %1$s</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">Miaka %1$s</item>
+        <item quantity="one">Mwaka %1$s</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">%1$d days since</item>
+        <item quantity="one">%1$d day since</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">%1$d days until</item>
+        <item quantity="one">%1$d day until</item>
+    </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">Umri wa miaka %1$s</item>
+        <item quantity="one">Umri wa mwaka %1$s</item>
+    </plurals>
+    <plurals name="birthday_notification_text_days_later">
+        <item quantity="other">Siku %1$s hadi %4$s (%5$s)</item>
+        <item quantity="one">Siku %1$s hadi %4$s (%5$s)</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">Siku %1$s zimesalia</item>
+        <item quantity="one">Siku %1$s imesalia</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">Siku %1$d baadaye</item>
+        <item quantity="one">Siku %1$d baadaye</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">Siku %1$d kabla</item>
+        <item quantity="one">Siku %1$d kabla</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">Siku %1$d baadaye</item>
+        <item quantity="one">Siku %1$d baadaye</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">Siku %1$d kabla</item>
+        <item quantity="one">Siku %1$d kabla</item>
+    </plurals>
+    <plurals name="delete_select_dup_events_title">
+        <item quantity="other">Unajaribu kufuta matukio yanayojirudia. Ungependa kufuta matukio %d pamoja na marudio yake yote sasa?</item>
+        <item quantity="one">Unajaribu kufuta tukio linalojirudia. Ungependa kufuta tukio %d pamoja na marudio yake yote sasa?</item>
+    </plurals>
+    <plurals name="delete_select_event_title">
+        <item quantity="other">Ungependa kufuta matukio %d sasa?</item>
+        <item quantity="one">Ungependa kufuta tukio %d sasa?</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">Unaweza kuweka hadi siku %1$d</item>
+        <item quantity="one">Unaweza kuweka hadi siku %1$d</item>
+    </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">Inaweza kusanidi hadi vikumbusho %d</item>
+        <item quantity="one">Inaweza kusanidi hadi kikumbusho %d</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="n_attendees">
+        <item quantity="other">Mialiko %d</item>
+        <item quantity="one">Mwaliko %d</item>
+    </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">Matukio %d zaidi</item>
+        <item quantity="one">Tukio %d zaidi</item>
+    </plurals>
+    <plurals name="other_num_todo_events">
+        <item quantity="other">Matukio %d zaidi</item>
+        <item quantity="one">Tukio %d zaidi</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">"Siku "</item>
+        <item quantity="one">"Siku "</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">"Saa "</item>
+        <item quantity="one">"Saa "</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">"dakika "</item>
+        <item quantity="one">"dakika "</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Kikumbusho kijacho baada ya dakika %1$d</item>
+        <item quantity="one">Kikumbusho kijacho baada ya dakika %1$d</item>
+    </plurals>
+    <plurals name="repeat_custom_prompt">
+        <item quantity="other">kila %1$s mnamo %2$s</item>
+        <item quantity="one">kila %1$s mnamo %2$s</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">"Siku %1$d "</item>
+        <item quantity="one">"Siku %1$d "</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">"Miezi %1$d "</item>
+        <item quantity="one">"Mwezi %1$d "</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">"Wiki %1$d "</item>
+        <item quantity="one">"Wiki %1$d "</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">"Miaka %1$d "</item>
+        <item quantity="one">"Mwaka %1$d "</item>
+    </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">Matukio %d yamepangwa kufanyika leo</item>
+        <item quantity="one">Tukio %d limepangwa kufanyika leo</item>
+    </plurals>
+    <plurals name="travel_time_range_hours">
+        <item quantity="other">Saa %d</item>
+        <item quantity="one">Saa %d</item>
+    </plurals>
+    <plurals name="travel_time_range_mins">
+        <item quantity="other">Dakika %d</item>
+        <item quantity="one">Dakika %d</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">WIKI %d</item>
+        <item quantity="one">WIKI %d</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">Siku %1$s</item>
+        <item quantity="one">Siku %1$s</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">Matukio %d yanaloendelea</item>
+        <item quantity="one">Tukio %d linaloendelea</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">Tukio lijalo baada ya dakika %d</item>
+        <item quantity="one">Tukio lijalo baada ya dakika %d</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">Matukio %d kesho</item>
+        <item quantity="one">Tukio %d kesho</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">Siku %d za kazi</item>
+        <item quantity="one">Siku %d ya kazi</item>
+    </plurals>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_cancel">取消</string>
+    <string name="auth_continue">确定</string>
+    <string name="auth_notification_error_ssl_cert_invalid">SSL证书不可用，是否继续访问？</string>
+    <string name="auth_notification_error_ssl_date_invalid">SSL数据不可用，是否继续访问？</string>
+    <string name="auth_notification_error_ssl_expired">SSL过期，是否继续访问？</string>
+    <string name="auth_notification_error_ssl_id_mismatch">SSL ID不匹配，是否继续访问？</string>
+    <string name="auth_notification_error_ssl_invalid">SSL不可用，是否继续访问？</string>
+    <string name="auth_notification_error_ssl_not_yet_valid">SSL尚未可用，是否继续访问？</string>
+    <string name="auth_notification_error_ssl_untrusted">非受信SSL，是否继续访问？</string>
+</resources>

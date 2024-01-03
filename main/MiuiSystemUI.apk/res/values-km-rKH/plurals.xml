@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="atmospheric_pressure_desc">
+        <item quantity="other">សម្ពាធបរិយាកាស៖ %s ហិកតូប៉ាស្កាល់</item>
+    </plurals>
+    <plurals name="health_chart_calories_burned_schedule_format_desc">
+        <item quantity="other">បានប្រើប្រាស់ %1$s កាឡូរី</item>
+    </plurals>
+    <plurals name="health_chart_calories_goal_schedule_format_desc">
+        <item quantity="other">ចំនួនកាឡូរីគោលដៅ៖ %1$s កាឡូរី</item>
+    </plurals>
+    <plurals name="health_chart_calories_schedule_format">
+        <item quantity="other">%1$s/%2$s កាឡូរី</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_current_schedule_format_desc">
+        <item quantity="other">រយៈពេលសកម្មភាព៖ %1$s នាទី</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_goal_schedule_format_desc">
+        <item quantity="other">រយៈពេលសកម្មភាពគោលដៅ៖ %1$s នាទី</item>
+    </plurals>
+    <plurals name="health_chart_sport_time_schedule_format">
+        <item quantity="other">%1$s/%2$s នាទី</item>
+    </plurals>
+    <plurals name="health_chart_stand_count_schedule_format_desc">
+        <item quantity="other">ងើបឈរបាន %1$s ម៉ោង</item>
+    </plurals>
+    <plurals name="health_chart_stand_goal_schedule_format_desc">
+        <item quantity="other">រយៈពេលងើបឈរគោលដៅ៖ %1$s ម៉ោង</item>
+    </plurals>
+    <plurals name="health_chart_stand_schedule_format">
+        <item quantity="other">%1$s/%2$s ម៉ោង</item>
+    </plurals>
+    <plurals name="health_chart_step_count_current_schedule_format_desc">
+        <item quantity="other">ចំនួនជំហានបច្ចុប្បន្ន៖ %1$s ជំហាន</item>
+    </plurals>
+    <plurals name="health_chart_step_count_goal_schedule_format_desc">
+        <item quantity="other">ចំនួនជំហានគោលដៅ៖ %1$s ជំហាន</item>
+    </plurals>
+    <plurals name="health_chart_step_count_schedule_format">
+        <item quantity="other">%1$s/%2$s ជំហាន</item>
+    </plurals>
+    <plurals name="input_pattern_after_timeout_msg">
+        <item quantity="other">វាយបញ្ចូលពាក្យសម្ងាត់របស់អ្នកយ៉ាងហោចណាស់រៀងរាល់%dម៉ោងម្តង ដើម្បីចងចាំវាជានិច្ច</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_minutes_string">
+        <item quantity="other">សាកល្បង​ម្តង​ទៀត​ក្នុងរយៈពេល %d នាទីក្រោយ</item>
+    </plurals>
+    <plurals name="phone_locked_timeout_seconds_string">
+        <item quantity="other">សាកល្បង​ម្តង​ទៀត​ក្នុង​រយៈពេល %d វិនាទីក្រោយ</item>
+    </plurals>
+    <plurals name="weather_temperature_desc">
+        <item quantity="other">សីតុណ្ហភាព៖ %1$s ដឺក្រេ %2$s</item>
+    </plurals>
+</resources>

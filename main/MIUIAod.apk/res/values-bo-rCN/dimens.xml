@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="kg_classic_clock_signature_area_frame_height">80.0dip</dimen>
+    <dimen name="kg_classic_clock_signature_area_height">54.0dip</dimen>
+    <dimen name="kg_classic_plus_clock_time_area_frame_margin_top">128.0dip</dimen>
+    <dimen name="kg_top_button_padding_vertical">0.0dip</dimen>
+    <dimen name="miuix_label_text_size_small">4.5dip</dimen>
+</resources>

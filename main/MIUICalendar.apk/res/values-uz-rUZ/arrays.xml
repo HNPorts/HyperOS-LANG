@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_sync_frequency">
+        <item>Qo‘lda</item>
+        <item>Har %d minutda</item>
+        <item>Har soat</item>
+        <item>Har %d soatda</item>
+        <item>Har %d soatda</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>Dalv</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>Hamal</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>Rak</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>Jadiy</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>Faqat ushbu tadbir</item>
+        <item>Kelayotgan barcha tadbirlar</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>Faqat shu vaqt uchun</item>
+        <item>Takroriy eslatmani o‘chiring</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>Oldinga</item>
+        <item>Orqaga</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>Faqat ushbu tadbir</item>
+        <item>Bu va kelayotgan tadbirlar</item>
+        <item>Barcha tadbirlar</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>Javzo</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>Asad</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>Mezon</item>
+    </string-array>
+    <string-array name="locale_calendar_array">
+        <item>Bo‘sh</item>
+        <item>An‘anaviy Xitoy Taqvimi</item>
+        <item>Islom taqvimi</item>
+        <item>Ibroniy taqvim</item>
+        <item>Yapon taqvimi</item>
+        <item>Fors taqvimi</item>
+        <item>Hindiston taqvimi</item>
+        <item>Budda taqvimi</item>
+    </string-array>
+    <string-array name="months_English_array">
+        <item>Yanvar</item>
+        <item>Fevral</item>
+        <item>Mart</item>
+        <item>Aprel</item>
+        <item>May</item>
+        <item>Iyun</item>
+        <item>Iyul</item>
+        <item>Avgust</item>
+        <item>Sentyabr</item>
+        <item>Oktyabr</item>
+        <item>Noyabr</item>
+        <item>Dekabr</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>Faqat shu vaqt uchun</item>
+        <item>Takroriy eslatmani o‘rnating</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>Hut</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>O‘chiq</item>
+        <item>Barcha tadbirlar uchun</item>
+        <item>Vaqt sezgir tadbirlar uchun</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new_summary">
+        <item></item>
+        <item></item>
+        <item>@string/preferences_popup_alert_smart_summary_new</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>Har doim</item>
+        <item>Faqat ovozsiz bo‘lganda</item>
+        <item>Hech qachon</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>Birlamchi mintaqa</item>
+        <item>Shanba</item>
+        <item>Yakshanba</item>
+        <item>Dushanba</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>Hech qachon</item>
+        <item>Vaqt</item>
+        <item>Taymer</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>Yan</item>
+        <item>Fev</item>
+        <item>Mar</item>
+        <item>Apr</item>
+        <item>May</item>
+        <item>Iyun</item>
+        <item>Iyul</item>
+        <item>Avg</item>
+        <item>Sen</item>
+        <item>Okt</item>
+        <item>Noy</item>
+        <item>Dek</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>birinchi</item>
+        <item>ikkinchi</item>
+        <item>uchinchi</item>
+        <item>to‘rtinchi</item>
+        <item>oxirgi</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>Du-Jum</item>
+        <item>Dam olish kunlari</item>
+        <item>Butun hafta</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>Du</item>
+        <item>Ssh</item>
+        <item>Chr</item>
+        <item>Pay</item>
+        <item>Jum</item>
+        <item>Shanba</item>
+        <item>Yak</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>Hech qachon</item>
+        <item>Har oy</item>
+        <item>Har yil</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>kun</item>
+        <item>hafta</item>
+        <item>oy</item>
+        <item>yil</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>birinchi dushanba</item>
+        <item>birinchi seshanba</item>
+        <item>birinchi chorshanba</item>
+        <item>birinchi payshanba</item>
+        <item>birinchi juma</item>
+        <item>birinchi shanba</item>
+        <item>birinchi yakshanba</item>
+        <item>ikkinchi dushanba</item>
+        <item>ikkinchi seshanba</item>
+        <item>ikkinchi chorshanba</item>
+        <item>ikkinchi payshanba</item>
+        <item>ikkinchi juma</item>
+        <item>ikkinchi shanba</item>
+        <item>ikkinchi yakshanba</item>
+        <item>uchinchi dushanba</item>
+        <item>uchinchi seshanba</item>
+        <item>uchinchi chorshanba</item>
+        <item>uchinchi payshanba</item>
+        <item>uchinchi juma</item>
+        <item>uchinchi shanba</item>
+        <item>uchinchi yakshanba</item>
+        <item>to‘rtinchi dushanba</item>
+        <item>to‘rtinchi seshanba</item>
+        <item>to‘rtinchi chorshanba</item>
+        <item>to‘rtinchi payshanba</item>
+        <item>to‘rtinchi juma</item>
+        <item>to‘rtinchi shanba</item>
+        <item>to‘rtinchi yakshanba</item>
+        <item>oxirgi dushanba</item>
+        <item>oxirgi seshanba</item>
+        <item>oxirgi chorshanba</item>
+        <item>oxirgi payshanba</item>
+        <item>oxirgi juma</item>
+        <item>oxirgi shanba</item>
+        <item>oxirgi yakshanba</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>Javob yo‘q</item>
+        <item>Ha</item>
+        <item>Balki</item>
+        <item>Yo‘q</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>Javob bermang</item>
+        <item>Qabul qilish</item>
+        <item>Keyinroq qaror qiling</item>
+        <item>Rad etish</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>Qavs</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>Aqrab</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>Savr</item>
+    </string-array>
+    <string-array name="timezone_labels_v3">
+        <item>Marshall orollari</item>
+        <item>Midvey oroli</item>
+        <item>Gavayi</item>
+        <item>Alyaska</item>
+        <item>Tinch okeani vaqti</item>
+        <item>Tixuana</item>
+        <item>Arizona</item>
+        <item>Chiuaua</item>
+        <item>Tog‘ vaqti</item>
+        <item>Markaziy Amerika</item>
+        <item>Markaziy vaqt</item>
+        <item>Meksika shahri</item>
+        <item>Saskachevan</item>
+        <item>Bogota</item>
+        <item>Sharqiy vaqt</item>
+        <item>Venesuela</item>
+        <item>Atlantika vaqti (Barbados)</item>
+        <item>Atlantika vaqti (Kanada)</item>
+        <item>Manaus</item>
+        <item>Santyago</item>
+        <item>Nyufaundlend</item>
+        <item>Brazilia</item>
+        <item>Buenos-Ayres</item>
+        <item>Grenlandiya</item>
+        <item>Montevideo</item>
+        <item>Orta-Atlantika vaqti</item>
+        <item>Azor orollari</item>
+        <item>Kabo-Verde</item>
+        <item>Kasablanka</item>
+        <item>London</item>
+        <item>Dublin</item>
+        <item>Amsterdam</item>
+        <item>Berlin</item>
+        <item>Belgrad</item>
+        <item>Bryussel</item>
+        <item>Sarayevo</item>
+        <item>Vindxuk</item>
+        <item>G‘arbiy Afrika vaqti</item>
+        <item>Amman</item>
+        <item>Afina</item>
+        <item>Istanbul</item>
+        <item>Beyrut</item>
+        <item>Qohira</item>
+        <item>Xelsinki</item>
+        <item>Quddus</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Bag‘dod</item>
+        <item>Moskva</item>
+        <item>Quvayt</item>
+        <item>Nayrobi</item>
+        <item>Tehron</item>
+        <item>Boku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubay</item>
+        <item>Kobul</item>
+        <item>Karachi</item>
+        <item>Uralsk</item>
+        <item>Yekaterinburg</item>
+        <item>Kalkutta</item>
+        <item>Shrilanka</item>
+        <item>Katmandu</item>
+        <item>Ostona</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Pekin</item>
+        <item>Chongqing</item>
+        <item>Gonkong</item>
+        <item>Makao</item>
+        <item>Singapur</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Pert</item>
+        <item>Taypey</item>
+        <item>Seul</item>
+        <item>Tokyo</item>
+        <item>Yakutsk</item>
+        <item>Adelaida</item>
+        <item>Darvin</item>
+        <item>Brisben</item>
+        <item>Hobart</item>
+        <item>Sidney</item>
+        <item>Kanberra</item>
+        <item>Vladivostok</item>
+        <item>Guam</item>
+        <item>Magadan</item>
+        <item>Oklend</item>
+        <item>Fidji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>Sunbula</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>YAK</item>
+        <item>DSH</item>
+        <item>SSH</item>
+        <item>CHR</item>
+        <item>PAY</item>
+        <item>JU</item>
+        <item>SHN</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>Shaffof</item>
+        <item>Oq fon</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>Y</item>
+        <item>D</item>
+        <item>S</item>
+        <item>Ch</item>
+        <item>P</item>
+        <item>J</item>
+        <item>Sh</item>
+    </string-array>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="area_code_search_result_size">
+        <item quantity="other">Imepata matokeo %d</item>
+        <item quantity="one">Imepata matokeo %d</item>
+    </plurals>
+    <plurals name="family_service_member_count">
+        <item quantity="other">Watu %d</item>
+        <item quantity="one">Mtu %d</item>
+    </plurals>
+    <plurals name="health_description_title_suffix">
+        <item quantity="other">"Hatua  "</item>
+        <item quantity="one">"u0020hatua  hatua"</item>
+    </plurals>
+    <plurals name="mtrl_badge_content_description">
+        <item quantity="other">Arifa %d mpya</item>
+        <item quantity="one">Arifa %d mpya</item>
+    </plurals>
+</resources>

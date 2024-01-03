@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="cloud_storage_full_upgrade_text">
+        <item quantity="other">Hifadhi haitoshi. Haikuweza kusawazisha picha %d.</item>
+        <item quantity="one">Hifadhi haitoshi. Haikuweza kusawazisha picha %d.</item>
+    </plurals>
+    <plurals name="dirty_blocklist_count">
+        <item quantity="other">Ingizo %d za orodha ya kuzuia</item>
+        <item quantity="one">Ingizo %d la orodha ya kuzuia</item>
+    </plurals>
+    <plurals name="dirty_browser_count">
+        <item quantity="other">Vipengee %d vya kivinjari</item>
+        <item quantity="one">Kipengee %d cha kivinjari</item>
+    </plurals>
+    <plurals name="dirty_calendar_count">
+        <item quantity="other">Vipengee %d vya kalenda</item>
+        <item quantity="one">%d kipengee cha kalenda</item>
+    </plurals>
+    <plurals name="dirty_callog_count">
+        <item quantity="other">Rekodi %d za simu zilizopigwa</item>
+        <item quantity="one">Rekodi %d ya simu zilizopigwa</item>
+    </plurals>
+    <plurals name="dirty_contacts_count">
+        <item quantity="other">Anwani %d</item>
+        <item quantity="one">Anwani %d</item>
+    </plurals>
+    <plurals name="dirty_image_count">
+        <item quantity="other">Picha %d</item>
+        <item quantity="one">Picha %d</item>
+    </plurals>
+    <plurals name="dirty_mms_count">
+        <item quantity="other">Jumbe %d</item>
+        <item quantity="one">Ujumbe %d</item>
+    </plurals>
+    <plurals name="dirty_note_count">
+        <item quantity="other">Madokezo %d</item>
+        <item quantity="one">Dokezo %d</item>
+    </plurals>
+    <plurals name="dirty_note_count_v2">
+        <item quantity="other">Madokezo %d</item>
+        <item quantity="one">Dokezo %d</item>
+    </plurals>
+    <plurals name="dirty_personalAssistant_count">
+        <item quantity="other">Ingizo %d za App vault</item>
+        <item quantity="one">Ingizo %d la App vault</item>
+    </plurals>
+    <plurals name="dirty_phrase_count">
+        <item quantity="other">Vifungu %d vya mara kwa mara</item>
+        <item quantity="one">%d maneno ya mara kwa mara</item>
+    </plurals>
+    <plurals name="dirty_recorder_count">
+        <item quantity="other">Rekodi %d</item>
+        <item quantity="one">Rekodi %d</item>
+    </plurals>
+    <plurals name="dirty_wlan_count">
+        <item quantity="other">Mitandao %d ya Wi-Fi</item>
+        <item quantity="one">Mtandao %d wa Wi-Fi</item>
+    </plurals>
+    <plurals name="dirty_wlan_count_china">
+        <item quantity="other">%d WLAN networks</item>
+        <item quantity="one">%d WLAN network</item>
+    </plurals>
+    <plurals name="error_retry_hour">
+        <item quantity="other">Saa %s</item>
+        <item quantity="one">Saa %s</item>
+    </plurals>
+    <plurals name="error_retry_minute">
+        <item quantity="other">Dakika %s</item>
+        <item quantity="one">Dakika %s</item>
+    </plurals>
+    <plurals name="error_retry_second">
+        <item quantity="other">Sekunde %s</item>
+        <item quantity="one">Sekunde %s</item>
+    </plurals>
+    <plurals name="error_screen_pwd_next_retry_time">
+        <item quantity="other">Jaribu tena baada ya sekunde %d</item>
+        <item quantity="one">Jaribu tena baada ya sekunde %d</item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_red_title">
+        <item quantity="other">Haikuweza kusawazisha &lt;font color=#F22424>vipengee%s &lt;/font></item>
+        <item quantity="one">Haikuweza kusawazisha &lt;font color=#F22424>kipengee%s &lt;/font></item>
+    </plurals>
+    <plurals name="gallery_auto_sync_fail_noti_title">
+        <item quantity="other">Haikuweza kusawazisha vipengee %s</item>
+        <item quantity="one">Haikuweza kusawazisha kipengee %s</item>
+    </plurals>
+    <plurals name="items_unsynced">
+        <item quantity="other">Vipengee kinasubiri kusawazishwa: %d</item>
+        <item quantity="one">Kipengee kinasubiri kusawazishwa: %d</item>
+    </plurals>
+    <plurals name="last_sync_time_hours_ago">
+        <item quantity="other">Saa %s zilizopita</item>
+        <item quantity="one">Saa %s iliyopita</item>
+    </plurals>
+    <plurals name="last_sync_time_mins_ago">
+        <item quantity="other">Dakika %s zilizopita</item>
+        <item quantity="one">Dakika %s iliyopita</item>
+    </plurals>
+    <plurals name="micloud_manual_pause_and_resume">
+        <item quantity="other">Inaendelea kusawazisha baada ya dakika %d</item>
+        <item quantity="one">Inaendelea kusawazisha baada ya dakika %d</item>
+    </plurals>
+    <plurals name="noti_quota_full_title_with_icon_text">
+        <item quantity="other">Hifadhi imejaa. Haikuweza kusawazisha &lt;font color=#F22424>%d programu&lt;/font>.</item>
+        <item quantity="one">Hifadhi imejaa. Haikuweza kusawazisha &lt;font color=#F22424>%d programu&lt;/font>.</item>
+    </plurals>
+    <plurals name="provision_sync_items_status_title">
+        <item quantity="other">Huduma za %s zitasawazishwa na Wingu la Xiaomi</item>
+        <item quantity="one">Huduma ya %s itasawazishwa na Wingu la Xiaomi</item>
+    </plurals>
+    <plurals name="select_no_more_than">
+        <item quantity="other">Haiwezi kuchagua zaidi ya vipengee %d</item>
+        <item quantity="one">Haiwezi kuchagua zaidi ya kipengee %d</item>
+    </plurals>
+    <plurals name="share_sdk_invitation_some_people_accepted">
+        <item quantity="other">Mwaliko umekubaliwa na watu %d</item>
+        <item quantity="one">Mwaliko umekubaliwa na mtu %d</item>
+    </plurals>
+    <plurals name="time_format_day">
+        <item quantity="other">Siku %1$s</item>
+        <item quantity="one">Siku %1$s</item>
+    </plurals>
+    <plurals name="time_format_hour">
+        <item quantity="other">Saa %1$s</item>
+        <item quantity="one">Saa %1$s</item>
+    </plurals>
+    <plurals name="time_format_min">
+        <item quantity="other">Dakika %1$s</item>
+        <item quantity="one">Dakika %1$s</item>
+    </plurals>
+</resources>

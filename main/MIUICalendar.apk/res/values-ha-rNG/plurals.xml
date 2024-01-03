@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="Ndays">
+        <item quantity="other">kwanaki %d kafin aukuwa</item>
+        <item quantity="one">kwana %d kafin aukuwa</item>
+    </plurals>
+    <plurals name="Ndays_after_at">
+        <item quantity="other">A cikin kwana %1$d a %2$s</item>
+        <item quantity="one">A cikin kwana %1$d a %2$s</item>
+    </plurals>
+    <plurals name="Ndays_ago_at">
+        <item quantity="other">kwanaki %1$d dasu ka wuce kafin aukuwa a %2$s</item>
+        <item quantity="one">kwana %1$d dasu ka wuce kafin aukuwa a %2$s</item>
+    </plurals>
+    <plurals name="Nhours">
+        <item quantity="other">awowi %d kafin aukuwa</item>
+        <item quantity="one">awa %d kafin aukuwa</item>
+    </plurals>
+    <plurals name="Nminutes">
+        <item quantity="other">Mintoci %d kafin aukuwa</item>
+        <item quantity="one">Minti %d kafin aukuwa</item>
+    </plurals>
+    <plurals name="Nweeks">
+        <item quantity="other">makonni %d kafin aukuwa</item>
+        <item quantity="one">mako %d kafin aukuwa</item>
+    </plurals>
+    <plurals name="a_hour_ago">
+        <item quantity="other">Awa 1daya wuce</item>
+        <item quantity="one">Awa 1daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_a_hour_ago">
+        <item quantity="other">awowi %d da suka wuce</item>
+        <item quantity="one">awa %d daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="abbrev_in_a_hour">
+        <item quantity="other">Cikin awowi %d</item>
+        <item quantity="one">Cikin awa %d</item>
+    </plurals>
+    <plurals name="abbrev_in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="abbrev_in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="abbrev_in_num_minutes">
+        <item quantity="other">Cikin mintuna %d</item>
+        <item quantity="one">Cikin minti %d</item>
+    </plurals>
+    <plurals name="abbrev_less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="abbrev_num_minutes_ago">
+        <item quantity="other">mintoci %d da suka wuce</item>
+        <item quantity="one">minti %d daya wuce</item>
+    </plurals>
+    <plurals name="after_num_minutes">
+        <item quantity="other">Cikin mintuna %d</item>
+        <item quantity="one">Cikin minti %d</item>
+    </plurals>
+    <plurals name="anniversary_day">
+        <item quantity="other">Ranaku %1$s</item>
+        <item quantity="one">Rana %1$s</item>
+    </plurals>
+    <plurals name="anniversary_notify_before_3_day_title">
+        <item quantity="other">Bikin cika shekara: shekaru %3$d tun %2$s cikin kwanaki %1$d</item>
+        <item quantity="one">Bikin cika shekara: shekaru %3$d tun %2$s cikin kwanaki %1$d</item>
+    </plurals>
+    <plurals name="anniversary_notify_title">
+        <item quantity="other">Bikin cika shekaru: %2$d na shekaru %1$s</item>
+        <item quantity="one">Bikin cika shekaru: %2$d na shekara %1$s</item>
+    </plurals>
+    <plurals name="anniversary_year">
+        <item quantity="other">Shekaru %1$s</item>
+        <item quantity="one">Shekara %1$s</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_ago">
+        <item quantity="other">Tun kwanaki %1$d</item>
+        <item quantity="one">Tun kwana %1$d</item>
+    </plurals>
+    <plurals name="birthday_event_description_days_later">
+        <item quantity="other">Kwanaki%1$d har</item>
+        <item quantity="one">Kwana %1$d har</item>
+    </plurals>
+    <plurals name="birthday_notification_age_term">
+        <item quantity="other">Shekaru %1$s</item>
+        <item quantity="one">Shekaru %1$s</item>
+    </plurals>
+    <plurals name="birthday_notification_text_days_later">
+        <item quantity="other">kwanaki %1$s har sai %4$s (%5$s)</item>
+        <item quantity="one">kwana %1$s har sai %4$s (%5$s)</item>
+    </plurals>
+    <plurals name="countdown_day">
+        <item quantity="other">Sauran kwanaki %1$s</item>
+        <item quantity="one">Sauran kwana %1$s</item>
+    </plurals>
+    <plurals name="date_calculate_days_after">
+        <item quantity="other">Bayan kwanaki %1$d</item>
+        <item quantity="one">Bayan kwana %1$d</item>
+    </plurals>
+    <plurals name="date_calculate_days_ago">
+        <item quantity="other">kafin kwanaki %1$d</item>
+        <item quantity="one">kafin kwana %1$d</item>
+    </plurals>
+    <plurals name="date_calculate_direction_backward">
+        <item quantity="other">Bayan kwanaki %1$d</item>
+        <item quantity="one">Bayan kwana %1$d</item>
+    </plurals>
+    <plurals name="date_calculate_direction_forward">
+        <item quantity="other">kafin kwanaki %1$d</item>
+        <item quantity="one">kafin kwana %1$d</item>
+    </plurals>
+    <plurals name="delete_select_dup_events_title">
+        <item quantity="other">Kuna ƙoƙarin share maimaita aukuwa. Share aukuwa %d tare da duk maimaitawarsu yanzu?</item>
+        <item quantity="one">Kuna ƙoƙarin share maimaita aukuwa. Share aukuwa %d tare da duk maimaitawarsa yanzu?</item>
+    </plurals>
+    <plurals name="delete_select_event_title">
+        <item quantity="other">Share aukuwa %d a yanzu?</item>
+        <item quantity="one">Share aukuwa %d a yanzu?</item>
+    </plurals>
+    <plurals name="edit_date_calculate_days_error_hint">
+        <item quantity="other">Ka na iya shigar da ranaku har %1$d</item>
+        <item quantity="one">Ka na iya shigar da rana har %1$d</item>
+    </plurals>
+    <plurals name="event_reminders_to_max">
+        <item quantity="other">Ka na iya setin tunatarwa har zuwa %d</item>
+        <item quantity="one">Ka na iya setin tunatarwa har zuwa %d</item>
+    </plurals>
+    <plurals name="half_hour_ago">
+        <item quantity="other">Rabin awa daya wuce</item>
+        <item quantity="one">Rabin awa daya wuce</item>
+    </plurals>
+    <plurals name="in_a_hour">
+        <item quantity="other">Cikin awa 1</item>
+        <item quantity="one">Cikin awa 1</item>
+    </plurals>
+    <plurals name="in_half_hour">
+        <item quantity="other">Cikin rabin awa</item>
+        <item quantity="one">Cikin rabin awa</item>
+    </plurals>
+    <plurals name="in_less_than_one_minute">
+        <item quantity="other">Nan da nan</item>
+        <item quantity="one">Nan da nan</item>
+    </plurals>
+    <plurals name="in_num_minutes">
+        <item quantity="other">cikin mintuna %d</item>
+        <item quantity="one">cikin minti 1</item>
+    </plurals>
+    <plurals name="less_than_one_minute_ago">
+        <item quantity="other">Nan take</item>
+        <item quantity="one">Nan take</item>
+    </plurals>
+    <plurals name="miuix_appcompat_items_selected">
+        <item quantity="other">Abubuwan da aka zaba %d</item>
+        <item quantity="one">Abun da aka zaba %d</item>
+    </plurals>
+    <plurals name="month_more_events">
+        <item quantity="other">+%d</item>
+        <item quantity="one">+%d</item>
+    </plurals>
+    <plurals name="n_attendees">
+        <item quantity="other">gayyatar %d</item>
+        <item quantity="one">gayyatar %d</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">mintuna %d da suka wuce</item>
+        <item quantity="one">Minti 1 daya wuce</item>
+    </plurals>
+    <plurals name="other_num_events">
+        <item quantity="other">karin aukuwa %d</item>
+        <item quantity="one">karin aukuwa %d</item>
+    </plurals>
+    <plurals name="other_num_todo_events">
+        <item quantity="other">Karin ayyuka %d</item>
+        <item quantity="one">Karin aiki %d</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_day">
+        <item quantity="other">"kwanaki "</item>
+        <item quantity="one">"kwana "</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_hour">
+        <item quantity="other">"awowi "</item>
+        <item quantity="one">"awa "</item>
+    </plurals>
+    <plurals name="reminder_custom_unit_minute">
+        <item quantity="other">"mintoci "</item>
+        <item quantity="one">"minti "</item>
+    </plurals>
+    <plurals name="reminder_later_toast">
+        <item quantity="other">Tunatarwa na gaba cikin mintuna %1$d</item>
+        <item quantity="one">Tunatarwa na gaba cikin minti %1$d</item>
+    </plurals>
+    <plurals name="repeat_custom_prompt">
+        <item quantity="other">kowane %1$s a %2$s</item>
+        <item quantity="one">kowane %1$s a %2$s</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_day_multiple">
+        <item quantity="other">"Kwanaki %1$d "</item>
+        <item quantity="one">"Kwana %1$d "</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_month_multiple">
+        <item quantity="other">"Watanni %1$d "</item>
+        <item quantity="one">"Wata %1$d "</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_week_multiple">
+        <item quantity="other">"Makonnin %1$d "</item>
+        <item quantity="one">"Mako %1$d "</item>
+    </plurals>
+    <plurals name="repeat_interval_frequency_year_multiple">
+        <item quantity="other">"Shekaru %1$d "</item>
+        <item quantity="one">"Shekara %1$d "</item>
+    </plurals>
+    <plurals name="today_has_num_event">
+        <item quantity="other">an tsara aukuwa %d ma yau</item>
+        <item quantity="one">an tsara aukuwa %d ma yau</item>
+    </plurals>
+    <plurals name="travel_time_range_hours">
+        <item quantity="other">awowi %d</item>
+        <item quantity="one">awa %d</item>
+    </plurals>
+    <plurals name="travel_time_range_mins">
+        <item quantity="other">mintuna %d</item>
+        <item quantity="one">min %d</item>
+    </plurals>
+    <plurals name="weekN">
+        <item quantity="other">MAKONNI %d</item>
+        <item quantity="one">MAKONNI %d</item>
+    </plurals>
+    <plurals name="widget_countdown_day">
+        <item quantity="other">Ranaku %1$s</item>
+        <item quantity="one">Rana %1$s</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_going_counts">
+        <item quantity="other">aukuwa dake faruwa %d ongoing events</item>
+        <item quantity="one">aukuwa dake faruwa %d</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_next_minutes">
+        <item quantity="other">Aukuwa na gaba cikin mintuna %d</item>
+        <item quantity="one">Aukuwa na gaba cikin minti %d</item>
+    </plurals>
+    <plurals name="widget_normal_agenda_tomorrow_total">
+        <item quantity="other">Aukuwa %d gobe</item>
+        <item quantity="one">Aukuwa %d gobe</item>
+    </plurals>
+    <plurals name="work_days">
+        <item quantity="other">Ranakun aiki%d</item>
+        <item quantity="one">Ranar aiki%d</item>
+    </plurals>
+</resources>

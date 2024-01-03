@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_sync_frequency">
+        <item>મેન્યુઅલ</item>
+        <item>દરેક %d મિનિટ્સ</item>
+        <item>દર કલાકે</item>
+        <item>દરેક %d કલાકો</item>
+        <item>દરેક %d કલાકો</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>કુંભ</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>મેષ</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>કર્ક</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>મકર</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>માત્ર આ ઇવેન્ટ</item>
+        <item>આ શ્રેણીમાંની બધી ઇવેન્ટ</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>માત્ર આ સમય માટે</item>
+        <item>રિપીટ કરેલ રીમાઇન્ડર બંધ કરો</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>આગળ</item>
+        <item>પાછળ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>માત્ર આ ઇવેન્ટ</item>
+        <item>આ અને ભવિષ્યની ઇવેન્ટ</item>
+        <item>તમામ ઇવેન્ટ</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>મિથુન</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>સિંહ</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>તુલા</item>
+    </string-array>
+    <string-array name="locale_calendar_array">
+        <item>કંઇ નહીં</item>
+        <item>પરંપરાગત ચાઇનિઝ કૅલેન્ડર</item>
+        <item>ઇસ્લામિક કૅલેન્ડર</item>
+        <item>હિબ્રૂ કૅલેન્ડર</item>
+        <item>જાપાની કૅલેન્ડર</item>
+        <item>પર્શિયન કૅલેન્ડર</item>
+        <item>ઇન્ડિયન કૅલેન્ડર</item>
+        <item>બૌદ્ધ કૅલેન્ડર</item>
+    </string-array>
+    <string-array name="months_English_array">
+        <item>જાન્યુઆરી</item>
+        <item>ફેબ્રુઆરી</item>
+        <item>માર્ચ</item>
+        <item>એપ્રિલ</item>
+        <item>મે</item>
+        <item>જૂન</item>
+        <item>જુલાઈ</item>
+        <item>ઑગસ્ટ</item>
+        <item>સપ્ટેમ્બર</item>
+        <item>ઑક્ટોબર</item>
+        <item>નવેમ્બર</item>
+        <item>ડિસેમ્બર</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>માત્ર આ સમય માટે</item>
+        <item>રિપીટ કરેલ રીમાઇન્ડર સેટ કરો</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>મીન</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>બંધ કરો</item>
+        <item>તમામ ઇવેન્ટ માટે</item>
+        <item>સમય-સંવેદનશીલ ઇવેન્ટ માટે</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new_summary">
+        <item></item>
+        <item></item>
+        <item>@string/preferences_popup_alert_smart_summary_new</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>હંમેશા</item>
+        <item>જયારે રીંગ મૌન હોય ત્યારે જ</item>
+        <item>ક્યારેય નહીં</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>ક્ષેત્ર ડિફૉલ્ટ</item>
+        <item>શનિવાર</item>
+        <item>રવિવાર</item>
+        <item>સોમવાર</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1લો</item>
+        <item>2જો</item>
+        <item>3જો</item>
+        <item>4થો</item>
+        <item>5મો</item>
+        <item>6ઠ્ઠો</item>
+        <item>7મો</item>
+        <item>8મો</item>
+        <item>9મો</item>
+        <item>10મો</item>
+        <item>11મો</item>
+        <item>12મો</item>
+        <item>13મો</item>
+        <item>14મો</item>
+        <item>15મો</item>
+        <item>16મો</item>
+        <item>17મો</item>
+        <item>18મો</item>
+        <item>19મો</item>
+        <item>20મો</item>
+        <item>21મો</item>
+        <item>22મો</item>
+        <item>23મો</item>
+        <item>24મો</item>
+        <item>25મો</item>
+        <item>26મો</item>
+        <item>27મો</item>
+        <item>28મો</item>
+        <item>29મો</item>
+        <item>30મો</item>
+        <item>31મો</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>ક્યારેય નહીં</item>
+        <item>સમય</item>
+        <item>સંખ્યા</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>જાન્યુ</item>
+        <item>ફેબ્રુ</item>
+        <item>માર્ચ</item>
+        <item>એપ્રિલ</item>
+        <item>મે</item>
+        <item>જૂન</item>
+        <item>જુલાઇ</item>
+        <item>ઑગસ્ટ</item>
+        <item>સપ્ટે</item>
+        <item>ઑક્ટો</item>
+        <item>નવે</item>
+        <item>ડિસે</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>પહેલી</item>
+        <item>બીજી</item>
+        <item>ત્રીજી</item>
+        <item>ચોથી</item>
+        <item>છેલ્લું</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>સોમ-શુક્ર</item>
+        <item>શનિ-રવિ</item>
+        <item>આખું અઠવાડિયું</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>સોમ</item>
+        <item>મંગળ</item>
+        <item>બુધ</item>
+        <item>ગુરુ</item>
+        <item>શુક્ર</item>
+        <item>શનિ</item>
+        <item>રવિ</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>ક્યારેય નહીં</item>
+        <item>માસિક</item>
+        <item>વાર્ષિક</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>દિવસ</item>
+        <item>અઠવાડિયું</item>
+        <item>મહિનો</item>
+        <item>વર્ષ</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>પહેલો સોમવાર</item>
+        <item>પહેલો મંગળવાર</item>
+        <item>પહેલો બુધવાર</item>
+        <item>પહેલો ગુરુવાર</item>
+        <item>પહેલો શુક્રવાર</item>
+        <item>પહેલો શનિવાર</item>
+        <item>પહેલો રવિવાર</item>
+        <item>બીજો સોમવાર</item>
+        <item>બીજો મંગળવાર</item>
+        <item>બીજો બુધવાર</item>
+        <item>બીજો ગુરુવાર</item>
+        <item>બીજો શુક્રવાર</item>
+        <item>બીજો શનિવાર</item>
+        <item>બીજો રવિવાર</item>
+        <item>ત્રીજો સોમવાર</item>
+        <item>ત્રીજો ગુરુવાર</item>
+        <item>ત્રીજો બુધવાર</item>
+        <item>ત્રીજો ગુરુવાર</item>
+        <item>ત્રીજો શુક્રવાર</item>
+        <item>ત્રીજો શનિવાર</item>
+        <item>ત્રીજો રવિવાર</item>
+        <item>ચોથો સોમવાર</item>
+        <item>ચોથો મંગળવાર</item>
+        <item>ચોથો બુધવાર</item>
+        <item>ચોથો ગુરુવાર</item>
+        <item>ચોથો શુક્રવાર</item>
+        <item>ચોથો શનિવાર</item>
+        <item>ચોથો રવિવાર</item>
+        <item>છેલ્લો સોમવાર</item>
+        <item>છેલ્લો મંગળવાર</item>
+        <item>છેલ્લો બુધવાર</item>
+        <item>છેલ્લો ગુરુવાર</item>
+        <item>છેલ્લો શુક્રવાર</item>
+        <item>છેલ્લો શનિવાર</item>
+        <item>છેલ્લો રવિવાર</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>કોઇ જવાબ નથી</item>
+        <item>હા</item>
+        <item>કદાચ</item>
+        <item>નહીં</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>પ્રતિક્રિયા આપશો નહીં</item>
+        <item>સ્વીકારો</item>
+        <item>પછીથી નક્કી કરો</item>
+        <item>નકારો</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>ધન</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>વૃશ્ચિક</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>વૃષભ</item>
+    </string-array>
+    <string-array name="timezone_labels_v3">
+        <item>માર્શલ આઇલેન્ડ</item>
+        <item>મિડવે આઇલેન્ડ</item>
+        <item>હવાઇ</item>
+        <item>અલાસ્કા</item>
+        <item>પૅસિફિક સમય</item>
+        <item>ટિજુઆના</item>
+        <item>એરિઝોના</item>
+        <item>ચિહુઆહુઆ</item>
+        <item>માઉન્ટેન સમય</item>
+        <item>સેન્ટ્રલ અમેરિકા</item>
+        <item>સેન્ટ્રલ સમય</item>
+        <item>મેક્સિકો સિટી</item>
+        <item>સસ્કેશેવાન</item>
+        <item>બોગોટા</item>
+        <item>પૂર્વીય સમય</item>
+        <item>વેનેઝુએલા</item>
+        <item>એટલાન્ટિક સમય (બાર્બાડોસ)</item>
+        <item>એટલાન્ટિક સમય (કૅનેડા)</item>
+        <item>મનૌસ</item>
+        <item>સેન્ટિયાગો</item>
+        <item>ન્યૂફાઉંડલેન્ડ</item>
+        <item>બ્રાસીલિયા</item>
+        <item>બ્યૂનસ આયર્સ</item>
+        <item>ગ્રીનલેન્ડ</item>
+        <item>મૉન્ટેવીડિયો</item>
+        <item>મધ્ય-એટલાન્ટિક</item>
+        <item>અઝોરેસ</item>
+        <item>કૅપ વર્દે</item>
+        <item>કૈસાબ્લાંકા</item>
+        <item>લંડન</item>
+        <item>ડબલિન</item>
+        <item>એમ્સ્ટર્ડમ</item>
+        <item>બર્લિન</item>
+        <item>બેલગ્રેડ</item>
+        <item>બ્રુસેલ્સ</item>
+        <item>સારાજેવો</item>
+        <item>વિંડહોક</item>
+        <item>પ. આફ્રિકા સમય</item>
+        <item>અમ્માન</item>
+        <item>એથેન્સ</item>
+        <item>ઈસ્તાંબુલ</item>
+        <item>બૈરુત</item>
+        <item>કાઇરો</item>
+        <item>હેલસિંકી</item>
+        <item>જેરુસલેમ</item>
+        <item>મિંસ્ક</item>
+        <item>હરારે</item>
+        <item>બગદાદ</item>
+        <item>મૉસ્કો</item>
+        <item>કુવૈત</item>
+        <item>નૈરોબી</item>
+        <item>તેહરાન</item>
+        <item>બાકૂ</item>
+        <item>ટબિલિસિ</item>
+        <item>યેરેવાન</item>
+        <item>દુબઈ</item>
+        <item>કાબુલ</item>
+        <item>કરાચી</item>
+        <item>યુરાલ્સ્ક</item>
+        <item>યેકાટરિંગબર્ગ</item>
+        <item>કોલકાતા</item>
+        <item>શ્રી લંકા</item>
+        <item>કાઠમંડુ</item>
+        <item>અસ્તાના</item>
+        <item>યાંગૂન</item>
+        <item>કાસ્નોયાર્સ્ક</item>
+        <item>બેંગકૉક</item>
+        <item>બેઇજિંગ</item>
+        <item>ચાંગકિંગ</item>
+        <item>હોંગ કોંગ</item>
+        <item>મકાઉ</item>
+        <item>સિંગાપોર</item>
+        <item>ઇરકુત્સક</item>
+        <item>કુઆલા લુમ્પુર</item>
+        <item>પર્થ</item>
+        <item>તાઇપેઈ</item>
+        <item>સિયોલ</item>
+        <item>ટૉક્યો</item>
+        <item>યાકુત્સક</item>
+        <item>એડિલેઇડ</item>
+        <item>ડાર્વિન</item>
+        <item>બ્રિસ્બેન</item>
+        <item>હોબાર્ટ</item>
+        <item>સિડની</item>
+        <item>કેનબેરા</item>
+        <item>વ્લાદિવોસ્તોક</item>
+        <item>ગુઆમ</item>
+        <item>મૅગાડન</item>
+        <item>ઓકલેન્ડ</item>
+        <item>ફિજી</item>
+        <item>ટોન્ગા</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>કન્યા</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>રવિ</item>
+        <item>સોમ</item>
+        <item>મંગળ</item>
+        <item>બુધ</item>
+        <item>ગુરુ</item>
+        <item>શુક્ર</item>
+        <item>શનિ</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>પારદર્શક</item>
+        <item>સફેદ બેકગ્રાઉન્ડ</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>ર</item>
+        <item>સો</item>
+        <item>મં</item>
+        <item>બુ</item>
+        <item>ગુ</item>
+        <item>શુ</item>
+        <item>શ</item>
+    </string-array>
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>Servizzi tal-interkonnettività tat-tagħmir</item>
+        <item>Konnessjoni u qsim mal-oħrajn/Servizzi tal-interkonnettività tat-tagħmir</item>
+        <item>"Screen Combo;Dwett;Għadd ta' skrins;Duo;Kompjuter;Mera;Servizzi tal-interkonnettività tat-tagħmir"</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>"Ma istax taqbad b'kodiċi QR?"</item>
+        <item>Ma tistsax issib il-mowbajls mill-kompjuter tiegħek?</item>
+        <item>Ma tistax issakkar il-mowbajl tiegħek?</item>
+        <item>Kompatibbiltà</item>
+    </string-array>
+</resources>

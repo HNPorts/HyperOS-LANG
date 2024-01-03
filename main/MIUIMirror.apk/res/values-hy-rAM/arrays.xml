@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d ԿԲ</item>
+        <item>%1$d ԿԲ</item>
+        <item>%1$d ԿԲ</item>
+        <item>%1$d ԿԲ</item>
+        <item>%1$d ՄԲ</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>Սարքի փոխկապակցման ծառայություններ</item>
+        <item>Միացում &amp; համօգտագործման/Սարքի փոխկապակցման ծառայություններ</item>
+        <item>Էկրանի կոմբինացիա.Դուետ.Բազմաէկրան.Duo.Համակարգիչ.Հայելի.Սարքերի փոխկապակցման ծառայություններ</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>Չհաջողվե՞ց միանալ QR կոդի միջոցով:</item>
+        <item>Չե՞ք կարողանում գտնել բջջային սարքեր՝ օգտագործելով ձեր համակարգիչը:</item>
+        <item>Չե՞ք կարող կողպել ձեր բջջային սարքը:</item>
+        <item>Համատեղելիություն</item>
+    </string-array>
+</resources>

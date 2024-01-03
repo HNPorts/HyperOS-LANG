@@ -1,0 +1,372 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_sync_frequency">
+        <item>ກຳນົດເອງ</item>
+        <item>ທຸກ %d ນາທີ</item>
+        <item>ທຸກຊົ່ວໂມງ</item>
+        <item>ທຸກ %d ຊົ່ວໂມງ</item>
+        <item>ທຸກ %d ຊົ່ວໂມງ</item>
+    </string-array>
+    <string-array name="aquarius_info">
+        <item>aquarius</item>
+        <item>ລາສີກຸມ</item>
+    </string-array>
+    <string-array name="aries_info">
+        <item>aries</item>
+        <item>ລາສີເມກ</item>
+    </string-array>
+    <string-array name="cancer_info">
+        <item>cancer</item>
+        <item>ລາສີກໍລະກົດ</item>
+    </string-array>
+    <string-array name="capricorn_info">
+        <item>capricorn</item>
+        <item>ລາສີມັງກອນ</item>
+    </string-array>
+    <string-array name="change_response_labels">
+        <item>ສະເພາະເຫດການນີ້ເທົ່ານັ້ນ</item>
+        <item>ເຫດການທັງໝົດໃນຊຸດ</item>
+    </string-array>
+    <string-array name="close_alarm_repeating_labels">
+        <item>ສຳລັບຄັ້ງນີ້ເທົ່ານັ້ນ</item>
+        <item>ປິດການເຕືອນຊ້ຳໆ</item>
+    </string-array>
+    <string-array name="date_calculate_spinner">
+        <item>​ໄປ​ທາງ​ໜ​້າ</item>
+        <item>ຍ້ອນຫຼັງ</item>
+    </string-array>
+    <string-array name="delete_repeating_labels">
+        <item>ສະເພາະເຫດການນີ້ເທົ່ານັ້ນ</item>
+        <item>ເຫດການນີ້ແລະໃນອະນາຄົດ</item>
+        <item>ເຫດການທັງໝົດ</item>
+    </string-array>
+    <string-array name="gemini_info">
+        <item>gemini</item>
+        <item>ລາສີເມຖຸນ</item>
+    </string-array>
+    <string-array name="leo_info">
+        <item>leo</item>
+        <item>ລາສີສິງ</item>
+    </string-array>
+    <string-array name="libra_info">
+        <item>libra</item>
+        <item>ລາສີຕຸນ</item>
+    </string-array>
+    <string-array name="locale_calendar_array">
+        <item>​ບໍ່​ມີ​</item>
+        <item>ປະຕິທິນຈີນແບບດັ້ງເດີມ</item>
+        <item>ປະຕິທິນອິດສະລາມ</item>
+        <item>ປະຕິທິນຮີບຣູ</item>
+        <item>ປະຕິທິນຍີ່ປຸ່ນ</item>
+        <item>ປະຕິທິນເປີເຊຍ</item>
+        <item>ປະຕິທິນອິນເດຍ</item>
+        <item>ປະຕິທິນພຸດ</item>
+    </string-array>
+    <string-array name="months_English_array">
+        <item>ເດືອນມັງກອນ</item>
+        <item>ເດືອນກຸມພາ</item>
+        <item>ເດືອນມີນາ</item>
+        <item>ເດືອນເມສາ</item>
+        <item>ພຶດສະພາ</item>
+        <item>ເດືອນມິຖຸນາ</item>
+        <item>ເດືອນກໍລະກົດ</item>
+        <item>ເດືອນສິງຫາ</item>
+        <item>ເດືອນກັນຍາ</item>
+        <item>ເດືອນຕຸລາ</item>
+        <item>ເດືອນພະຈິກ</item>
+        <item>ເດືອນທັນວາ</item>
+    </string-array>
+    <string-array name="open_alarm_repeating_labels">
+        <item>ສຳລັບຄັ້ງນີ້ເທົ່ານັ້ນ</item>
+        <item>ຕັ້ງເຕືອນຊ້ຳໆ</item>
+    </string-array>
+    <string-array name="pisces_info">
+        <item>pisces</item>
+        <item>ລາສີມີນ</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new">
+        <item>ປິດ</item>
+        <item>ສຳລັບທຸກກຳນົດການ</item>
+        <item>ສຳລັບກຳນົດການທີ່ມີເວລາ</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_popup_new_summary">
+        <item></item>
+        <item></item>
+        <item>@string/preferences_popup_alert_smart_summary_new</item>
+    </string-array>
+    <string-array name="prefEntries_alerts_vibrateWhen">
+        <item>ສະເໝີ</item>
+        <item>ເມື່ອປິດສຽງເອີ້ນເຂົ້າເທົ່ານັ້ນ</item>
+        <item>ບໍ່ຕ້ອງ</item>
+    </string-array>
+    <string-array name="preferences_week_start_day_labels">
+        <item>ພາກພື້ນເລີ່ມຕົ້ນ</item>
+        <item>ວັນເສົາ</item>
+        <item>ວັນອາທິດ</item>
+        <item>ວັນຈັນ</item>
+    </string-array>
+    <string-array name="repeat_choose_day">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+    <string-array name="repeat_choose_end">
+        <item>ບໍ່ຕ້ອງ</item>
+        <item>ເວ​ລາ</item>
+        <item>ຈຳນວນຄັ້ງ</item>
+    </string-array>
+    <string-array name="repeat_choose_month">
+        <item>ມັງກອນ</item>
+        <item>ກຸມພາ</item>
+        <item>ມີນາ</item>
+        <item>ເມສາ</item>
+        <item>ພຶດສະພາ</item>
+        <item>ມິຖຸນາ</item>
+        <item>ກໍລະກົດ</item>
+        <item>ສິງຫາ</item>
+        <item>ກັນຍາ</item>
+        <item>ຕຸລາ</item>
+        <item>ພະຈິກ</item>
+        <item>ທັນວາ</item>
+    </string-array>
+    <string-array name="repeat_choose_week_left">
+        <item>ທຳອິດ</item>
+        <item>ທີສອງ</item>
+        <item>ທີສາມ</item>
+        <item>ທີສີ່</item>
+        <item>ສຸດທ້າຍ</item>
+    </string-array>
+    <string-array name="repeat_choose_week_right">
+        <item>ຈັນ - ສຸກ</item>
+        <item>ວັນທ້າຍອາທິດ</item>
+        <item>ຕະຫຼອດທັງອາທິດ</item>
+    </string-array>
+    <string-array name="repeat_choose_weekday">
+        <item>ຈັນ</item>
+        <item>ຄານ</item>
+        <item>ພຸດ</item>
+        <item>ພະຫັດ</item>
+        <item>ສຸກ</item>
+        <item>ເສົາ</item>
+        <item>ອາທິດ</item>
+    </string-array>
+    <string-array name="repeat_countdown">
+        <item>ບໍ່ຕ້ອງ</item>
+        <item>ລາຍເດືອນ</item>
+        <item>ລາຍປີ</item>
+    </string-array>
+    <string-array name="repeat_frequency_spinner">
+        <item>ມື້</item>
+        <item>​ອາ​ທິດ</item>
+        <item>​ເດືອນ</item>
+        <item>​ປີ</item>
+    </string-array>
+    <string-array name="repeat_monthly_on_day_count_values">
+        <item>ວັນຈັນທຳອິດ</item>
+        <item>ວັນອັງຄານທຳອິດ</item>
+        <item>ວັນພຸດທຳອິດ</item>
+        <item>ວັນພະຫັດທຳອິດ</item>
+        <item>ວັນສຸກທຳອິດ</item>
+        <item>ວັນເສົາທຳອິດ</item>
+        <item>ວັນອາທິດທຳອິດ</item>
+        <item>ວັນຈັນທີສອງ</item>
+        <item>ວັນອັງຄານທີສອງ</item>
+        <item>ວັນພຸດທີສອງ</item>
+        <item>ວັນພະຫັດທີສອງ</item>
+        <item>ວັນສຸກທີສອງ</item>
+        <item>ວັນເສົາທີສອງ</item>
+        <item>ວັນອາທິດທີສອງ</item>
+        <item>ວັນຈັນທີສາມ</item>
+        <item>ວັນອັງຄານທີສາມ</item>
+        <item>ວັນພຸດທີສາມ</item>
+        <item>ວັນພະຫັດທີສາມ</item>
+        <item>ວັນສຸກທີສາມ</item>
+        <item>ວັນເສົາທີສາມ</item>
+        <item>ວັນອາທິດທີສາມ</item>
+        <item>ວັນຈັນທີສີ່</item>
+        <item>ວັນອັງຄານທີສີ່</item>
+        <item>ວັນພຸດທີສີ່</item>
+        <item>ວັນພະຫັດທີສີ່</item>
+        <item>ວັນສຸກທີສີ່</item>
+        <item>ວັນເສົາທີສີ່</item>
+        <item>ວັນອາທິດທີສີ່</item>
+        <item>ວັນຈັນສຸດທ້າຍ</item>
+        <item>ວັນອັງຄານສຸດທ້າຍ</item>
+        <item>ວັນພຸດສຸດທ້າຍ</item>
+        <item>ວັນພະຫັດສຸດທ້າຍ</item>
+        <item>ວັນສຸກສຸດທ້າຍ</item>
+        <item>ວັນເສົາສຸດທ້າຍ</item>
+        <item>ວັນອາທິດສຸດທ້າຍ</item>
+    </string-array>
+    <string-array name="response_labels1">
+        <item>ບໍ່ມີການຕອບສະໜອງ</item>
+        <item>​ແມ່ນ</item>
+        <item>ບາງທີ</item>
+        <item>​ບໍ່</item>
+    </string-array>
+    <string-array name="response_labels2">
+        <item>ຢ່າຕອບໂຕ້</item>
+        <item>ຍອມຮັບ</item>
+        <item>ຕັດສິນໃຈໃນພາຍຫຼັງ</item>
+        <item>ປະ​ຕິ​ເສດ</item>
+    </string-array>
+    <string-array name="sagittarius_info">
+        <item>sagittarius</item>
+        <item>ລາສີທະນູ</item>
+    </string-array>
+    <string-array name="scorpio_info">
+        <item>scorpio</item>
+        <item>ລາສີພິຈິກ</item>
+    </string-array>
+    <string-array name="taurus_info">
+        <item>taurus</item>
+        <item>ລາສີພຶດສົກ</item>
+    </string-array>
+    <string-array name="timezone_labels_v3">
+        <item>ໝູ່ເກາະ Marshall</item>
+        <item>ເກາະ Midway</item>
+        <item>ຮາວາຍ</item>
+        <item>ອາລາສກ້າ</item>
+        <item>ເວລາປາຊີຟິກ</item>
+        <item>Tijuana</item>
+        <item>Arizona</item>
+        <item>Chihuahua</item>
+        <item>ເວລາ Mountain</item>
+        <item>ອາເມລິກາກາງ</item>
+        <item>ເວລາກາງ</item>
+        <item>ເມັກຊິໂກ</item>
+        <item>Saskatchewan</item>
+        <item>Bogotá</item>
+        <item>ເວລາໂຊນຕາເວັນອອກ</item>
+        <item>Venezuela</item>
+        <item>ເວລາ Atlantic (Barbados)</item>
+        <item>ເວລາ Atlantic (Canada)</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
+        <item>ນິວຟັນແລນ</item>
+        <item>ບຣາຊິເລຍ</item>
+        <item>Buenos Aires</item>
+        <item>ກຣີນແລນ</item>
+        <item>Montevideo</item>
+        <item>ມະຫາສະໝຸດອັດລັງຕິກ</item>
+        <item>Azores</item>
+        <item>Cape Verde</item>
+        <item>Casablanca</item>
+        <item>ລອນດອນ</item>
+        <item>Dublin</item>
+        <item>Amsterdam</item>
+        <item>Berlin</item>
+        <item>Belgrade</item>
+        <item>Brussels</item>
+        <item>Sarajevo</item>
+        <item>Windhoek</item>
+        <item>ເວລາໂຊນອາຟຣິກາຕາເວັນຕົກ</item>
+        <item>Amman</item>
+        <item>Athens</item>
+        <item>Istanbul</item>
+        <item>Beirut</item>
+        <item>Cairo</item>
+        <item>Helsinki</item>
+        <item>Jerusalem</item>
+        <item>Minsk</item>
+        <item>Harare</item>
+        <item>Baghdad</item>
+        <item>Moscow</item>
+        <item>Kuwait</item>
+        <item>Nairobi</item>
+        <item>Tehran</item>
+        <item>Baku</item>
+        <item>Tbilisi</item>
+        <item>Yerevan</item>
+        <item>Dubai</item>
+        <item>Kabul</item>
+        <item>Karachi</item>
+        <item>"Ural'sk"</item>
+        <item>Yekaterinburg</item>
+        <item>Kolkata</item>
+        <item>Sri Lanka</item>
+        <item>Kathmandu</item>
+        <item>Astana</item>
+        <item>Yangon</item>
+        <item>Krasnoyarsk</item>
+        <item>Bangkok</item>
+        <item>Beijing</item>
+        <item>Chongqing</item>
+        <item>ຮ່ອງກົງ</item>
+        <item>ມາເກົ້າ</item>
+        <item>ສິງກະໂປ</item>
+        <item>Irkutsk</item>
+        <item>Kuala Lumpur</item>
+        <item>Perth</item>
+        <item>Taipei</item>
+        <item>Seoul</item>
+        <item>ໂຕກຽວ</item>
+        <item>Yakutsk</item>
+        <item>Adelaide</item>
+        <item>Darwin</item>
+        <item>Brisbane</item>
+        <item>Hobart</item>
+        <item>ຊິດນີ່</item>
+        <item>Canberra</item>
+        <item>Vladivostok</item>
+        <item>ກວມ</item>
+        <item>Magadan</item>
+        <item>Auckland</item>
+        <item>Fiji</item>
+        <item>Tonga</item>
+    </string-array>
+    <string-array name="virgo_info">
+        <item>virgo</item>
+        <item>ລາສີກັນ</item>
+    </string-array>
+    <string-array name="week_header_name">
+        <item>ອາທິດ</item>
+        <item>ຈັນ</item>
+        <item>ຄານ</item>
+        <item>ພຸດ</item>
+        <item>ພະຫັດ</item>
+        <item>ສຸກ</item>
+        <item>ເສົາ</item>
+    </string-array>
+    <string-array name="widget_style_list">
+        <item>ໂປ່ງໃສ</item>
+        <item>ພື້ນຫຼັງສີຂາວ</item>
+    </string-array>
+    <string-array name="year_view_week_header_name">
+        <item>ທິດ</item>
+        <item>ຈັນ</item>
+        <item>ຄານ</item>
+        <item>ພຸດ</item>
+        <item>ພະຫັດ</item>
+        <item>ສຸກ</item>
+        <item>ເສົາ</item>
+    </string-array>
+</resources>

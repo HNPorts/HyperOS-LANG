@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="buffer_size_values">
+        <item>\@null</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d KB</item>
+        <item>%1$d MB</item>
+    </string-array>
+    <string-array name="miui15_settings_search_mirror">
+        <item>សេវាកម្ម ត​ភ្ជាប់ អន្ត​រ​​​​ឧប​ក​រ​ណ៍</item>
+        <item>ការ​ត​ភ្ជាប់​​ &amp; ការចែករំលែក/សេវាកម្ម​តភ្ជាប់អន្តរឧបករណ៍</item>
+        <item>Screen Combo;Duet;ផ្ទាំង​អេក្រង់ច្រើន;Duo;កុំព្យូទ័រ;កញ្ចក់;សេវាកម្ម​ត​ភ្ជាប់អន្តរ​ឧប​ករ​ណ៍</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>មិនអាចភ្ជាប់ដោយប្រើ QR កូដបានមែនទេ?</item>
+        <item>រកមិនឃើញឧបករណ៍ចល័តដែលប្រើកុំព្យូទ័ររបស់អ្នកមែនទេ?</item>
+        <item>មិនអាចចាក់សោឧបករណ៍ចល័តរបស់អ្នកបានមែនទេ?</item>
+        <item>ភាពត្រូវគ្នា</item>
+    </string-array>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="miui15_settings_search_mirror">
+        <item>跨屏协同服务</item>
+        <item>连接与共享/跨屏协同服务</item>
+        <item>跨屏协作;跨屏协同;多屏协同;电脑协作;电脑协同;跨屏协同服务</item>
+    </string-array>
+    <string-array name="settings_tips_title">
+        <item>扫码后无法连接？</item>
+        <item>电脑端找不到手机？</item>
+        <item>无法锁屏？</item>
+        <item>设备支持情况</item>
+    </string-array>
+</resources>
