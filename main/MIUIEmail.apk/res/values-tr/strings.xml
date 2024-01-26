@@ -766,7 +766,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="how_to_login_icloud">iCloud hesabında nasıl oturum açılır</string>
-    <string name="icloud_login_tips">YiCloud postanızla kullanmak için buradan bir şifre oluşturabilirsiniz: iCloud.com</string>
+    <string name="icloud_login_tips">iCloud postanızla kullanmak için buradan bir şifre oluşturabilirsiniz: iCloud.com</string>
     <string name="icloud_login_tips_url_part">iCloud.com</string>
     <string name="icloud_official_url">https://appleid.apple.com/</string>
     <string name="icon_content_description">İletişim simgesi</string>
@@ -1138,7 +1138,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="pdf_signature_manager_max_count">Maksimum imza sayısı. Lütfen mevcut imzayı silin ve tekrar deneyin</string>
     <string name="pdf_signature_manager_title">İmza yöneticisi</string>
     <string name="pdf_signature_select">İmza seçin</string>
-   <string name="pdf_viewer_file_damage_toast">PDF dosyası bozuk. Lütfen dosyayı kontrol edin ve tekrar deneyin</string>
+    <string name="pdf_viewer_file_damage_toast">PDF dosyası bozuk. Lütfen dosyayı kontrol edin ve tekrar deneyin</string>
     <string name="pdf_viewer_new_email">Yeni e-posta</string>
     <string name="pdf_viewer_reply">Yanıtla</string>
     <string name="pdf_viewer_reply_all">Herkese bu dosyayla yanıt ver</string>
