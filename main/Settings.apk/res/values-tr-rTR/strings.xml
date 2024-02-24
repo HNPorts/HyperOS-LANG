@@ -5395,7 +5395,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="managed_profile_contact_search_summary">Arayanların ve kişilerin kimliğini belirlemek için kuruluşunuz tarafından yapılan kişi aramalarına izin verin</string>
     <string name="managed_profile_contact_search_title">Kişi arama</string>
     <string name="managed_profile_location_category">İş profili</string>
-    <string name="managed_profile_location_switch_lockdown">Şirket yöneticisi tarafından kapatıldı</string>
+    <string name="managed_profile_location_switch_lockdown">İşletme yöneticisi tarafından kapatıldı</string>
     <string name="managed_profile_location_switch_title">İş profili konumu</string>
     <string name="managed_profile_not_available_label">İş profili henüz kullanılamıyor</string>
     <string name="managed_profile_settings_footer">İş uygulamaları kapalıyken duraklatılır ve bunlara erişilemez veya size bildirim gönderilemez</string>
@@ -5757,7 +5757,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="miui_bubbles_notification_status_opened">Açık</string>
     <string name="miui_cta_privacy">Gizlilik testi modunu aç</string>
     <string name="miui_data_usage_menu_metered">Mobil bağlantı noktaları</string>
-    <string name="miui_desktop_mode_settings">İş modu</string>
+    <string name="miui_desktop_mode_settings">Masaüstü modu</string>
     <string name="miui_device_control_description">Uyumlu akıllı ev cihazlarını kontrol edebilmek için cihaz kontrollerini destekleyen uygulamaları gösterin</string>
     <string name="miui_experience_optimization">Xiaomi optimizasyonu</string>
     <string name="miui_face_data_input_dialog_cancel_btn_for_sensor_light_virtual">İptal et</string>
@@ -11002,7 +11002,7 @@ dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="work_ringtone_title">İş telefonu zil sesi</string>
     <string name="work_sim_title">"İş Sim'i"</string>
     <string name="work_sound_permission_dialog_button_text_known">Tamam</string>
-    <string name="work_sound_permission_dialog_message">İşletme modunda Temaları kullanamazsınız. Erişim izni almak için yöneticinizle iletişime geçin</string>
+    <string name="work_sound_permission_dialog_message">İşletme modunda temaları kullanamazsınız. Erişim izni almak için yöneticinizle iletişime geçin</string>
     <string name="work_sound_permission_dialog_title">İşletme modu kısıtlamaları</string>
     <string name="work_sound_same_as_personal">Kişisel profille aynı</string>
     <string name="work_space_delete">İş alanını sil</string>
