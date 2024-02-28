@@ -5566,7 +5566,7 @@ Bu cihazda başka kullanıcılar da var
     <string name="mi_service">Mi hizmeti</string>
     <string name="mi_service_app_detail">Veri kullanım detayları</string>
     <string name="mi_shopping_mall">Mi mağaza</string>
-    <string name="mi_smart_hub_entry_title">Mi Akıllı Ev</string>
+    <string name="mi_smart_hub_entry_title">Mi akıllı ses</string>
     <string name="mi_smart_play_entry_title">Mi akıllı oynatıcı</string>
     <string name="mi_transfer">Aktarma</string>
     <string name="mi_upi_settings">Mi cüzdan hesabı</string>
@@ -11294,4 +11294,5 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
 	<string name="folder_blur_title">Klasör bulanıklık efekti</string>
 	<string name="folder_close_title">Klasörleri otomatik kapat</string>
 	<string name="classic_widget_title">Klasik araçlar</string>
+	<string name="search_box_title">Alt arama kutusu</string>
 </resources>
