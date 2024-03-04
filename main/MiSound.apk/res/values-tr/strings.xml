@@ -338,7 +338,7 @@
     <string name="material_timepicker_select_time">Zaman seçin</string>
     <string name="material_timepicker_text_input_mode_description">Zaman girişi için metin giriş moduna geçin</string>
     <string name="midnight">Gece</string>
-    <string name="misound_effect_setting">Xiaomi Ses</string>
+    <string name="misound_effect_setting">Mi ses</string>
     <string name="miuix_access_state_desc">Seçildi</string>
     <string name="miuix_alphabet_indexer_name">Dizin çubuğu</string>
     <string name="miuix_appcompat_action_mode_deselect_all">Seçimi kaldır</string>
@@ -537,8 +537,8 @@
     <string name="music_headset_settings">Kulaklıklar &amp; ses efektleri</string>
     <string name="music_hifi_summary">Gürültüyü ve bozulmayı azaltın ve ses kalitesini artırın</string>
     <string name="music_hifi_title">Hifi ses</string>
-    <string name="music_mi_effect_summary">Hoparlör kullanırken Xiaomi Ses arttırıcıyı kullanın</string>
-    <string name="music_mi_effect_title">Xiaomi Ses arttırıcı</string>
+    <string name="music_mi_effect_summary">Hoparlör kullanırken Mi ses arttırıcıyı kullanın</string>
+    <string name="music_mi_effect_title">Mi ses arttırıcı</string>
     <string name="music_open_customized_sound_summary">Ses seviyesini işitsel algınıza göre özelleştirin</string>
     <string name="music_open_customized_sound_title">Ses ayarı</string>
     <string name="music_please_input_head_set">Başlamadan önce kulaklığınızı bağlayın</string>
@@ -567,9 +567,9 @@
     <string name="path_password_eye_mask_strike_through">M2,4.27 L19.73,22 L22.27,19.46 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_eye_mask_visible">M2,4.27 L2,4.27 L4.54,1.73 L4.54,1.73 L4.54,1 L23,1 L23,23 L1,23 L1,4.27 Z</string>
     <string name="path_password_strike_through">M3.27,4.27 L19.74,20.74</string>
-	<string name="permission_go_to_settings">Ayarlar</string>
-	<string name="permission_requesr_content">Bu uygulamanın ayarlarda yakındaki cihazlara bağlanmasına izin verin</string>
-	<string name="permission_requesr_title">İzinler gerekli</string>
+    <string name="permission_go_to_settings">Ayarlar</string>
+    <string name="permission_requesr_content">Bu uygulamanın ayarlarda yakındaki cihazlara bağlanmasına izin verin</string>
+    <string name="permission_requesr_title">İzinler gerekli</string>
     <string name="personal_sound">Uygulamalı hazır ayar ile oynatın</string>
     <string name="pm">ÖS</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
