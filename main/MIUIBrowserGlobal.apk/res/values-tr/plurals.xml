@@ -138,12 +138,20 @@
         <item quantity="other">%d kez korundu</item>
         <item quantity="one">%d kez korundu</item>
     </plurals>
+    <plurals name="kindred_coupons_hint">
+        <item quantity="other">%d kuponunuz var</item>
+        <item quantity="one">%d kuponunuz var</item>
+    </plurals>
     <plurals name="le_notification_download_completed">
         <item quantity="other">%d öğe başarıyla indirildi</item>
         <item quantity="one">%d öğe başarıyla indirildi</item>
     </plurals>
     <plurals name="less_than_one_minute_ago">
         <item quantity="other">Şimdi</item>
+    </plurals>
+    <plurals name="mggc_ins_back_seconds_remaining">
+        <item quantity="other">&lt;font color=#0D84FF>%1$d&lt;/font> saniye kaldı</item>
+        <item quantity="one">&lt;font color=#0D84FF>%1$d&lt;/font> saniye kaldı</item>
     </plurals>
     <plurals name="mins_ago">
         <item quantity="other">%1$d dakika önce</item>
@@ -305,5 +313,9 @@
     <plurals name="web_permission_protect_subtitle_time">
         <item quantity="other">%s kez</item>
         <item quantity="one">%s kez</item>
+    </plurals>
+    <plurals name="web_preload_hint_dialog_title">
+        <item quantity="other">Geçen hafta tarayıcı sizin için internet sayfası yükleme hızını %d kat artırdı</item>
+        <item quantity="one">Geçen hafta tarayıcı sizin için internet sayfası yükleme hızını %d kat artırdı</item>
     </plurals>
 </resources>

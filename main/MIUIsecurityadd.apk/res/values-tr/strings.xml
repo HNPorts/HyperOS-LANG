@@ -19,7 +19,7 @@
     <string name="abc_menu_space_shortcut_label">Boşluk</string>
     <string name="abc_menu_sym_shortcut_label">Sembol+</string>
     <string name="abc_prepend_shortcut_label">Menü+</string>
-    <string name="abc_search_hint">Ara…</string>
+    <string name="abc_search_hint">Ara</string>
     <string name="abc_searchview_description_clear">Sorguyu temizle</string>
     <string name="abc_searchview_description_query">Arama sorgusu</string>
     <string name="abc_searchview_description_search">Ara</string>
@@ -230,7 +230,7 @@
     <string name="ew_detail_receive_time_title">Başlangıç zamanı</string>
     <string name="ew_detail_receive_warn_time_message">%s saniye</string>
     <string name="ew_detail_receive_warn_time_title">Başlangıçtan önceki zaman</string>
-	<string name="ew_monitor_slogan">"Deprem izleme
+    <string name="ew_monitor_slogan">"Deprem izleme
 programımıza katılın"</string>
     <string name="ew_save_title">Kaydet</string>
     <string name="ew_share_logo_title">Deprem uyarısı</string>
@@ -309,22 +309,17 @@ programımıza katılın"</string>
     <string name="fmt_weekday_time">W T</string>
     <string name="fmt_weekday_time_timezone">W T z</string>
     <string name="fmt_weekday_timezone">W z</string>
-    <string name="free_send_net_booster">Ücretsiz ağ hız arttırımı</string>
-    <string name="free_send_net_booster_busniess">Ücretsiz Xunlei hız arttırımı alın</string>
-    <string name="free_send_net_booster_busniess_tip">Almak için dokunun</string>
-    <string name="free_send_net_booster_tip">Ücretsiz ağ hız arttırımı ile akıcı oyun deneyiminin tadını çıkartın</string>
+    <string name="free_send_net_booster">Oyun hızlandırıcıyı ücretsiz deneyin</string>
+    <string name="free_send_net_booster_busniess">Oyun hızlandırıcıyı ücretsiz deneyin</string>
+    <string name="free_send_net_booster_busniess_tip">Oyun deneyiminizi geliştirin ve bir oyun görünümü kazanın. Bu teklif yalnızca bugün geçerlidir</string>
+    <string name="free_send_net_booster_tip">Oyun deneyiminizi geliştirin ve bir Xiaomi cihazı kazanın</string>
     <string name="friday">Cuma</string>
     <string name="friday_short">Cum</string>
     <string name="friday_shortest">Cum</string>
     <string name="function_not_support">Bu özellik desteklenmiyor</string>
     <string name="game_booster">Oyun hız arttırıcı</string>
-    <string name="gamebooster_confirm_dialog_negative_btn">Reddet</string>
-    <string name="gamebooster_confirm_dialog_positive_btn">Kabul et</string>
-    <string name="gamebooster_confirm_dialog_tip"><Data>Oyun hızlandırıcı gizlilik politikası: %1$s</Data></string>
-    <string name="gamebooster_confirm_dialog_title">Gizlilik politikamızı kabul edin</string>
     <string name="gamebooster_dialog_recover">Yenile</string>
     <string name="gamebooster_dialog_start_booster">Başlat</string>
-    <string name="gamebooster_dialog_start_booster_new">Hızlandır</string>
     <string name="gamebooster_network_dialog_message">Oyun hızlandırıcının tüm özelliklerini kullanmak için güvenlik uygulamasının ağa bağlanmasına izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_message_pad">Oyun hızlandırıcının tüm özelliklerini kullanmak için güvenlik uygulamasının ağa bağlanmasına izin verilsin mi?</string>
     <string name="gamebooster_network_dialog_title">Bazı özellikler kullanılabilir durumda değil</string>
@@ -334,10 +329,10 @@ programımıza katılın"</string>
     <string name="gb_adv_touch_custom2">Sürekli musluklara duyarlılık</string>
     <string name="gb_adv_touch_custom3">Hedefleme doğruluğu</string>
     <string name="gb_adv_touch_custom4">Dokunma kararlılığı</string>
-    <string name="gb_adv_touch_custom_tip1">Daha yüksek kaydırma tepkisi bu harekete tepki hızını artırırken daha düşük kaydırma tepkisi hareketi daha kararlı hale getirir</string>
-    <string name="gb_adv_touch_custom_tip2">Kesintisiz vuruşlara karşı daha yüksek hassasiyet bu harekete tepki hızını artırırken daha düşük hassasiyet hareketi daha kararlı hale getirir</string>
-    <string name="gb_adv_touch_custom_tip3">Daha yüksek hedefleme doğruluğu daha küçük kaydırmaları daha hassas hale getirirken daha düşük hedefleme doğruluğu bu hareketi daha kararlı hale getirir</string>
-    <string name="gb_adv_touch_custom_tip4">Daha yüksek dokunma kararlılığı muslukları daha kararlı hale getirirken daha düşük dokunma kararlılığı daha küçük kaydırmaların doğruluğunu artırır</string>
+    <string name="gb_adv_touch_custom_tip1">Daha yüksek kaydırma yanıtı bu harekete verilen tepkinin hızını artırırken, daha düşük kaydırma yanıtı hareketi daha kararlı hale getirir</string>
+    <string name="gb_adv_touch_custom_tip2">Sürekli dokunmalara karşı daha yüksek hassasiyet, bu harekete verilen tepki hızını artırırken, daha düşük hassasiyet, hareketi daha kararlı hale getirir</string>
+    <string name="gb_adv_touch_custom_tip3">Daha yüksek hedefleme doğruluğu, daha küçük kaydırma hareketlerini daha hassas hale getirirken, daha düşük hedefleme doğruluğu, bu hareketi daha kararlı hale getirir</string>
+    <string name="gb_adv_touch_custom_tip4">Daha yüksek dokunma kararlılığı, dokunmaları daha kararlı hale getirirken, daha düşük dokunma kararlılığı, daha küçük kaydırma hareketlerinin doğruluğunu artırır</string>
     <string name="gb_adv_touch_custom_title">Özelleştir</string>
     <string name="gb_adv_touch_mode_pro_tips">* Bu mod profesyonel oyuncular için tasarlanmıştır. Sıradan oyuncular bu modu uygunsuz bulabilir</string>
     <string name="gb_adv_touch_pro_title">Pro mod</string>
@@ -428,7 +423,7 @@ programımıza katılın"</string>
     <string name="google_storage_bucket">securityadd-adf33.appspot.com</string>
     <string name="gtb_dialog_privacy_speed_message">Xunyou oyun hızlandırıcıı kullanmak üzeresiniz. Bu hizmet üyelik sürenizi kaydetmek için Xiaomi hesap Kimliğinizi toplayacaktır</string>
     <string name="gtb_dialog_privacy_speed_tips"><Data>"Xunyou oyun hızlandırıcı &lt;a href=\"%1$s\">gizlilik politikasını.&lt;/a>" okudum ve kabul ediyorum</Data></string>
-    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Oyun hızlandırıcı %1$s Gizlilik politikasını okudum ve kabul ediyorum</Data></string>
+    <string name="gtb_dialog_privacy_speed_tips_new"><Data>"Xunyou oyun hızlandırıcı &lt;a href=\"%1$s\">Gizlilik politikası&lt;/a>'nı okudum ve kabul ediyorum"</Data></string>
     <string name="gtb_dialog_privacy_speed_title">Xunyou oyun hızlandırıcı</string>
     <string name="gtb_dialog_privacy_voice_message">Xunyou oyun sesi değiştiriciyi kullanmak üzeresiniz. Bu hizmet üyelik sürenizi kaydetmek için Xiaomi hesap kimliğinizi toplayacaktır</string>
     <string name="gtb_dialog_privacy_voice_tips"><Data>"Xunyou oyun sesi değiştirici &lt;a href=\"%1$s\">Gizlilik politikasını&lt;/a>'nı okudum ve kabul ettim"</Data> </string>
@@ -600,8 +595,6 @@ Güvenli ve daha güvenli"</string>
     <string name="net_booster_expire_notification">Ağ hız artırımı oturumu sona ermek üzere</string>
     <string name="net_booster_overdue_notification">Ağ hız artırımı oturumu sona ermek üzere</string>
     <string name="net_booster_overdue_notification_tip">Ağ hız artırımı oturumu yakında sona erecek. Oturum yenilensin mi?</string>
-    <string name="net_free_booster_new_user_tip">Ücretsiz bir oyun hızlandırıcı alın ve bir Xiaomi telefonu kazanmak için katılın</string>
-    <string name="net_free_booster_new_user_title">Yeni kullanıcı hediyesi</string>
     <string name="net_retry_btn_text">Tekrar dene</string>
     <string name="net_switch_to_owner_space_text">Ana alana geri dön</string>
     <string name="net_unavailable_tip">Ağ kullanılamıyor. Lütfen ağı kontrol edin ve tekrar deneyin</string>
@@ -677,6 +670,9 @@ Güvenli ve daha güvenli"</string>
     <string name="pc_extreme_mode_title">Hazırda bekleme modu</string>
     <string name="pc_going_to_exit_extreme_mode">Hazırda Bekletme modundan çıkılıyor</string>
     <string name="pc_going_to_exit_extreme_mode_summary">Cihazınız şarj oluyor. Hazırda bekletme modu kapalı</string>
+    <string name="pc_satellite_auto_enter_super_power">Uydu iletişimini sağlamak için ultra pil tasarrufu açıldı</string>
+    <string name="pc_satellite_superpower_dialog_subtitle">Pil çok zayıf. Tiantong uydu iletişimleri ultra pil tasarrufuyla birlikte kapatılacak. Yine de kapatılsın mı?</string>
+    <string name="pc_satellite_superpower_dialog_title">Tiantong uydu iletişimi</string>
     <string name="permission_control">İzin yönetimi</string>
     <string name="playing">Oynat</string>
     <string name="pm">ÖS</string>
@@ -784,7 +780,7 @@ Lütfen güncellenen %s'yi okuyun ve kabul edin"</string>
     <string name="superpower_third">Üçüncü taraf uygulamaları</string>
     <string name="superpower_time">h:mm</string>
     <string name="superpower_time_24">H:mm</string>
-    <string name="superpower_toast_app_select_full">Sık kullanılan uygulamalara 6 ögeye kadar ekleyebilirsiniz</string>
+    <string name="superpower_toast_app_select_full_new">Sık kullanılan uygulamalara en fazla %d öğe ekleyebilirsiniz</string>
     <string name="switch_kid_mode">Çocuk alanını değiştir</string>
     <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetim kanunun yıl dönümü</string>
     <string name="the_anti_aggression_day">Saldırganlık karşıtı günü</string>
