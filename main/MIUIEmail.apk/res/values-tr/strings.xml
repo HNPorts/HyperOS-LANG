@@ -30,15 +30,6 @@
     <string name="abc_shareactionprovider_share_with">Şununla paylaş:</string>
     <string name="abc_shareactionprovider_share_with_application">%s ile paylaş</string>
     <string name="abc_toolbar_collapse_description">Daralt</string>
-	<string name="mailbox_name_server_all_unread">Okunmamış</string>
-    <string name="mailbox_name_server_drafts">Taslaklar</string>
-    <string name="mailbox_name_server_inbox">Gelen kutusu</string>
-    <string name="mailbox_name_server_junk">Spam</string>
-    <string name="mailbox_name_server_outbox">Giden kutusu</string>
-    <string name="mailbox_name_server_sent">Gönderilmiş</string>
-    <string name="mailbox_name_server_starred">Yıldızlı</string>
-    <string name="mailbox_name_server_trash">Çöp</string>
-	<string name="notification_mutli_message_content">Görüntülemek için tıklayın</string>
     <string name="about_checking_update">Güncelleme kontrol ediliyor</string>
     <string name="about_go_to_update">Güncellemeye git</string>
     <string name="about_lasted_version">En son sürüm</string>
@@ -775,7 +766,7 @@ Bir kullanıcı olarak haklarınızı ve verilerinizi nasıl işlediğimizi tam 
     <string name="hierarchical_folder_parent_top_ellip">%1$s∕…∕%2$s∕</string>
     <string name="hierarchical_folder_top">%1$s∕</string>
     <string name="how_to_login_icloud">iCloud hesabında nasıl oturum açılır</string>
-    <string name="icloud_login_tips">iCloud postanızla kullanmak için buradan bir şifre oluşturabilirsiniz: iCloud.com</string>
+    <string name="icloud_login_tips">YiCloud postanızla kullanmak için buradan bir şifre oluşturabilirsiniz: iCloud.com</string>
     <string name="icloud_login_tips_url_part">iCloud.com</string>
     <string name="icloud_official_url">https://appleid.apple.com/</string>
     <string name="icon_content_description">İletişim simgesi</string>
@@ -1063,6 +1054,7 @@ Lütfen uygulama şifresinin açık olup olmadığını onaylayın. Eğer açık
     <string name="notification_action_undo_delete">Silindi</string>
     <string name="notification_action_undo_remove_label">Etiket kaldırıldı</string>
     <string name="notification_message">Yalnızca seçili klasörlerdeki yeni mesajlar hakkında bilgilendirilsin mi?</string>
+    <string name="notification_mutli_message_content">Görüntülemek için tıklayın</string>
     <string name="notification_off">Kapalı</string>
     <string name="notification_on">Açık</string>
     <string name="notify_channel_new_mail">Yeni mesajları bildir</string>
