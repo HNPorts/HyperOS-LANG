@@ -30,6 +30,10 @@
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="accessibility_all_app_custom_category_finish">Bitti</string>
     <string name="accessibility_all_app_custom_category_item_remove">%1$s kategorilerinden kaldır</string>
+	<string name="double_tap_to_lock_title">Ekranı kilitlemek için iki kez dokunun</string>
+    <string name="hide_apps_title">Uygulama simgelerini gizle</string>
+    <string name="launcher_search_bar_provider_title">Arama çubuğu sağlayıcısı</string>
+    <string name="launcher_slide_up_search_provider_title">Arama sağlayıcısını yukarı kaydırın</string>
     <string name="accessibility_clear_search_bar_text">Arama çubuğunu temizle</string>
     <string name="accessibility_enter_all_app_mode">Uygulama çekmecesini aç</string>
     <string name="accessibility_enter_all_app_settings">Uygulama çekmecesi ayarlarını aç</string>
