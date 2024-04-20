@@ -555,6 +555,8 @@
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_item_view_role_description">Sekme</string>
+    <string name="miuix_navigator_category_group_collapse">Daralt</string>
+    <string name="miuix_navigator_category_group_expand">Genişlet</string>
     <string name="miuix_navigator_content_switch_description">Kenar çubuğunu göster</string>
     <string name="miuix_navigator_multiple_choice">Seç</string>
     <string name="miuix_navigator_navigator_switch_description">Kenar çubuğunu gizle</string>
@@ -744,7 +746,7 @@
     <string name="permission_read_contact_desc">Kişiler ile yapılan aramalar sırasında oluşturulan notları ilişkilendirmek</string>
     <string name="permission_storage_desc_new_v12">Notlara resim eklemek ve notları resim olarak kaydetmek içindir</string>
     <string name="permission_storage_desc_pad_new_v12">Notlara resim eklemek ve notları resim olarak kaydetmek içindir</string>
-    <string name="permission_xiaoai_desc_m">"Konuşmayı metne dönüştürme hizmetleri sağlamak için notların konuşulan ses içeriğini ve cihazınızın IMEI'sini toplaması gerekir. Bu özelliği kullanmadan önce %1$s notlar üçüncü taraf veri paylaşımı bildirimini okuyup kabul edin. Mi AI %2$s Gizlilik politikasını okuyarak ilgili özellikler hakkında daha fazla bilgi edinebilirsiniz"</string>
+    <string name="permission_xiaoai_desc_m">"Konuşmayı metne dönüştürme hizmetleri sağlamak için notların konuşulan ses içeriğini ve cihazınızın IMEI'sini toplaması gerekir. Bu özelliği kullanmadan önce %1$s notlar üçüncü taraf veri paylaşımı bildirimini okuyup kabul edin. Mi yapay zeka %2$s Gizlilik politikasını okuyarak ilgili özellikler hakkında daha fazla bilgi edinebilirsiniz"</string>
     <string name="permission_xiaoai_title">Konuşmadan yazıya</string>
     <string name="permlab_accessNote">Notlara erişim</string>
     <string name="pm">ÖS</string>
@@ -768,6 +770,7 @@
     <string name="pref_title_quick_note">Hızlı notlar</string>
     <string name="pref_title_todo_float_mode">Görev araç kutusunu kullan</string>
     <string name="preference_copied">%1$s panoya kopyalandı</string>
+    <string name="privacy_preference">ICP kayıt numarası: Pekin ICP No. 10046444-74A</string>
     <string name="private_entry_available">Özel klasörü açmak için bırakın</string>
     <string name="private_entry_default">Özel klasörü açmak için aşağı çekin</string>
     <string name="progressbar_title">Güvenlik sorunları kontrol ediliyor</string>

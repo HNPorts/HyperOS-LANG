@@ -157,8 +157,8 @@
     <string name="advertisements_disable">Reklamlar kapalı</string>
     <string name="advertisements_enable">Reklamlar açık</string>
     <string name="afternoon">Öğleden sonra</string>
-    <string name="ai_assistant_not_installed">Önce AI arama asistanını yükleyin</string>
-    <string name="ai_assistant_setting_title">AI arama asistanı</string>
+    <string name="ai_assistant_not_installed">Önce yapay zeka arama asistanını yükleyin</string>
+    <string name="ai_assistant_setting_title">Yapay zeka arama asistanı</string>
     <string name="alert_dialog_dismiss">Yoksay</string>
     <string name="alert_dialog_exit_ecm">{count, plural, =1 {Telefon bir dakikalığına acil geri arama modunda olacaktır. Bu moddayken veri bağlantısı kullanan hiçbir uygulama kullanılamaz. Şimdi çıkmak istiyor musun?} other {Telefon %s dakika boyunca acil geri arama modunda olacak. Bu moddayken veri bağlantısı kullanan hiçbir uygulama kullanılamaz. Şimdi çıkmak istiyor musun?} }</string>
     <string name="alert_dialog_exit_ecm_without_data_restriction_hint">"{count, plural, =1 {Telefon bir dakika süreyle acil durum geri arama modunda olacaktır
@@ -2102,7 +2102,7 @@ Lütfen varsayılan arama hesabı ayarınızı onaylayın"</string>
     <string name="sum_cfb_disabled">Kapalı</string>
     <string name="sum_cfb_enabled">Şuraya yönlendiriliyor: {0}</string>
     <string name="sum_cfnl_disabled">Kapalı</string>
-    <string name="sum_cfnl_enabled">Forwarding to {0}</string>
+    <string name="sum_cfnl_enabled">"{0}'a yönlendiriliyor"</string>
     <string name="sum_cfnrc_disabled">Kapat</string>
     <string name="sum_cfnrc_enabled">Şu numaraya yönlendiriliyor: {0}</string>
     <string name="sum_cfnry_disabled">Kapalı</string>
@@ -2112,7 +2112,7 @@ Lütfen varsayılan arama hesabı ayarınızı onaylayın"</string>
     <string name="sum_cfu_enabled_indicator">Tüm aramalar yönlendiriliyor</string>
     <string name="sum_cfu_enabled_indicator_by_sim">Sim %s kartına gelen tüm aramalar yönlendirilecektir</string>
     <string name="sum_cfu_enabled_no_number">Numara kullanılamıyor</string>
-    <string name="sum_common_call_settings">Additional call settings</string>
+    <string name="sum_common_call_settings">Ek arama ayarları</string>
     <string name="sum_cw_disabled">Görüşme sırasında gelen diğer aramaları bildirir</string>
     <string name="sum_cw_enabled">Arama sırasında gelen diğer aramaları bildirir</string>
     <string name="sum_default_caller_id">Giden aramalarda numara gösterimi için operatörün varsayılan ayarlarını kullan</string>
@@ -2434,6 +2434,6 @@ Mobil şebekeleri tercih etmeyi seçerseniz telefon görüşmeleri yapmak için 
     <string name="wrong_password">Girdiğiniz şifre doğru değil</string>
     <string name="xcap_setting_summary">Arama engelleme, sesli mesaj &amp; arama yönlendirme ve arama bekletme</string>
     <string name="xcap_setting_title">Arama servisi ayarları</string>
-    <string name="xiaoai_assistant_setting_title">Mi AI arana asistanı</string>
+    <string name="xiaoai_assistant_setting_title">Mi yapay zeka arana asistanı</string>
     <string name="yesterday">Dün</string>
 </resources>
