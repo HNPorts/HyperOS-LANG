@@ -141,7 +141,7 @@
     <string name="clearable_edittext_clear_description">Temizle</string>
     <string name="close">Kapat</string>
     <string name="close_invisible_mode_dialog_cancel">İptal et</string>
-    <string name="close_invisible_mode_dialog_message">Mi akıllı ses şu anda kullanılamıyor. Bu özelliği kullanabilmek için ayarlardan gizli modu kapatın</string>
+    <string name="close_invisible_mode_dialog_message">Mi Akıllı Ev şu anda kullanılamıyor. Bu özelliği kullanabilmek için ayarlardan gizli modu kapatın</string>
     <string name="close_invisible_mode_dialog_ok">Ayarlar</string>
     <string name="close_invisible_mode_dialog_title">Gizlisin</string>
     <string name="config_bodyFontFamily">sans-serif</string>
@@ -333,7 +333,7 @@
     <string name="loading">Durum bilinmiyor</string>
     <string name="material_slider_range_end">Aralık sonu,</string>
     <string name="material_slider_range_start">Aralık başı,</string>
-    <string name="mi_smart_hub_entry_title">Mi akıllı ses</string>
+    <string name="mi_smart_hub_entry_title">Mi Akıllı Ev</string>
     <string name="midnight">Gece</string>
     <string name="miplay_accessibility_cast">Cihaz seç</string>
     <string name="miplay_accessibility_cover">Kapak</string>

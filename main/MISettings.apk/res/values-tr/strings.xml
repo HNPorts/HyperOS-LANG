@@ -50,7 +50,7 @@
     <string name="anti_flicker_mode_summary">Göz yorgunluğunuzu düşürmek için düşük ışık durumlarında titreşimi azaltın. Bazı ögeler düzgün görünmeyebilir</string>
     <string name="anti_flicker_mode_summary_new">Göz yorgunluğunu azaltmak için düşük ışıkta DC karartmayı kullanın</string>
     <string name="anti_flicker_title">Titreşimsiz mod</string>
-    <string name="app_name">Mi ayarlar</string>
+    <string name="app_name">Mi Ayarlar</string>
     <string name="app_use">Uygulama ekran süresi</string>
     <string name="application_sound">Uygulama bildirimleri</string>
     <string name="applock_guide_placeholder">000</string>

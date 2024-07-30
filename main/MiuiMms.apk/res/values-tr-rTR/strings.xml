@@ -679,6 +679,10 @@ Bu mesaj istenmeyen olabilir"</string>
     <string name="mx_current_status">Ayarlar</string>
     <string name="mx_dspt">Bir Wi-Fi ağına bağlı olduğunuzda diğer Xiaomi kullanıcılarına ücretsiz olarak mesaj ve multimedya mesajları gönderin</string>
     <string name="mx_dspt_listview">Mesaj ücretlerinden kaçınarak diğer Xiaomi kullanıcılarına mesaj gönderin</string>
+	<string name="mx_dspt_listview_translation_for_pad">"İnternete bağlandığınızda herhangi bir ücret ödemeden diğer Xiaomi cihazlarına mesaj gönderin"</string>
+	<string name="mx_dspt_provision">Mi Mesaj, internet üzerinden diğer Xiaomi kullanıcılarına herhangi bir ücret ödemeden mesaj göndermenizi sağlar. Mi Mesajını yeniden etkinleştirmek için giden bir SMS mesajı gerekebilir. Operatörünüz bu mesaj için sizden ücret alacaktır. Üstelik bu özellik açıkken diğer kullanıcının çevrimiçi olup olmadığını kontrol etmek için az miktarda mobil veriye ihtiyaç duyuluyor. Kabul ediyormusunuz?</string>
+	<string name="mx_dspt_translation_for_pad">"İnternete bağlandığınızda herhangi bir ücret ödemeden diğer Xiaomi cihazlarına mesaj gönderin"</string>
+	<string name="mx_type_guide">Hiçbir ücret ödemeden diğer Xiaomi cihazlarına mesaj gönderin</string>
     <string name="mx_dspt_provision_ex2">Gizlilik politikası</string>
     <string name="mx_enable">Mi mesaj</string>
     <string name="mx_filter_message_from_stranger">Bilinmeyen numaralardan gelen Mi mesajları engelle</string>
