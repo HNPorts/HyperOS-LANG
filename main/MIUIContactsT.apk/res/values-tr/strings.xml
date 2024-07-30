@@ -937,6 +937,8 @@ Neden: %s"</string>
     <string name="miuix_indexer_collect">Koleksiyonlar</string>
     <string name="miuix_indexer_selected">%s seçildi</string>
     <string name="miuix_item_view_role_description">Sekme</string>
+    <string name="miuix_navigator_category_group_collapse">Daralt</string>
+    <string name="miuix_navigator_category_group_expand">Genişlet</string>
     <string name="miuix_navigator_content_switch_description">Kenar çubuğunu göster</string>
     <string name="miuix_navigator_multiple_choice">Seç</string>
     <string name="miuix_navigator_navigator_switch_description">Kenar çubuğunu gizle</string>
@@ -1061,8 +1063,7 @@ Neden: %s"</string>
     <string name="pay_success">Ödeme başarıyla tamamlandı</string>
     <string name="payphone">Ankesörlü telefon</string>
     <string name="people">Kişiler</string>
-    <string name="permission_notice_desc_access_fine_location">Bluetooth aracılığıyla diğer cihazlardan kişileri içe aktarmak için</string>
-<string name="permission_access_fine_location_desc">Yerel ağ sinyalini iyileştirmek içindir</string>
+    <string name="permission_access_fine_location_desc">Yerel ağ sinyalini iyileştirmek içindir</string>
     <string name="permission_camera_desc">Kimlik doğrulama sırasında fotoğraf çekmek içindir</string>
     <string name="permission_dailog_positive_button">Git</string>
     <string name="permission_dailog_title">Gerekli izin</string>

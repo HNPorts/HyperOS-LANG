@@ -64,8 +64,8 @@
         <item>@string/pm</item>
     </string-array>
     <string-array name="animation_rate_entries">
-        <item>Yavaş</item>
-        <item>Normal</item>
+        <item>Rahat</item>
+        <item>Dengeli</item>
         <item>Hızlı</item>
     </string-array>
     <string-array name="animation_rate_values">
@@ -397,11 +397,11 @@
         <item>@string/solar_term_winter_solstice</item>
     </string-array>
     <string-array name="transformation_entries">
-        <item>Kaydır</item>
-        <item>Çapraz</item>
-        <item>Yuvarla</item>
+        <item>Slayt</item>
+        <item>Çapraz solma</item>
+        <item>Takla</item>
         <item>Sayfa</item>
-        <item>Sıralı</item>
+        <item>Kademeli</item>
         <item>Döndür</item>
         <item>Küp</item>
     </string-array>
@@ -459,7 +459,8 @@
         <item>Negatif ekran öneri kartı konumu</item>
         <item>Negatif ekran öneri kartı haritası</item>
         <item>Yapay itme</item>
-        <item>Masaüstü kısayolu değiştirme düğmesi</item>
+        <item>Masaüstü kısayolunu değiştir</item>
+        <item>Yükselt ve değiştir</item>
     </string-array>
     <string-array name="widget_component_add_way">
         <item>Seçici ayrıntıları sayfasından sürükleyip bırakın</item>
@@ -472,6 +473,7 @@
         <item>Filtre sayfasından sürükleyip bırakın</item>
         <item>Kartı kategori sayfasından sürükleyip kaydırın</item>
         <item>Arama sonuçları sayfasından sürükleyip bırakın</item>
+        <item>Yükselt ve değiştir</item>
     </string-array>
     <string-array name="widget_component_default_source">
         <item>Varsayılan olmayan</item>
@@ -486,11 +488,13 @@
         <item>Çevrimdışına it</item>
         <item>Başarısız oldu</item>
         <item>Diğer</item>
+        <item>Yükselt ve değiştir</item>
     </string-array>
     <string-array name="widget_component_source">
         <item>Varsayılan düzen</item>
-        <item>Etkin olarak ekle</item>
-        <item>Operasyon müdahalesi</item>
+        <item>Aktif olarak ekle</item>
+        <item>Operasyonel izinsiz giriş</item>
+        <item>Kart değiştir</item>
     </string-array>
     <string-array name="widget_drag_type_name">
         <item>Masaüstü</item>

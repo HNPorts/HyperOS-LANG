@@ -132,8 +132,8 @@ Tekrar deneyin"</string>
     <string name="carry_current_location">Geçerli konumu ekle</string>
     <string name="carry_vital_signs">Hayati belirtileri dahil et</string>
     <string name="change_duration_activity">Süreyi değiştir</string>
-    <string name="chatbot_list_title">5G mesajlaşma</string>
-    <string name="chatbot_main_title">Mini uygulamalar</string>
+    <string name="chatbot_list_title">Sohbet robotları</string>
+    <string name="chatbot_main_title">Sohbet robotları</string>
     <string name="chinese_day_1">"/1"</string>
     <string name="chinese_day_10">"/10"</string>
     <string name="chinese_day_11">"/11"</string>
@@ -495,7 +495,7 @@ Tekrar deneyin"</string>
     <string name="invisible_mode_on">Sen gizlisin</string>
     <string name="is_composing">Yazıyor</string>
     <string name="item_over_quantity">Konum bilgisi içeren en fazla %d mesajı seçin</string>
-    <string name="item_shortage">Konum bilgisini içeren en az %d mesajı seçin</string>
+    <string name="item_shortage">Konum bilgisi içeren en az %d mesajı seçin</string>
     <string name="kilobyte">KB</string>
     <string name="layout_selector_title">"Slayt gösterisi düzeni "</string>
     <string name="leave_mms_tips_context_app">Mesajlaşmadan ayrılıp uygulama şimdi açılsın mı?</string>
@@ -601,7 +601,8 @@ Sim kartınızı kontrol edin"</string>
     <string name="mms_block_hint">"Bu gönderen kişi listenizde değil
 Bu mesaj istenmeyen olabilir"</string>
     <string name="mms_block_hint_highlight">Multimedyayı engelle</string>
-    <string name="mms_main_purpose_new">Bu uygulamanın size temel hizmetleri sunabilmesi için internete bağlanması gerekiyor. Mi mesaj ve akıllı mesajlaşma hizmetlerini açmanızı öneririz</string>
+    <string name="mms_icp">ICP kayıt numarası: Pekin ICP No. 10046444-33A</string>
+    <string name="mms_main_purpose_new">Bu uygulamanın temel hizmetleri sunabilmesi için internete bağlanması gerekiyor</string>
     <string name="mms_mi_message_main_purpose">Mi mesaja hoş geldiniz. Mi mesajı etkinleştirmek için bir mesaj gönderilmesi gerekmektedir. Operatörünüz bu mesaj için sizden ücret alacaktır</string>
     <string name="mms_mi_message_request_notice">Mi mesajdan en iyi şekilde yararlanmanızı istiyoruz</string>
     <string name="mms_mx_privacy_policy">Mi mesaj gizlilik politikası</string>
@@ -1137,9 +1138,9 @@ Mobil veriyi açın ve bu sayfayı tekrar açın"</string>
     <string name="rsc_chatbot_back">Geri</string>
     <string name="rsc_chatbot_detail">Satıcı bilgi portalı</string>
     <string name="satellite_location_failed">Konum gönderilemedi. Mesaj konum olmadan gönderildi</string>
-    <string name="satellite_location_privacy"><Data>Tiantong uydusunun mesaj gönderebilmesi için konumunuza erişmesi gerekiyor. Devam etmeden önce %1$s %2$s Gizlilik politikamızı okuyup kabul edin</string>
-    <string name="satellite_location_privacy_title">Konuma erişim</string>
-    <string name="satellite_message_notification_contact_end">(Uydu aracılığıyla gönderme)</string>
+    <string name="satellite_location_privacy">"<Data>Tiantong uydusunun mesaj gönderebilmesi için konumunuza erişmesi gerekiyor. Devam etmeden önce &lt;font color=\"%1$s\">&lt;a href=\"%2$s\">Gizlilik politikamızı&lt;/a>&lt;/font> okuyup kabul edin</Data>"</string>
+    <string name="satellite_location_privacy_title">Konum erişimi</string>
+    <string name="satellite_message_notification_contact_end">(Uydu yoluyla gönderme)</string>
     <string name="satellite_sms_notification">Bu mesaj Tiantong uydu servisleri tarafından gönderildi. Gönderenin yardımınıza ihtiyacı olabilir</string>
     <string name="saturday">Cumartesi</string>
     <string name="saturday_short">Cumartesi</string>
@@ -1451,21 +1452,21 @@ Bu tür izinleri kabul etmeyi veya kişisel bilgilerinizi paylaşmayı veya yük
     <string name="video_compressing">Video sıkıştırılıyor</string>
     <string name="view">Görüntüle</string>
     <string name="view_message_details">Ayrıntıları görüntüle</string>
-    <string name="vital_signs_cta_body">"Yaşamsal belirti verileri (kalp atış hızı, SpO₂ ve tıbbi kart bilgileri dahil) Mi Fitness'tan alınmıştır. Aşağıdaki işaretleme, bu verilere erişmemizi ve bunları kullanmamızı kabul ettiğinizi gösterir.
-Mesaj uzunluğunu kontrol etmek için her tıbbi kart öğesinin yalnızca ilk 50 karakteri tutulacaktır."</string>
+    <string name="vital_signs_cta_body">"Yaşamsal belirti verileri Mi Fitness'tan alınmıştır. Aşağıdaki işaretleme bu verilere erişmemizi ve bunları kullanmamızı kabul ettiğinizi gösterir
+Mesaj uzunluğunu kontrol etmek için her tıbbi kart öğesinin yalnızca ilk 50 karakteri tutulacaktır"</string>
     <string name="vital_signs_cta_title">Hayati belirtiler</string>
     <string name="vital_signs_data_allergy">Alerjiler: %s</string>
     <string name="vital_signs_data_disease">Kronik koşullar: %s</string>
-    <string name="vital_signs_data_high_bpm">Yüksek HR. En yeni: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_high_bpm">Yüksek HR, en yeni: %1$d–%2$d BPM (%3$s–%4$s)</string>
     <string name="vital_signs_data_high_bpm_multi">Son saatte birden çok kez yüksek HR. En yeni: %1$d–%2$d BPM (%3$s–%4$s)</string>
-    <string name="vital_signs_data_low_bpm">Düşük HR. En yeni: %1$d–%2$d BPM (%3$s–%4$s)</string>
-    <string name="vital_signs_data_low_bpm_multi">"Son saatte birçok kez HR'yi düşürdük. En yeni: %1$d–%2$d BPM (%3$s–%4$s)"</string>
-    <string name="vital_signs_data_low_spo2">Düşük SpO₂. En yeni: %1$d%%–%2$d%% (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_bpm">Düşük HR, en yeni: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_bpm_multi">Son saatte birçok kez HR'yi düşürdük. En yeni: %1$d–%2$d BPM (%3$s–%4$s)</string>
+    <string name="vital_signs_data_low_spo2">Düşük SpO₂, en yeni: %1$d%%–%2$d%% (%3$s–%4$s)</string>
     <string name="vital_signs_data_low_spo2_multi">SpO₂ son saatte birçok kez düşüktü. En yeni: %1$d%%–%2$d%% (%3$s–%4$s)</string>
     <string name="vital_signs_data_medical">Tedaviler: %s</string>
     <string name="vital_signs_toast_exception">Hayati belirti verileri alınamadı</string>
     <string name="vital_signs_toast_health_app_low">"Yaşamsal belirti verilerini alabilmek için Mi Fitness'ı güncelleyin"</string>
-    <string name="vital_signs_toast_health_app_no_install">Hayati belirti verilerini alabilmek için Mi Fitness'ı yükleyin</string>
+    <string name="vital_signs_toast_health_app_no_install">"Hayati belirti verilerini alabilmek için Mi Fitness'ı yükleyin"</string>
     <string name="vital_signs_toast_no_bpm_spo2">Kalp atış hızı ve SpO₂ verileri alınamadı</string>
     <string name="vital_signs_toast_no_data">Hayati belirtiler verileri alınamadı</string>
     <string name="vital_signs_wait_body">Verilere erişiliyor. Bu bir dakika sürebilir</string>
@@ -1473,13 +1474,13 @@ Mesaj uzunluğunu kontrol etmek için her tıbbi kart öğesinin yalnızca ilk 5
     <string name="vital_signs_wait_title">Hayati belirtiler verileri</string>
     <string name="voice_report_anytime">Her zaman</string>
     <string name="voice_report_off">Kapalı</string>
-    <string name="voice_report_wiredon">Kulaklık ile</string>
+    <string name="voice_report_wiredon">Kulaklıklarla</string>
     <string name="wait_for_sp_mark_as_read">Yükleniyor</string>
-    <string name="wap_push_title">"[İtme mesajı] "</string>
-    <string name="warning_show">%d saniye içerisinde gönder</string>
+    <string name="wap_push_title">"[WAP Push] "</string>
+    <string name="warning_show">%d saniye içinde gönder</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
-    <string name="wednesday_shortest">Ç</string>
+    <string name="wednesday_shortest">Çarşamba</string>
     <string name="xiaomi_market_sdk_update_dialog_cancel">Şimdi değil</string>
     <string name="xiaomi_market_sdk_update_dialog_ok">Tamam</string>
     <string name="xiaomi_market_sdk_update_dialog_title">Bir güncelleme mevcut</string>

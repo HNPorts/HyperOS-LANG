@@ -473,7 +473,7 @@ Sadece tasarımların nasıl geldiğini kontrol etmek istedim. Yeni balonları i
     <string name="activity_not_found">Uygulama telefonunuzda yüklü değil</string>
     <string name="activity_picker_label">Etkinlik seçin</string>
     <string name="activity_title_power_manager">Pil tasarrufu;Pil tasarrufu yap</string>
-    <string name="activity_title_root_acquired">Root erişimine izin ver</string>
+    <string name="activity_title_root_acquired">Root erişimi</string>
     <string name="activity_title_root_manager">Root erişimi</string>
     <string name="activity_title_root_note">Root erişimi hakkında</string>
     <string name="ad_service">Reklam servisleri</string>
@@ -809,9 +809,9 @@ Ayarlar şimdi değiştirilsin mi?"</string>
     <string name="app_list_memory_use">Uygulama kullanımı</string>
     <string name="app_list_preference_none">Yok</string>
     <string name="app_locale_picker_summary">Her uygulama için dili ayarlayın</string>
-    <string name="app_locale_picker_title">Uygulama Dili</string>
+    <string name="app_locale_picker_title">Uygulama dili</string>
     <string name="app_locale_preference_title">Dil</string>
-    <string name="app_locales_picker_menu_title">Uygulama Dilleri</string>
+    <string name="app_locales_picker_menu_title">Uygulama dilleri</string>
     <string name="app_memory_use">Bellek kullanımı</string>
     <string name="app_mobile">Mobil veri</string>
     <string name="app_name">Ayarlar</string>
@@ -1081,7 +1081,7 @@ Cihazınızın normal şekilde çalışması için burada listelenen uygulamalar
     <string name="background_process_stop_description">Bu tekrar gerekirse diye hâlâ çalışan eski bir uygulama işlemidir. Genellikle bunu durdurmanız gerekmez</string>
     <string name="background_restrict_app_dialog_message">Bu uygulamanın arkaplan ağ erişimini kısıtlamanız uygulamanın normal olarak çalışmasına, mesaj almasına, içerik indirmesine engel olabilir. Erişim yinede kısıtlansın mı?</string>
     <string name="background_traffic">Arka plan %s</string>
-    <string name="backtouch_enable_title">Sesi arkada ayarla</string>
+    <string name="backtouch_enable_title">Arkadaki ses seviyesini ayarla</string>
     <string name="backup_at_once">Yedekle</string>
     <string name="backup_calling_enable_dialog_incompatible_nw_type">Hücresel internet üzerinden sesi açmak için lütfen tercih edilen ağ türünü LTE, NR veya Global gibi bir ağ türüne ayarlayın</string>
     <string name="backup_calling_setting_summary">"%1$s kullanılamıyorsa veya dolaşım yapılıyorsa %1$s aramaları için mobil veri SIM'inizi kullanın"</string>
@@ -1300,7 +1300,7 @@ Uygulamalar:
     <string name="battery_usage_chart_label_now">Şimdi</string>
     <string name="battery_usage_for_background_time">Arka planda: %s</string>
     <string name="battery_usage_for_total_time">Toplam: %s</string>
-    <string name="battery_usage_others">Diğerleri</string>
+    <string name="battery_usage_others">Diğer</string>
     <string name="battery_usage_screen_footer">Pil kullanımı verileri yaklaşık değerler olup telefon şarj olurken kullanım ölçülmez</string>
     <string name="battery_usage_screen_footer_empty">Pil kullanım verileri telefonunuzu birkaç saat kullanmanızın ardından görüntülenebilir</string>
     <string name="battery_usage_screen_time">Ekran süresi: %s</string>
@@ -1328,7 +1328,7 @@ Uygulamalar:
     <string name="beauty_camera">Görüntülü aramalar için güzelleştir</string>
     <string name="beauty_camera_summary">Görüntülü aramalar sırasında güzelleştirme seçeneklerini gösterir</string>
     <string name="beauty_camera_switch">Güzelleştir</string>
-    <string name="beauty_fc_assistant">Ön kamera asistanı</string>
+    <string name="beauty_fc_assistant">Kenar araç kutusu</string>
     <string name="billing_cycle">Veri uyarısı ve sınırı</string>
     <string name="billing_cycle_days_left">{count, plural, =1 {# gün kaldı} other {# gün kaldı} }</string>
     <string name="billing_cycle_less_than_one_day_left">1 günden az kaldı</string>
@@ -2019,13 +2019,13 @@ Bu özelliği Ayarlar > Bluetooth > Eşleştirilen cihazlar menüsünde değişt
     <string name="bt_half_close_switch_summary">"Bluetooth'u kapatırsanız ertesi gün otomatik olarak tekrar açılır ve cihazlarınız yeniden bağlanır"</string>
     <string name="bt_half_close_switch_title">"Bluetooth'u her zaman açık tut"</string>
     <string name="bt_hci_snoop_log">Bluetooth HCI gizli günlüğü</string>
-    <string name="bt_hci_snoop_log_filter_map_title">Bluetooth HCI gözetleme günlüğü filtreleme MAP</string>
+    <string name="bt_hci_snoop_log_filter_map_title">Bluetooth HCI gözetleme günlüğünü filtreleme (MAP)</string>
     <string name="bt_hci_snoop_log_filter_pbap_title">"PBAP'yi filtreleyen Bluetooth HCI gözetleme günlüğü"</string>
     <string name="bt_hci_snoop_log_filter_summary">"Filtreleme modunu ayarlayın. (Değişikliklerin etkili olması için Bluetooth'u devre dışı bırakın ve etkinleştirin)"</string>
     <string name="bt_hci_snoop_log_filtered_mode_disabled_summary">Bu seçeneği değiştirmek için Bluetooth HCI gözetleme günlük modunu Etkin Filtrelenmiş olarak ayarlayın</string>
     <string name="bt_hci_snoop_log_filters_dashboard_footer">"Değişikliklerin etkili olması için Bluetooth'u devre dışı bırakın ve etkinleştirin"</string>
     <string name="bt_hci_snoop_log_filters_dashboard_summary">Filtreleri ayarla</string>
-    <string name="bt_hci_snoop_log_filters_dashboard_title">Bluetooth HCI gözetleme günlüğü filtrele</string>
+    <string name="bt_hci_snoop_log_filters_dashboard_title">Bluetooth HCI gözetleme günlüğünü filtrele</string>
     <string name="bt_hci_snoop_log_summary">Bir dosyadaki tüm Bluetooth HCI paketlerini alır</string>
     <string name="bt_lc3plus_open_dialog_summary">LC3plus, yüksek kaliteli oynatma sağlar, güç tüketimini artırırken oyunlar ve videolar için ses gecikmesini azaltır. Bluetooth donanım sınırlamaları ve çevresel parazit nedeniyle oynatma kesintiye uğrayabilir</string>
     <string name="bt_lc3plus_open_dialog_title">"LC3plus'a geçilsin mi?"</string>
@@ -2989,7 +2989,7 @@ Bu ayar bu cihazın tüm kullanıcılarını etkiler"</string>
     <string name="default_rule_name">Zamanlayıcı 1</string>
     <string name="default_see_all_apps_title">Tüm uygulamaları göster</string>
     <string name="default_spell_checker">Varsayılan yazım denetleyici</string>
-    <string name="default_string_of_regional_preference">Uygulama varsayılanını kullan</string>
+    <string name="default_string_of_regional_preference">Varsayılan</string>
     <string name="default_suppression_title">Varsayılan (Önerilen))</string>
     <string name="default_theme">Varsayılan</string>
     <string name="default_usb_mode">USB bağlantısı</string>
@@ -3214,7 +3214,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="display_auto_rotate_stay_in_portrait">Portre modunda kilitle</string>
     <string name="display_auto_rotate_title">Ekran içeriğini döndür</string>
     <string name="display_category_title">Ekran</string>
-    <string name="display_cutout_emulation">Ekran girintisi simule et</string>
+    <string name="display_cutout_emulation">Ekran girintisini simule et</string>
     <string name="display_cutout_emulation_keywords">Ekran kesimi ve çentik</string>
     <string name="display_dashboard_summary">Duvar kağıdı, uyku ve yazı tipi boyutu</string>
     <string name="display_notification_icon_0">Kapalı</string>
@@ -3461,7 +3461,7 @@ Oluşturulan kayıtları dosya yöneticisinde görüntüleyebilirsiniz"</string>
     <string name="enable_compatibility">Uygulamayı ölçeklendir</string>
     <string name="enable_crbt_pref_summary">Test sırasında gelen aramalarda profil videolarını gösterme</string>
     <string name="enable_crbt_pref_title">Gelen aramalar için profil videolarını kapat</string>
-    <string name="enable_freeform_support">Serbest pencereleri etkinleştir</string>
+    <string name="enable_freeform_support">Serbest pencereler</string>
     <string name="enable_freeform_support_summary">Deneysel serbest pencere desteğini etkinleştir</string>
     <string name="enable_gnss_raw_meas_full_tracking">Tam GNSS ölçümlerini zorla</string>
     <string name="enable_gnss_raw_meas_full_tracking_summary">Tüm GNSS takımyıldızlarını ve görev döngüsü olmayan frekansları takip eder</string>
@@ -3483,8 +3483,8 @@ Oluşturulan kayıtları dosya yöneticisinde görüntüleyebilirsiniz"</string>
     <string name="enable_notes_role_summary">Notlar rolü aracılığıyla not alma sistemi entegrasyonlarını etkinleştirin. Notlar rolü zaten etkinse hiçbir şey yapmaz</string>
     <string name="enable_notes_role_title">Notlar rolünü etkinleştirmeye zorla</string>
     <string name="enable_opengl_traces_title">OpenGL izlerini etkinleştir</string>
-    <string name="enable_preferred_network_type_summary">Ağ türünüzü Ayarlar > SIM kartlar ve SIM kartlar bölümünde görüntüleyin vede ayarlayın</string>
-    <string name="enable_preferred_network_type_title">Tercih edilen ağ türü menüsünü göster</string>
+    <string name="enable_preferred_network_type_summary">Ağ türünüzü Ayarlar > Mobil ağlar ve Sim kartlar bölümünde görüntüleyin vede ayarlayın</string>
+    <string name="enable_preferred_network_type_title">Tercih edilen ağ türü menüsü</string>
     <string name="enable_quick_setting">Hızlı ayarlarda göster</string>
     <string name="enable_receiving_mms_notification_title">Gelen multimedya mesajı</string>
     <string name="enable_screen_projection_summary">Ekran içeriklerini harici bir ekrana yansıtın</string>
@@ -3919,8 +3919,12 @@ Daha fazla bilgi edinmek için kredi sağlayıcınızla iletişime geçin"</stri
     <string name="fiveg_nrca_switch_title">5G taşıyıcı toplama</string>
     <string name="fiveg_sa_switch_summary">"SA ağını ikincil Sim'de kullanın (Yalnızca test için)"</string>
     <string name="fiveg_sa_vice_switch_title">"İkincil Sim'de SA"</string>
-    <string name="fiveg_vonr_switch_summary">Arama deneyimini geliştirmek için 5G ağ ortamlarında VoNR kullanın. Bu özellik yalnızca test amacıyla sağlanmıştır.</string>
+    <string name="fiveg_vonr_switch_summary">Arama deneyimini geliştirmek için 5G ağ ortamlarında VoNR kullanın. Bu özellik yalnızca test amacıyla sağlanmıştır</string>
     <string name="fiveg_vonr_switch_title">VoNR ayarları</string>
+    <string name="fivega_enhanced_network_summary">Yalnızca test amaçlı yeni 5G-A ağ teknolojisini deneyimleyin</string>
+    <string name="fivega_enhanced_network_title">5G-A gelişmiş ağ</string>
+    <string name="fivega_switch_summary">"5G'nin üstün hızını deneyimleyin. Gerçek durum, yerel operatörün ağına ve hizmet dağıtımına bağlıdır"</string>
+    <string name="fivega_switch_title">5G-A</string>
     <string name="fix_connectivity">Sabit bağlantı</string>
     <string name="flash_drive_backup_disable">Önce USB sürücüsünü bağlayın ve USB kullanarak cihazınızı yedekleyin veya geri yükleyin</string>
     <string name="flash_drive_backup_enable">Öğeleri yedeklemek veya geri yüklemek için bir USB sürücü kullanın</string>
@@ -4665,7 +4669,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="keep_screen_on_after_folding_on_summary">Mevcut görevlerinize devam etmek için katladıktan sonra dış ekranı açık tutun</string>
     <string name="keep_screen_on_after_folding_text">Mevcut görevlerinize devam etmek için katladıktan sonra dış ekranı açık tutun</string>
     <string name="keep_screen_on_after_folding_title">Katladıktan sonra ekranı açık tutun</string>
-    <string name="keep_screen_on_summary">Şarj olurken ekran hiçbir zaman kapanmayacaktır</string>
+    <string name="keep_screen_on_summary">Şarj olurken ekran her zaman açık kalır</string>
     <string name="kernel_version">Çekirdek sürümü</string>
     <string name="key_combination_power_back">Güç + Geri</string>
     <string name="key_combination_power_home">Güç + Ana ekran</string>
@@ -4714,7 +4718,7 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="keyboard_skin_follow_system_enable">Karanlık görünüme otomatik geç</string>
     <string name="keyguard_advance_setting_title">Gelişmiş ayarlar</string>
     <string name="keyguard_multi_window_tip">Bu sayfa Bölünmüş ekranda gösterilemiyor. Bunun yerine tam ekran sürümüne geri dönebilirsiniz</string>
-    <string name="keyguard_security_setting_others">Diğerleri</string>
+    <string name="keyguard_security_setting_others">Diğer</string>
     <string name="keyguard_security_setting_privacy_policy">Gizlilik politikası</string>
     <string name="keywords_accessibility">Kullanım kolaylığı, erişim kolaylığı, destek, yardımcı</string>
     <string name="keywords_accessibility_vibration_primary_switch">Dokunsal, titreşim, titreşim</string>
@@ -5003,8 +5007,8 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="local_auto_backup_off">Kapalı</string>
     <string name="local_auto_backup_on">Açık</string>
     <string name="local_auto_backup_section_title">Otomatik yedekle</string>
-    <string name="local_backup_password_summary_change">Masaüstü tam yedekleme şifresini değiştirmek veya kaldırmak için dokunun</string>
-    <string name="local_backup_password_summary_none">Masaüstü tam yedeklemeler şu anda desteklenmemektedir</string>
+    <string name="local_backup_password_summary_change">Ana ekran yedekleme şifresini değiştirmek veya kaldırmak için dokunun</string>
+    <string name="local_backup_password_summary_none">Ana ekran yedeklemeler şu anda desteklenmemektedir</string>
     <string name="local_backup_password_title">Ana ekran yedek şifresi</string>
     <string name="local_backup_password_toast_confirmation_mismatch">Şifreler eşleşmiyor</string>
     <string name="local_backup_password_toast_success">Yeni yedek şifresi ayarlandı</string>
@@ -5061,8 +5065,8 @@ Xiaomi bulutu açın ve oradan öğeleri geri yükleyin"</string>
     <string name="location_mode_screen_title">Konum modu</string>
     <string name="location_mode_sensors_only_description">Konumu belirlemek için GPS kullanın</string>
     <string name="location_mode_sensors_only_title">Yalnızca cihaz</string>
-    <string name="location_modem_summary">Operatörler baz istasyonları aracılığıyla konumunuzu öğrenecek</string>
-    <string name="location_modem_title">Konum bilgilerini operatörle paylaş</string>
+    <string name="location_modem_summary">Konum bilgileriniz operatörlerin baz istasyonları aracılığıyla öğrenilecektir</string>
+    <string name="location_modem_title">Operatör ile paylaş</string>
     <string name="location_neighborhood_level">Uygulamalara yaklaşık konumunuzu belirlemek için Wi-Fi ve mobil ağlar gibi kaynaklardan gelen verileri kullanma izin ver</string>
     <string name="location_neighborhood_level_wifi">Konum Wi-Fi tarafından belirlendi</string>
     <string name="location_network_based">Wi-Fi &amp; mobil ağ</string>
@@ -5437,8 +5441,8 @@ Bu izin reddedilirse sistem, uygulamanın bu tür görevleri arka planda ne kada
 <li>Google hesabınız</li>
 <li>Sistem ve uygulama verileri ile ayarları</li>
 <li>İndirilen uygulamalar</li></string>
-    <string name="main_clear_desc_also_erases_esim"><li>eSim'ler</li></string>
-    <string name="main_clear_desc_also_erases_external"><li>Müzik</li>
+    <string name="main_clear_desc_also_erases_esim"><li>eSim</li></string>
+    <string name="main_clear_desc_also_erases_external">"<li>Müzik</li>
 <li>Fotoğraflar</li>
 <li>Diğer kullanıcı verileri</li>"</string>
     <string name="main_clear_desc_erase_external_storage">"
@@ -6723,7 +6727,7 @@ Bu izin uygulamaya rahatsız etme ayarını açma veya kapatma ve ilgili ayarlar
     <string name="nr_advanced_calling_title">Vo5G</string>
     <string name="nrca_need_reset">Değişiklikleri uygulamak için cihazınızı yeniden başlatın</string>
     <string name="nrca_registered">Kayıtlı</string>
-    <string name="nrca_switch_title">5G operatör toplamasını kullanın</string>
+    <string name="nrca_switch_title">5G operatör toplaması</string>
     <string name="nrca_type_title">Operatör toplama durumu</string>
     <string name="nrca_unregistered">Kayıtlı değil</string>
     <string name="number_of_device_admins">{count, plural, =1 {# aktif uygulama} other {# aktif uygulama} }</string>
@@ -6813,7 +6817,7 @@ Hareketli USB 10 dakika işlem yapılmadığında otomatik olarak kapatılır"</
     <string name="other_conversations">Diğer konuşmalar</string>
     <string name="other_conversations_summary">Değişiklik yaptığınız konuşmalar</string>
     <string name="other_data">Bu cihazdaki diğer öğeler</string>
-    <string name="other_device_info">Diğerleri</string>
+    <string name="other_device_info">Diğer</string>
     <string name="other_input_method">Diğer klavyeler</string>
     <string name="other_input_settings">Ek klavye ayarları</string>
     <string name="other_password">Diğer şifreler</string>
@@ -7518,7 +7522,7 @@ Güç ve sesi aç'a aynı anda basın"</string>
     <string name="request_manage_credentials_title"><b>^1</b> uygulamasının bu cihazda sertifika yüklemesine izin verilsin mi?</string>
     <string name="require_cellular_encryption_summary">Şifreleme daha güvenlidir ancak bazı konumlara bağlanamayabilirsiniz. Acil durum çağrıları için şifrelemeye asla gerek yoktur</string>
     <string name="require_cellular_encryption_title">Şifreleme gerektir</string>
-    <string name="requires_modern_control_center">Kontrol merkezinin yeni sürümüyle çalışır</string>
+    <string name="requires_modern_control_center">Kontrol merkezinin stil 2 seçeneği ile çalışır</string>
     <string name="reset_aaid">Reklam tanımlayıcıyı sıfırla</string>
     <string name="reset_app_preferences">Uygulama tercihlerini sıfırla</string>
     <string name="reset_app_preferences_button">Uygulamaları sıfırla</string>
@@ -8578,7 +8582,7 @@ Her seferinde parmağınızı hafifçe hareket ettirin. Bu parmak izinizin daha 
     <string name="show_menu">Menüyü göster</string>
     <string name="show_network_speed_title">Bağlantı hızı</string>
     <string name="show_non_rect_clip">Kare olmayan klip işlemleri hata ayıklaması</string>
-    <string name="show_notification_channel_warnings">Bildirim kanalı uyarıları göster</string>
+    <string name="show_notification_channel_warnings">Bildirim kanalı uyarıları</string>
     <string name="show_notification_channel_warnings_summary">Bir uygulama geçerli bir kanal üzerinden bildiri gönderdiğinde ekranda uyarıları görüntüler</string>
     <string name="show_notification_icon_title">Uygulama simgeleri</string>
     <string name="show_operator_name_summary">Ağ adını durum çubuğunda gösterir</string>
@@ -8600,7 +8604,7 @@ Her seferinde parmağınızı hafifçe hareket ettirin. Bu parmak izinizin daha 
     <string name="shut_down_find_device_network_failure_content">Cihazı bul kapatılamıyor. Cihazınızın internet bağlantısı olduğundan emin olun</string>
     <string name="shut_down_find_device_network_failure_title">Ağa bağlanılamıyor</string>
     <string name="shuting_down_find_device">Cihazı bul kapatılıyor</string>
-    <string name="sidebar_setting">Kenar çubuğu ayarları</string>
+    <string name="sidebar_setting">Kenar araç kutusu ayarları</string>
     <string name="silent_duration">Süre</string>
     <string name="silent_mode">Sessiz mod</string>
     <string name="silent_mode_disable_media">Tümü sessiz</string>
@@ -8932,7 +8936,7 @@ Acil durum araması hizmetlerini gerekli kişisel bilgilerin toplanmasına dayal
     <string name="speed_label_slow">Yavaş</string>
     <string name="speed_label_very_fast">Çok hızlı</string>
     <string name="speed_mode">Hız modu</string>
-    <string name="speed_mode_noti_summary">Cihazınız ısınacak ve daha fazla güç tüketecektir.</string>
+    <string name="speed_mode_noti_summary">Cihazınız ısınacak ve daha fazla güç tüketecektir</string>
     <string name="speed_mode_noti_title">Hız moduna geçildi</string>
     <string name="speed_mode_summary">Güç tüketimi ve sıcaklık kontrolü üzerinde performansa öncelik verin</string>
     <string name="spell_checker_not_selected">Seçili değil</string>
@@ -9496,8 +9500,8 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine taşınabilir depolama
     <string name="tether_use_wifi6_title">Altıncı nesil standardı destekler</string>
     <string name="tethering_footer_info">Mobil veri bağlantınızdan başka cihazlara internet bağlantısı sağlamak için bağlantı noktasını kullanın. Yakınlardaki cihazlarla içerik paylaşmak için uygulamalarda bağlantı noktası oluşturabilir</string>
     <string name="tethering_footer_info_sta_ap_concurrency">"Kablosuz veya mobil veri bağlantınızdan başka cihazlara internet bağlantısı sağlamak için bağlantı noktası ve tethering'i kullanın. Yakınlardaki cihazlarla içerik paylaşmak için uygulamalar da hotspot oluşturabilir"</string>
-    <string name="tethering_hardware_offload">İnternet paylaşımı donanım hızlandırma</string>
-    <string name="tethering_hardware_offload_summary">Kullanılabilir durumdaysa internet paylaşımı donanım hızlandırmayı kullanın</string>
+    <string name="tethering_hardware_offload">İnternet paylaşımı donanım hızlandırması</string>
+    <string name="tethering_hardware_offload_summary">Kullanılabilir durumdaysa internet paylaşımı donanım hızlandırmasını kullanın</string>
     <string name="tethering_help_button_text">Yardım</string>
     <string name="tethering_interface_options">Paylaşım</string>
     <string name="tethering_settings_not_available">Birinci alanda ağ paylaşım ayarlarını değiştirin</string>
@@ -9670,10 +9674,10 @@ Daha hızlı bir ^3 kullanmayı deneyin veya bunun yerine taşınabilir depolama
     <string name="trackpad_touchpad_gesture_title">Dokunmatik yüzey hareketleri</string>
     <string name="trade_in">Ticaret</string>
     <string name="traffic_none">Yok</string>
-    <string name="transcode_default">Uygulamaların modern biçimleri desteklediğini varsay</string>
+    <string name="transcode_default">Uygulamaların modern biçimlerini destekle</string>
     <string name="transcode_disable_cache">Kod dönüştürme önbelleğini devre dışı bırak</string>
-    <string name="transcode_enable_all">Kod dönüştürmeyi etkinleştir</string>
-    <string name="transcode_notification">Kod dönüştürme bildirimlerini göster</string>
+    <string name="transcode_enable_all">Kod dönüştürme</string>
+    <string name="transcode_notification">Kod dönüştürme bildirimleri</string>
     <string name="transcode_settings_title">Medya kod dönüştürme ayarları</string>
     <string name="transcode_user_control">Kod dönüştürme varsayılanlarını geçersiz kıl</string>
     <string name="transfer_esim_to_another_device_title">"eSIM'i başka bir cihaza aktarma"</string>
@@ -11081,7 +11085,7 @@ dğer kullanıcıların ağlarınıda kullanabilirsiniz"</string>
     <string name="wifitrackerlib_wifi_unmetered_label">Sınırsız</string>
     <string name="wifitrackerlib_wifi_wont_autoconnect_for_now">Şu anda kablosuz ağa otomatik olarak bağlanılamıyor</string>
     <string name="window_animation_scale_title">Pencere animasyonu</string>
-    <string name="window_blurs">Pencere bulanıklaştırmaya izin ver</string>
+    <string name="window_blurs">Pencereleri bulanıklaştırma</string>
     <string name="winscope_trace_quick_settings_title">Winscope izleme</string>
     <string name="wireless_connected">Bağlandı</string>
     <string name="wireless_debugging_main_switch_title">Kablosuz hata ayıklamayı kullan</string>
@@ -11414,18 +11418,33 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="zone_menu_by_region">Bölgeye göre seç</string>
     <string name="zone_time_type_dst">Yaz saati uygulaması</string>
     <string name="zone_time_type_standard">Standart saat</string>
+    <string name="switch_layout_first_title">Stil 1 (İlk düzen)</string>
+    <string name="switch_layout_second_title">Stil 1 (Açılır düzen)</string>
+    <string name="control_center_location_title">Stil 2 (Aşağı kaydırma konumu)</string>
     <string name="icon_app_color_title">Renkli bildirim simgeleri</string>
-	<string name="statusbar_style_title">Durum çubuğu düzeni</string>
-    <string name="control_center_location_title">Kontrol merkezi konumu</string>
-    <string name="icon_app_color_title">Renkli bildirim simgeleri</string>
+    <string name="unread_notifications_title">Okunmamış bildirimler</string>
+    <string name="unread_notifications_summary">Kilit ekranında her zaman okunmamış bildirimleri gösterir</string>
     <string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
+    <string name="call_brightness_title">Arama parlaklığı</string>
+    <string name="list_view_animation_title">Liste animasyonu</string>
+    <string name="list_view_interpolator_title">Liste interpolasyonu</string>
+    <string name="charging_animations_title">Şarj animasyonları</string>
+    <string name="full_charge_sound_title">Şarj doldu sesi</string>
+    <string name="volume_button_title">Ses tuşları ayarları</string>
+    <string name="volume_button_toggle_title">Müzik çalar kontrolü</string>
+    <string name="volume_button_toggle_summary">Ekran kapalıyken ses tuşlarına uzun basarak müzik çalarınızı yönetin</string>
+    <string name="volume_button_vol_up_title">Ses açma tuşu</string>
+    <string name="volume_button_vol_down_title">Ses kısma tuşu</string>
+    <string name="volume_button_timeout_title">Uzun basma süresi</string>
+    <string name="volume_button_vibrate_title">Titreşim</string>
     <string name="double_tap_home_title">Çift tıklama</string>
     <string name="swipe_up_home_title">Yukarı kaydırma</string>
     <string name="infinite_scroll_title">Sonsuz kaydırma</string>
+    <string name="application_titles_title">Uygulama başlıkları düzeni</string>
     <string name="folder_layout_title">Klasör düzeni</string>
+    <string name="folder_effect_title">Klasör açılış efekti</string>
     <string name="folder_blur_title">Klasör bulanıklık efekti</string>
     <string name="folder_close_title">Klasörleri otomatik kapat</string>
     <string name="classic_widget_title">Klasik araçlar</string>
     <string name="search_box_title">Alt arama kutusu</string>
-    <string name="call_brightness_title">Arama parlaklığı</string>
 </resources>

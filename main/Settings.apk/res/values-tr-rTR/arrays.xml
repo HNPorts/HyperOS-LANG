@@ -1301,15 +1301,65 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>5x</item>
         <item>10x</item>
     </string-array>
-	<string-array name="statusbar_style_entries">
-		<item>Varsayılan</item>
-		<item>Stil 1</item>
-		<item>Stil 2</item>
-		<item>Stil 3</item>
-	</string-array>
+    <string-array name="switch_layout_first_entries">
+        <item>3 simge</item>
+        <item>4 simge</item>
+        <item>5 simge</item>
+        <item>6 simge</item>
+    </string-array>
+    <string-array name="switch_layout_second_entries">
+        <item>3 simge</item>
+        <item>4 simge</item>
+        <item>5 simge</item>
+        <item>6 simge</item>
+    </string-array>
     <string-array name="control_center_location_entries">
         <item>Sağ</item>
         <item>Sol</item>
+    </string-array>
+    <string-array name="list_view_animation_entries">
+        <item>Varsayılan</item>
+        <item>Dalga (Sol)</item>
+        <item>Dalga (Sağ)</item>
+        <item>Alfa</item>
+        <item>Ölçek</item>
+        <item>Yığın (Üst)</item>
+        <item>Yığın (Alt)</item>
+        <item>Açıl</item>
+        <item>Katla</item>
+        <item>Çevir (Sol)</item>
+        <item>Çevir (Sağ)</item>
+    </string-array>
+    <string-array name="list_view_interpolator_entries">
+        <item>Varsayılan</item>
+        <item>Hızlan</item>
+        <item>Yavaşla</item>
+        <item>Hızlan ve yavaşla</item>
+        <item>Bekle</item>
+        <item>Aşım</item>
+        <item>Aşımı tahmin et</item>
+        <item>Sıçra</item>
+        <item>Döngü</item>
+        <item>Doğrusal</item>
+    </string-array>
+    <string-array name="charging_animations_entries">
+        <item>Stil 1</item>
+        <item>Stil 2</item>
+    </string-array>
+    <string-array name="volume_button_action_entries">
+        <item>Sonraki parça</item>
+        <item>Önceki parça</item>
+        <item>Duraklat</item>
+        <item>Oynat veya duraklat</item>
+        <item>Kapalı</item>
+    </string-array>
+    <string-array name="volume_button_timeout_entries">
+        <item>2000 milisaniye</item>
+        <item>1500 milisaniye</item>
+        <item>1000 milisaniye</item>
+        <item>700 milisaniye</item>
+        <item>500 milisaniye</item>
+        <item>300 milisaniye</item>
     </string-array>
     <string-array name="launcher_gesture_entries">
         <item>Ekranı kapat</item>
@@ -1318,5 +1368,9 @@ Not: Sadece Ubuntu 8.04 için geçerlidir"</item>
         <item>Ses veya titreşim</item>
         <item>Bildirim paneli</item>
         <item>Kapalı</item>
+    </string-array>
+    <string-array name="application_titles_entries">
+        <item>Varsayılan</item>
+        <item>Slayt</item>
     </string-array>
 </resources>

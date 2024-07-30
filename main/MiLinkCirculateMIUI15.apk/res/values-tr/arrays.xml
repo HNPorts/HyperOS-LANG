@@ -234,6 +234,12 @@
         <item>#26d9d9d9</item>
         <item>3</item>
     </array>
+    <array name="mi_go_to_new_habit_blend_colors">
+        <item>#80b9b9b9</item>
+        <item>19</item>
+        <item>#4d2a2a2a</item>
+        <item>3</item>
+    </array>
     <string-array name="months">
         <item>@string/month_january</item>
         <item>@string/month_february</item>
@@ -313,7 +319,7 @@
     </string-array>
     <string-array name="settings_search_relay_app">
         <item>Uygulama aktarımı</item>
-        <item>Ara bağlantı/Uygulama aktarımı</item>
+        <item>Ara bağlantı veya uygulama aktarımı</item>
         <item>Uygulamaları aktarma, aktarma, aktarma</item>
     </string-array>
     <string-array name="settings_search_relay_call">
@@ -326,9 +332,19 @@
         <item>Ara bağlantı/Ağ yardımı</item>
         <item>Ağ yardımı, internet paylaşımı, erişim noktası paylaşımı</item>
     </string-array>
+    <string-array name="settings_search_relay_network_2">
+        <item>Kablosuz bağlantı</item>
+        <item>Ara bağlantı veya kablosuz bağlantı</item>
+        <item>Ağ yardımı, bağlanma, erişim noktası paylaşımı veya kablosuz bağlantı</item>
+    </string-array>
+    <string-array name="settings_search_relay_network_global">
+        <item>Ağ senkronizasyonuc</item>
+        <item>Ara bağlantı veya ağ senkronizasyonu</item>
+        <item>Ağ yardımı, bağlanma, erişim noktası paylaşımı veya ağ senkronizasyonu</item>
+    </string-array>
     <string-array name="settings_search_share_Launcher">
         <item>Ana ekran+</item>
-        <item>Ara bağlantı/Ana ekran+</item>
+        <item>Ara bağlantı veya ana ekran+</item>
         <item>Ana ekran+, Mi akıllı ses, ekran paylaşımı</item>
     </string-array>
     <string-array name="settings_search_share_clipboard">

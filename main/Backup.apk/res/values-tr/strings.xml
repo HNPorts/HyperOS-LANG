@@ -35,7 +35,7 @@
     <string name="actionbar_button_up_description">Geri</string>
     <string name="afternoon">ÖS</string>
     <string name="agree_button">Kabul et</string>
-    <string name="agree_revoke_permission_title">İzinleri geri çek</string>
+    <string name="agree_revoke_permission_title">İzini geri al</string>
     <string name="alert_button_agree_and_continue">Kabul et</string>
     <string name="alert_button_deny">Reddet</string>
     <string name="alert_message_backup_to_miasist">Mi PC Suite bilgisayarda bir yedek oluşturmak için izin ister. İzin verilsin mi?</string>
@@ -127,6 +127,7 @@
     <string name="button_ok">Tamam</string>
     <string name="button_quit">Çıkış</string>
     <string name="button_return">Geri</string>
+    <string name="button_select">Seç</string>
     <string name="button_send">Gönder</string>
     <string name="call_title">Arama geçmişi</string>
     <string name="camera_summary">Kamera ayarları (Fotoğraflar dahil değil)</string>
@@ -847,7 +848,7 @@ Yedekleme dosyalarını değiştirmeyin veya yeniden adlandırmayın"</string>
     <string name="refresh">Yenile</string>
     <string name="remote_receive">Al</string>
     <string name="required_permissions">;</string>
-    <string name="required_permissions">android.permission.READ_PHONE_STATE;android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.GET_ACCOUNTS;android.permission.ACCESS_COARSE_LOCATION;android.permission.READ_CALENDAR;android.permission.WRITE_CALENDAR;android.permission.READ_SMS;android.permission.CAMERA;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
+    <string name="required_permissions_global">android.permission.READ_CALL_LOG;android.permission.WRITE_CALL_LOG;android.permission.READ_CONTACTS;android.permission.WRITE_CONTACTS;android.permission.READ_SMS;android.permission.READ_EXTERNAL_STORAGE;android.permission.WRITE_EXTERNAL_STORAGE;</string>
     <string name="restore">Geri yükle</string>
     <string name="restore_backup">Geri yükle</string>
     <string name="restore_contact">Kişileri geri yükle</string>
@@ -907,6 +908,7 @@ En az %s yer açın"</string>
     <string name="select_storage_location">Yedekleme konumunu seçin</string>
     <string name="send">Gönder</string>
     <string name="service_stoped">Servis durdu</string>
+    <string name="set_app_suspend">Bu uygulama şu anda yedekleniyor. Yedekleme tamamlanana kadar bekleyin ve tekrar deneyin</string>
     <string name="settings_summary">Telefon ve mesajlaşma ayarları</string>
     <string name="size_byte">B</string>
     <string name="size_giga_byte">GB</string>

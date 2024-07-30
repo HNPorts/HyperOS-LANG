@@ -30,10 +30,6 @@
     <string name="abc_toolbar_collapse_description">Daralt</string>
     <string name="accessibility_all_app_custom_category_finish">Bitti</string>
     <string name="accessibility_all_app_custom_category_item_remove">%1$s kategorilerinden kaldır</string>
-	<string name="double_tap_to_lock_title">Ekranı kilitlemek için iki kez dokunun</string>
-    <string name="hide_apps_title">Uygulama simgelerini gizle</string>
-    <string name="launcher_search_bar_provider_title">Arama çubuğu sağlayıcısı</string>
-    <string name="launcher_slide_up_search_provider_title">Arama sağlayıcısını yukarı kaydırın</string>
     <string name="accessibility_clear_search_bar_text">Arama çubuğunu temizle</string>
     <string name="accessibility_enter_all_app_mode">Uygulama çekmecesini aç</string>
     <string name="accessibility_enter_all_app_settings">Uygulama çekmecesi ayarlarını aç</string>
@@ -116,7 +112,7 @@
     <string name="announce_for_open_folder">%1$s klasörü açıldı</string>
     <string name="announce_for_search_bar">Arama çubuğu</string>
     <string name="announce_for_show_uninstall_dialog">Uygulama kaldırma penceresi belirdi. İptal edin veya onaylayın</string>
-    <string name="announce_for_unchecked">%1$s, kontrol edilmedi</string>
+    <string name="announce_for_unchecked">%1$s kontrol edilmedi</string>
     <string name="announce_for_widget_span">En %1$d, boy %2$d</string>
     <string name="announce_for_xiaoai">Mi yapay zeka</string>
     <string name="app_already_exist">Uygulama zaten mevcut</string>
@@ -176,8 +172,8 @@
     <string name="branch_guide_title">Uygulaması çekmecesi ile tanışma</string>
     <string name="branch_guide_type_four_desc">Tek bir dokunuşla eski yollara dönebilirsiniz</string>
     <string name="branch_guide_type_four_main">Ana ekran ayarlarından iki mod arasında geçiş yapın</string>
-    <string name="branch_guide_type_four_step_one">1. Adım: Ayarları tıklayın</string>
-    <string name="branch_guide_type_four_step_two">2. Adım: Ana ekranı tıklayın</string>
+    <string name="branch_guide_type_four_step_one">1. adım: Ayarları tıklayın</string>
+    <string name="branch_guide_type_four_step_two">2. adım: Ana ekranı tıklayın</string>
     <string name="branch_guide_type_one_desc">Uygulama çekmecesi uygulamanızı yönetmenize yardımcı olur</string>
     <string name="branch_guide_type_one_main">Tüm uygulamalarınızı Uygulama çekmecesine koyacağız. Yerleşik arama ihtiyacınız olan her şeyi anında bulmanıza yardımcı olur</string>
     <string name="branch_key">Şube anahtarı</string>
@@ -608,7 +604,6 @@ Arttırılmış güvenlik"</string>
     <string name="mi_wallpaper">Xiaomi temalar</string>
     <string name="midnight">Gece</string>
     <string name="minus_one_screen">Uygulama kasası</string>
-    <string name="mishow_layout_path">demo_phone_layout</string>
     <string name="miui_screen_config_title">Ana ekran ayarları</string>
     <string name="miui_setting_config_title">Ana ekran ayarları</string>
     <string name="miui_widget_menu_replace_text">Değiştir</string>
@@ -719,6 +714,7 @@ Arttırılmış güvenlik"</string>
     <string name="mtrl_picker_toggle_to_year_selection">Bir yıl seçmeye geçmek için dokunun</string>
     <string name="mtrl_timepicker_confirm">Tamam</string>
     <string name="mtzgadget_missing_text">Araç kullanılabilir durumda değil</string>
+    <string name="name_aireco_name">Mi yapay zeka önerileri</string>
     <string name="navigation_guide_app_quick_switch_hide_line_summary">Ekranın altından sola veya sağa kaydırın</string>
     <string name="navigation_guide_app_quick_switch_summary">Tam ekran göstergesinden veya ekranın aşağısından sağa veya sola kaydırın</string>
     <string name="navigation_guide_app_quick_switch_title">Uygulamalar arasında geçiş yapın</string>
@@ -969,6 +965,7 @@ Arttırılmış güvenlik"</string>
     <string name="switch_screen_button_order">Tuşları ters çevir</string>
     <string name="switch_screen_button_order_desc">Geri ve menü tuşlarının yerini değiştir</string>
     <string name="system_sdk_disabled_toast">"Sistem SDK'sı devre dışı bırakıldı. İlk önce onu etkinleştirin"</string>
+    <string name="system_shortcuts_dislike">Bu hoşuma gitmedi</string>
     <string name="system_shortcuts_edit">Düzenle</string>
     <string name="system_shortcuts_icon_remove">Kaldır</string>
     <string name="system_shortcuts_more_operation">Uygulama bilgisi</string>

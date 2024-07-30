@@ -102,6 +102,7 @@
     <string name="am">ÖÖ</string>
     <string name="androidx_startup">androidx.startup</string>
     <string name="app_bugly_id">e5f6fa4ff3</string>
+    <string name="app_closed_toast">Dinamik kapaklar kapalı</string>
     <string name="app_code">MYPLAY-ANDROID-MIMUSIC</string>
     <string name="app_description_content">Müzikler bir ses oynatıcı içeren ve ses dosyalarını yönetmenize izin veren bir sistem uygulamasıdır. Ana ekran kısayolunu kaldırdıktan sonra ses dosyalarını çalmaya devam edebileceksiniz</string>
     <string name="app_description_title">Müzikler ana ekrandan kaldırılsın mı?</string>
@@ -116,6 +117,7 @@
     <string name="app_notify_dialog_path_8">Ayarlar > Bildirimler &amp; Bildirimler durum çubuğu > Uygulama bildirimleri > Müzik</string>
     <string name="app_notify_dialog_subtitle">Bildirim gölgesinde müzik çalmayı kontrol edebilmek için bildirimleri açın</string>
     <string name="app_notify_dialog_title">Gerekli izinler</string>
+    <string name="app_opened_toast">Dinamik kapaklar açık</string>
     <string name="app_permission_confirm">Tamam</string>
     <string name="app_permission_optional">İsteğe bağlı izinler</string>
     <string name="app_permission_require">Zorunlu izinler</string>
@@ -147,19 +149,48 @@
     <string name="artist_home_search_hint">Sanatçıları ara</string>
     <string name="artist_is_empty">Sanatçı adı boş olamaz</string>
     <string name="artist_name">Sanatçı</string>
+    <string name="asm_account_exception">Bir hesap hatası oluştu</string>
     <string name="asm_batch_download_failed">İndirilemedi</string>
-    <string name="asm_buy_member_success">VIP üyelik başarıyla satın alındı</string>
+    <string name="asm_buy_member_success">VIP üyeliği başarıyla satın alındı</string>
+    <string name="asm_check_video_playing">Video oynatılıyor. Öğe oynatma listesine eklenemiyor</string>
+    <string name="asm_delete_all">Temizle</string>
+    <string name="asm_delete_all_data">Tüm verileri temizle</string>
+    <string name="asm_delete_all_data_failed">Veriler temizlenemedi. Tekrar deneyin</string>
+    <string name="asm_delete_all_data_loading">Yükleniyor</string>
+    <string name="asm_delete_all_data_no_net">Kimliğinizi doğrulamak ve verileri temizlemek için ağ bağlantısı gerekiyor. Ağa bağlanın ve tekrar deneyin</string>
+    <string name="asm_delete_all_data_success">Veriler başarıyla temizlendi</string>
+    <string name="asm_delete_all_data_tips">"Devam ederseniz şarkılar, şarkı listeleri ve göz atma geçmişi dahil tüm uygulama verilerini temizleyeceksiniz.
+Tüm üyelik avantajları ve ücretli şarkılar silinecek. Mevcut üyelikleriniz için geri ödeme yapılmaz, ancak sizden tekrar ücret alınmaz.
+Tüm verileri kalıcı olarak temizlemeyi seçtiğinizde uygulamadaki oturumunuz kapatılacaktır. Tüm veriler şimdi temizlensin mi?"</string>
+    <string name="asm_delete_data">Verileri temizle</string>
+    <string name="asm_delete_data_local_and_online">Çevrimdışı ve akış hizmeti verilerini temizle</string>
     <string name="asm_dialog_title_tips">VIP üyelik</string>
     <string name="asm_dialog_vip_confirm_text">Katıl</string>
     <string name="asm_dialog_vip_message">Yüksek kaliteli şarkıları dinlemek ve daha fazla içerik indirmek için bir VIP üyeliğe kaydolun</string>
     <string name="asm_disable_song_click_tip">Bu şarkı telif hakkı sorunlarından dolayı mevcut değil</string>
+    <string name="asm_download_all_start_label">Tümünü devam ettir</string>
+    <string name="asm_download_all_stop_label">Tümünü duraklat</string>
+    <string name="asm_download_allow_abort">İptal et</string>
+    <string name="asm_download_allow_always">Her zaman izin ver</string>
+    <string name="asm_download_allow_oneshot">Bir kez izin ver</string>
+    <string name="asm_download_delete">Bu indirme şimdi silinsin mi?</string>
+    <string name="asm_download_delete_all">İndirilenlerin tümü şimdi silinsin mi?</string>
+    <string name="asm_download_error">İndirilemedi. Tekrar denemek için dokunun</string>
     <string name="asm_download_failed">%1$s indirilemedi</string>
     <string name="asm_download_is_downloaded">Şarkı başarıyla indirildi</string>
-    <string name="asm_download_is_downloaded_hq">HQ olarak indirildi</string>
+    <string name="asm_download_is_downloaded_hq">Genel Merkezden indirildi</string>
     <string name="asm_download_is_downloading">İndiriliyor</string>
     <string name="asm_download_list_not_supported">Bu listedeki bazı şarkılar indirilemiyor</string>
+    <string name="asm_download_mobile_net_dialog_content">Kablosuz ağa bağlı değilsiniz. Mobil veriyle indirilsin mi?</string>
+    <string name="asm_download_mobile_net_dialog_title">Veri kullanımı hatırlatıcısı</string>
+    <string name="asm_download_paused">Duraklatıldı. Devam etmek için dokunun</string>
     <string name="asm_download_pending_status_msg">İndirmeye hazırlanıyor</string>
+    <string name="asm_download_queue_waiting">Bekliyor</string>
+    <string name="asm_download_setting_mobile">Mobil veri yoluyla indirmelere izin ver</string>
+    <string name="asm_download_setting_mobile_open_tips">"Cihazınızın Wi-Fi'ye bağlı olmadığında mobil veri yoluyla öğe indirmesine izin verin"</string>
+    <string name="asm_download_storage_not_enough">Yetersiz cihaz depolama alanı</string>
     <string name="asm_download_success">%1$s indirildi</string>
+    <string name="asm_download_title">İndirilenleri yönet</string>
     <string name="asm_during_the_payment">Ödeme durumu kontrol ediliyor</string>
     <string name="asm_fail_play_song">Şarkı indirilemedi</string>
     <string name="asm_google_connect_failed">"Ödeme tamamlanamadı. Play Store'da oturum açtığınızdan emin olun"</string>
@@ -172,6 +203,7 @@
     <string name="asm_item_not_available">öğe mevcut değil</string>
     <string name="asm_loadstate_error_retry">İnternete bağlanın ve tekrar denemek için dokunun</string>
     <string name="asm_loadstate_not_more">Şimdilik bu kadar</string>
+    <string name="asm_message">Bildirimler</string>
     <string name="asm_network_error">Ağ bağlantınızı kontrol edin</string>
     <string name="asm_new_song_title">Yeni şarkı</string>
     <string name="asm_no_need_download_songs">Şarkı indirme sırasında</string>
@@ -290,7 +322,7 @@
     <string name="change_download_quality">İndirme kalitesini değiştir</string>
     <string name="character_counter_content_description">Karakter %1$d/%2$d arasında girildi</string>
     <string name="character_counter_overflowed_content_description">"Karakter sınırı %1$d/%2$d'yi aştı"</string>
-    <string name="character_counter_pattern">%1$d / %2$d</string>
+    <string name="character_counter_pattern">%1$d/%2$d</string>
     <string name="chart_first_song">1.%s</string>
     <string name="chart_second_song">2.%s</string>
     <string name="chart_third_song">3.%s</string>
@@ -387,9 +419,13 @@
     <string name="columbus_player_speed_title">Video atlanılsın mı?</string>
     <string name="columbus_player_speed_video">Videoyu atla</string>
     <string name="columbus_player_unit_sec">saniye</string>
+    <string name="columbus_reward_style_access">Daha fazla</string>
+    <string name="columbus_reward_style_close_cancel">Çıkış</string>
+    <string name="columbus_reward_style_close_desc">Ödül almak için videoyu izlemeyi bitirin. İzlemeye devam etmek istiyor musunuz?</string>
+    <string name="columbus_reward_style_speed_confirm">Devam et</string>
     <string name="columbus_skip_ad">Atla</string>
-    <string name="com.google.firebase.crashlytics.mapping_file_id">8a1b87921fa449ae9a06a0b191f54260</string>
-    <string name="com.miapm.build_id">038e6202ece14a57b2f3a134434f308d</string>
+    <string name="columbus_skip_ad_time">Atla (%d)</string>
+    <string name="com.google.firebase.crashlytics.mapping_file_id">0148aa70858748c68090283dafe4778c</string>
     <string name="comment_format" formatted="false">%s: %s</string>
     <string name="common_google_play_services_enable_button">Etkinleştir</string>
     <string name="common_google_play_services_enable_text">Google Play hizmetlerini etkinleştirmezseniz %1$s çalışmaz</string>
@@ -1377,6 +1413,8 @@
     <string name="nowplaying_circle_style_wave">Dalga</string>
     <string name="nowplaying_dialog_title_delete_tracks">Listeden kaldırılsın mı?</string>
     <string name="nowplaying_menu_item_delete">Temizle</string>
+    <string name="nowplaying_menu_item_gif_close">Dinamik kapakları açın</string>
+    <string name="nowplaying_menu_item_gif_open">Dinamik kapakları kapatın</string>
     <string name="offline_notification_text">Reklamı açmak için dokunun</string>
     <string name="offline_notification_title">Kaydettiğiniz reklamı internet bağlantınız yokken görüntüleyin</string>
     <string name="offline_opt_in_confirm">Tamam</string>
@@ -1564,11 +1602,46 @@
     <string name="passport_skip_query_account">Atla</string>
     <string name="passport_sns_access_token_expired_warning">Oturumun süresi doldu. Bu hesabı yeniden bağlamak için tekrar oturum açın</string>
     <string name="passport_sns_bind_limit">Çok fazla deneme var. Oturum açmanın diğer yollarını deneyin</string>
+    <string name="passport_stat_tip_any_page_click_need_help">29.1.0.1.33539</string>
+    <string name="passport_stat_tip_confirm_credential_page_browse">29.138.0.1.33633</string>
+    <string name="passport_stat_tip_confirm_credential_page_click_cancel">29.138.0.1.33631</string>
+    <string name="passport_stat_tip_confirm_credential_page_click_ensure">29.138.0.1.33630</string>
+    <string name="passport_stat_tip_confirm_credential_page_click_forget_password">29.138.0.1.33632</string>
+    <string name="passport_stat_tip_double_sim_login_page_browse">29.137.0.1.33544</string>
+    <string name="passport_stat_tip_double_sim_login_page_click_login_other">29.137.0.1.33546</string>
+    <string name="passport_stat_tip_double_sim_login_page_click_sim_login">29.137.0.1.33545</string>
+    <string name="passport_stat_tip_input_login_ticket_page_browse">29.133.0.1.33524</string>
+    <string name="passport_stat_tip_input_login_ticket_page_click_un_receive_ticket">29.133.0.1.33526</string>
+    <string name="passport_stat_tip_login_page_login_request_result">29.0.0.0.33538</string>
+    <string name="passport_stat_tip_password_login_page_browse">29.134.0.1.33527</string>
+    <string name="passport_stat_tip_password_login_page_click_forget_password">29.134.0.1.33529</string>
+    <string name="passport_stat_tip_password_login_page_click_login">29.134.0.1.33528</string>
+    <string name="passport_stat_tip_password_login_page_click_phone_ticket_login">29.134.0.1.33628</string>
+    <string name="passport_stat_tip_password_login_page_click_register">29.134.0.1.33629</string>
+    <string name="passport_stat_tip_phone_ticket_login_page_browse">29.132.0.1.33521</string>
+    <string name="passport_stat_tip_phone_ticket_login_page_click_next_step">29.132.0.1.33520</string>
+    <string name="passport_stat_tip_phone_ticket_login_page_click_password_login">29.132.0.1.33522</string>
+    <string name="passport_stat_tip_single_sim_login_page_browse">29.136.0.1.33540</string>
+    <string name="passport_stat_tip_single_sim_login_page_click_login_now">29.136.0.1.33541</string>
+    <string name="passport_stat_tip_single_sim_login_page_click_login_other">29.136.0.1.33542</string>
+    <string name="passport_stat_tip_sns_login_page_click_facebook_login">29.1.0.1.33627</string>
+    <string name="passport_stat_tip_sns_login_page_click_google_login">29.1.0.1.33626</string>
+    <string name="passport_stat_tip_sns_login_page_click_qq_login">29.1.0.1.33623</string>
+    <string name="passport_stat_tip_sns_login_page_click_weibo_login">29.1.0.1.33624</string>
+    <string name="passport_stat_tip_sns_login_page_click_weixin_login">29.1.0.1.33622</string>
+    <string name="passport_stat_tip_user_info_page_browse">29.135.0.1.33531</string>
+    <string name="passport_stat_tip_user_info_page_click_avatar">29.135.0.1.33532</string>
+    <string name="passport_stat_tip_user_info_page_click_change_password">29.135.0.1.33536</string>
+    <string name="passport_stat_tip_user_info_page_click_login_out">29.135.0.1.33537</string>
+    <string name="passport_stat_tip_user_info_page_click_nickname">29.135.0.1.33533</string>
+    <string name="passport_stat_tip_user_info_page_click_safe_email">29.135.0.1.33535</string>
+    <string name="passport_stat_tip_user_info_page_click_safe_phone">29.135.0.1.33534</string>
     <string name="passport_system_error">Sistem meşgul. Bir veya iki dakika bekleyin ve tekrar deneyin</string>
     <string name="passport_talkback_image_captcha">Resimli doğrulama kodu</string>
     <string name="passport_talkback_switch_image_captcha">Resimli doğrulama koduna geç</string>
     <string name="passport_talkback_switch_voice_captcha">Sesli doğrulama koduna geç</string>
     <string name="passport_talkback_voice_captcha">Sesli doğrulama kodunu oynat</string>
+    <string name="passport_third_sns_service_unavailable">Hizmet kullanılamıyor. Uygulamanın yüklendiğinden ve engellenmediğinden emin olun</string>
     <string name="passport_ticket_send_by_second">%d gönder</string>
     <string name="passport_to_forget_password">Parolanızı mı unuttunuz?</string>
     <string name="passport_to_password_login">Şifre kullanarak giriş yapın</string>
@@ -1678,7 +1751,8 @@
     <string name="privacy_authorize_revoking">Yetkilendirme iptal ediliyor</string>
     <string name="privacy_desc">Gizlilik politikası (Zorunlu)</string>
     <string name="privacy_policy">Gizlilik politikası</string>
-    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=tr_TR</string>
+    <string name="privacy_policy_title_asm">Müzik dünyası parmaklarınızın ucunda</string>
+    <string name="privacy_policy_url">http://www.miui.com/res/doc/privacy.html?lang=en</string>
     <string name="privacy_request_desc">"Müziğin çevrimiçi yayınlama hizmetlerini size sağlaması için gerekli kişisel bilgilerinizi toplaması gerekir. %1$s Gizlilik politikamızda topladığımız bilgileri nasıl işlediğimizi öğrenebilirsiniz. İstediğiniz zaman ayarlar menüsünden müziğin gizlilik politikasına verdiğiniz izni geri çekebilirsiniz
 Müziği kullanmadan önce %2$s Kullanıcı sözleşmemizi ve %1$s Gizlilik politikamızı okuyun ve kabul edin
 Yukarıda bahsedilen hizmetleri kullanmayı kabul etmezseniz bu uygulamanın bazı özelliklerini kullanamayacaksınız. Bununla birlikte temel işlevler hâlâ kullanılabilir olacaktır"</string>
@@ -1924,6 +1998,7 @@ mutlu ol"</string>
     <string name="supplementary_songs">Ek şarkılar</string>
     <string name="swap">Değiştir</string>
     <string name="swipe_for_more">Daha fazla müzik videosu için yukarı kaydırın</string>
+    <string name="swipe_to_exit">Çıkmak için tekrar kaydırın</string>
     <string name="switch_success">Başarıyla değiştirildi</string>
     <string name="tab_album">Albümler</string>
     <string name="tab_album_list">Albümler</string>
@@ -1965,7 +2040,7 @@ mutlu ol"</string>
     <string name="terms_of_service">Hizmet şartları</string>
     <string name="test_mode">Test modu</string>
     <string name="text_separator">|</string>
-    <string name="the_anniversary_of_lifting_martial_law">Kalkınma sıkı yönetiminin yıldönümü</string>
+    <string name="the_anniversary_of_lifting_martial_law">Sıkı yönetiminin yıldönümü</string>
     <string name="the_anti_aggression_day">Anti saldırganlık günü</string>
     <string name="the_arbor_day">Ağaç dikme günü</string>
     <string name="the_armed_forces_day">Silahlı kuvvetler günü</string>
@@ -2402,4 +2477,5 @@ Daha sonraki bir zamanda Wi-Fi ağına bağlanırsanız %s dokunarak indirebilir
     <string name="youtube_tab_shorts">Kısalar</string>
     <string name="youtube_tab_tiktok">TikTok</string>
     <string name="youtube_tab_trend">Trendler</string>
+    <string name="ytb_turn_on_sound">Sesi açmak için dokunun</string>
 </resources>

@@ -56,8 +56,8 @@
         <item quantity="one">Saniye başına %1$d öğe | Kalan süre: %2$s</item>
     </plurals>
     <plurals name="compress_duplicate_file_results">
-        <item quantity="other">%d çift dosya grubu sıkıştırıldı</item>
-        <item quantity="one">%d çift dosya grubu sıkıştırıldı</item>
+        <item quantity="other">Sıkıştırılmış %d çift dosya kümesi</item>
+        <item quantity="one">Sıkıştırılmış %d çift dosya kümesi</item>
     </plurals>
     <plurals name="dc_group_title_normal">
         <item quantity="other">%2$s boşaltmak için %1$d adım atın</item>
@@ -97,7 +97,7 @@
     </plurals>
     <plurals name="deepclean_app_summary">
         <item quantity="other">%d uygulama yüklendi. Nadiren kullanılan uygulamaları silebilirsiniz</item>
-        <item quantity="one">%d uygulama yüklendi. Bunu silebilirsiniz</item>
+        <item quantity="one">%d uygulama yüklendi. Nadiren kullanılan uygulamaları silebilirsiniz</item>
     </plurals>
     <plurals name="deepclean_cache_summary">
         <item quantity="other">%d uygulamanın önemsiz verilerini temizleyebilirsiniz</item>
@@ -132,8 +132,8 @@
         <item quantity="one">Her %d günde bir</item>
     </plurals>
     <plurals name="expected_compress">
-        <item quantity="other">%d yinelenen dosya grubu</item>
-        <item quantity="one">%d yinelenen dosya grubu</item>
+        <item quantity="other">%d çift dosya kümesi</item>
+        <item quantity="one">%d çift dosya kümesi</item>
     </plurals>
     <plurals name="global_wa_clean_finish_audio">
         <item quantity="other">&lt;font color=\"#01BB00\">&lt;big>&lt;big>%1$s boşaltıldı (&lt;font color=\"#01BB00\">&lt;big>&lt;big>%2$d şarkı için yeterli)</item>
@@ -223,8 +223,8 @@
         <item quantity="one">%1$d kişi tarafından indirildi</item>
     </plurals>
     <plurals name="repeated_file_compression_dc_subtitle">
-        <item quantity="other">%d yinelenen dosya grubu</item>
-        <item quantity="one">%d yinelenen dosya grubu</item>
+        <item quantity="other">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> çift kopya dosya&lt;/Data></item>
+        <item quantity="one">&lt;Data>&lt;font color=#0097FF>%d&lt;/font> çift kopya dosya&lt;/Data></item>
     </plurals>
     <plurals name="reset_app_selected_app">
         <item quantity="other">Sıfırlanacak %d uygulama seçildi</item>
@@ -255,8 +255,8 @@
         <item quantity="one">Kaldırılacak %d uygulama seçildi</item>
     </plurals>
     <plurals name="video_clean_scan_app_result">
-        <item quantity="other">Önbelleğe alınmış videoları olan %d uygulama</item>
-        <item quantity="one">Önbelleğe alınmış videoları olan %d uygulama</item>
+        <item quantity="other">Önbelleğe alınmış videolara sahip %d uygulama</item>
+        <item quantity="one">Önbelleğe alınmış videolara sahip %d uygulama</item>
     </plurals>
     <plurals name="view_num">
         <item quantity="other">%1$s görüntülenme</item>
