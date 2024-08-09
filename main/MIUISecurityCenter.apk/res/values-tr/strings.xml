@@ -1420,6 +1420,7 @@ Ancak bazı işlemleriniz henüz tamamlanmadı. Onayınızı geri çekebilmek i�
     <string name="create_talbe_fwlog">CREATE TABLE fwlog( _id INTEGER PRIMARY KEY AUTOINCREMENT, number TEXT DEFAULT NULL, date INTEGER NOT NULL DEFAULT 0, type INTEGER NOT NULL DEFAULT 0, reason INTEGER NOT NULL DEFAULT 0, data1 TEXT DEFAULT NULL, data2 TEXT DEFAULT NULL, read INTEGER NOT NULL DEFAULT 0, simid TEXT DEFAULT -1, mode INTEGER NOT NULL DEFAULT 0, callType INTEGER NOT NULL DEFAULT 0 );</string>
     <string name="cs_color_sense">Renk sıcaklığı</string>
     <string name="cs_conversation_record_using">Kaydediliyor</string>
+    <string name="cs_func_toast_bluetooth_headset">Bu özelliği kullanabilmek için Bluetooth kulaklıklarınızı çıkarın</string>
     <string name="cs_func_toast_headset">Bu özelliği kullanabilmek için kulaklığınızın bağlantısını kesin</string>
     <string name="cs_func_toast_light">Bu özelliği kullanabilmek için ön kameraya geçin</string>
     <string name="cs_func_toast_pickup">Bu özelliği kullanabilmek için görüntülü görüşmeye geçin</string>
@@ -1736,9 +1737,9 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="eletric_card_status_bg_content_enable">Açık</string>
     <string name="eletric_card_summary_1">Güvenlik riskleri için gelen aramaları kontrol edin</string>
     <string name="eletric_card_summary_2">Gelen mesajlardaki riskleri tespit edin</string>
-    <string name="eletric_card_summary_3">Güvenilmez uygulamalar hakkında uyar</string>
+    <string name="eletric_card_summary_3">Güvenilmez uygulamalar hakkında uyarıları alırsınız</string>
     <string name="eletric_card_summary_4">Riskli siteler hakkında bilgi verin</string>
-    <string name="eletric_card_summary_5">Özel öğeleri gizle</string>
+    <string name="eletric_card_summary_5">Özel öğeleri gizleyin</string>
     <string name="eletric_card_two_identification_risk_app">Riskli işlemlere karşı uyarın</string>
     <string name="eletric_card_two_identification_risk_app_summary">Şüpheli arama veya mesajlardan sonra finansal işlemler yaparken uyarı alın</string>
     <string name="eletric_card_two_identification_risk_mms">Yönlendirilen doğrulama kodları hakkında uyar</string>
@@ -1757,15 +1758,15 @@ arama geçmişine geri yüklensin mi?"</string>
     <string name="eletric_group_title_two_identification_risk_screen_summary">Alipay, WeChat, galeri veya mesajlaşmaya geçerseniz yayın duraklatılacaktır</string>
     <string name="eletric_group_two_identification_risk_app">Riskli finansal işlemler konusunda uyarın</string>
     <string name="eletric_group_two_identification_risk_mms">Doğrulama kodu koruması</string>
-    <string name="eletric_identification_unfamiliar_numbers">Bilinmeyen numaraları tanımlayın</string>
+    <string name="eletric_identification_unfamiliar_numbers">Bilinmeyen numaraları tanımla</string>
     <string name="eletric_identification_unfamiliar_numbers_summary">Kullanıcı geri bildirimlerine göre bilinmeyen numaralar için arama türlerini görüntüleyin</string>
     <string name="eletric_key_protect_electric_announcement">Dolandırıcılığa karşı koruma</string>
     <string name="eletric_no_grant_dialog_message_for_phone">Bilinmeyen numaraları tanımlayabilmek için gerekli izinleri verin</string>
     <string name="eletric_no_grant_dialog_negative_button">İptal et</string>
-    <string name="eletric_no_grant_dialog_positive_button">Ayarlar</string>
+    <string name="eletric_no_grant_dialog_positive_button">Tamam</string>
     <string name="eletric_no_grant_dialog_title">Gerekli izinler</string>
-    <string name="eletric_risk_call_identification">Aramaları koruyun</string>
-    <string name="eletric_risk_call_identification_announcement">Bilinmeyen numaralardan arama alırken olası riskler hakkında bilgi alın</string>
+    <string name="eletric_risk_call_identification">Aramaları koru</string>
+    <string name="eletric_risk_call_identification_announcement">Bilinmeyen numaralardan arama alırken olası riskler hakkında bilgiler alırsınız</string>
     <string name="eletric_status_protecting">Açık</string>
     <string name="ellipsis">…</string>
     <string name="email">E-posta</string>
@@ -4143,6 +4144,8 @@ kapat"</string>
     <string name="pc_low_battery_fast_charge_summary">Ekran kapalıyken ve pil zayıfken şarjı hızlandırmak için verilen şarj cihazını bağlayın. Bu özellik cihazınızın ısınmasına neden olabilir</string>
     <string name="pc_low_temp_charge_summary">Şarj cihazını bağlı tutun ve normal şekilde şarj etmek için ekran kapandıktan sonra pilin ısınmasını bekleyin</string>
     <string name="pc_low_temp_charge_title">Düşük sıcaklıkta şarj</string>
+    <string name="pc_low_temperature_extreme_endurance_summary">Ortam sıcaklığı aşırı düşük olduğunda pil ömrünü uzatmak için cihaz performansını sınırlayın</string>
+    <string name="pc_low_temperature_extreme_endurance_title">Soğuğa dayanıklılık modu</string>
     <string name="pc_main_activity_back">Geri</string>
     <string name="pc_main_battery_text_day">%1$s dakika eklendi. Yaklaşık %2$s gün kaldı</string>
     <string name="pc_main_battery_text_day_hour">%1$s dakika eklendi. Yaklaşık %2$s gün %3$s saat kaldı</string>
@@ -5088,7 +5091,7 @@ kapat"</string>
     <string name="privacy_dialog_call_item_3">Cihaz durumuna erişme</string>
     <string name="privacy_dialog_call_message">Varsayılan olarak Xiaomi üçüncü taraf uygulamalarının aşağıdakileri yapmasına izin vermez:</string>
     <string name="privacy_dialog_call_result">Yine de üçüncü taraf uygulamalarını ve hizmetlerini normal şekilde kullanabilirsiniz. Ancak herhangi bir sorunla karşılaşırsanız bize bir satır bırakmaktan çekinmeyin</string>
-    <string name="privacy_dialog_call_title">Aramaları koruyun</string>
+    <string name="privacy_dialog_call_title">Aramaları koru</string>
     <string name="privacy_dialog_camera_message">Gizliliğinizi korumak için Xiaomi uygulamaların kameranızı arka planda kullanmasına izin vermez</string>
     <string name="privacy_dialog_camera_title">Arka plan kamera kullanımını kısıtla</string>
     <string name="privacy_dialog_content_part1">Güvenliğe hoş geldiniz. Bu uygulama cihazınızda çöp ve virüs olup olmadığını kontrol etmenin yanı sıra uygulamaları yönetmenize, mobil veri kullanımını kontrol etmenize, aramaları ve mesajları engellemenize ve daha fazlasını yapmanıza olanak tanır</string>
@@ -5161,7 +5164,7 @@ kapat"</string>
     <string name="privacy_other_permission_manage_summary">Gizlilikle ilgili diğer izinleri yönetme</string>
     <string name="privacy_other_permission_manage_title">Diğer izinler</string>
     <string name="privacy_permission_call">Arama geçmişine erişme veya düzenleme</string>
-    <string name="privacy_permission_call_title">Aramaları koruyun</string>
+    <string name="privacy_permission_call_title">Aramaları koru</string>
     <string name="privacy_permission_camera_title">Arka plan kamera kullanımını kısıtla</string>
     <string name="privacy_permission_contacts">Kişilere erişme veya düzenleme</string>
     <string name="privacy_permission_desc">İzin ayrıntıları</string>
@@ -6267,6 +6270,9 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="superpower_dialog_button_ok">Tamam</string>
     <string name="superpower_dialog_massage">Ultra pil tasarrufu güç tüketen özelliklerin çoğunu kısıtlar ve temel işlevselliklerin mümkün olduğunca uzun süre kullanılabilmesi için cihazınızın performansını düşürür. Ultra pil tasarrufu açılsın mı?</string>
     <string name="superpower_dialog_title">Ultra pil tasarrufu</string>
+    <string name="superpower_notification_low_temp_btn_txt">Aç</string>
+    <string name="superpower_notification_low_temp_summary">Soğuğa dayanıklılık modu ultra pil tasarrufu açıkken ve ortam sıcaklığı aşırı düşükken daha fazla pil tasarrufu sağlayabilir</string>
+    <string name="superpower_notification_low_temp_title">Ultra pil tasarrufu açılsın mı?</string>
     <string name="superpower_notification_new_title_new">"%s'den az pil kaldı"</string>
     <string name="superpower_notification_summary">Ultra pil tasarrufunu aç</string>
     <string name="superpower_notification_time_12">dd MMMM EEEE</string>
@@ -6274,6 +6280,7 @@ Biçimlendirme ^2 üzerindeki mevcut içeriği silecektir. İçerik kaybını ö
     <string name="superpower_notification_title_new">"%s'den az pil kaldı"</string>
     <string name="superpower_progress_content">Ultra pil tasarrufu açılıyor</string>
     <string name="superpower_progress_left_time">%1$d saat %2$d dakika</string>
+    <string name="superpower_progress_low_temp_content">Soğuğa dayanıklılık modu açılıyor</string>
     <string name="superpower_progress_switch_home">Karanlık temaya geçiş</string>
     <string name="superpower_progress_title">Kalan süre</string>
     <string name="superpower_progress_turndown_brightness">Ekran parlaklığını azalt</string>
