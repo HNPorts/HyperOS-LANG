@@ -495,7 +495,7 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="permission_account">Cihazınızdaki hesaplara erişin:</string>
     <string name="permission_account_introduction">Xiaomi hesabı ile giriş yapmak içindir</string>
     <string name="permission_application_package_introduction">Kurulum paketlerini ayrıştırma ve tarama ve depolamaya erişmek içindir</string>
-    <string name="permission_application_scope_description">"We only use these permissions when performing security verification, and won't use them for any other purpose."</string>
+    <string name="permission_application_scope_description">"Bu izinleri yalnızca güvenlik doğrulaması yaparken kullanırız ve bunları başka hiçbir amaçla kullanmayacağız."</string>
     <string name="permission_authority_describe">Bu cihazda yüklü uygulamaların listesine erişin</string>
     <string name="permission_authority_describe_applist_summary">Uygulama izinlerini yönetmek içindir</string>
     <string name="permission_backup">Depolama alanına erişme</string>
