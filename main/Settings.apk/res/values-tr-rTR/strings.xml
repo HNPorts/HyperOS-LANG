@@ -5668,6 +5668,8 @@ Bu işlemi geri alamazsınız"</string>
     <string name="mi_service">Mi hizmeti</string>
     <string name="mi_service_app_detail">Veri kullanım detayları</string>
     <string name="mi_shopping_mall">Mi mağaza</string>
+    <string name="mi_smart_hub_entry_title">Mi akıllı ses</string>
+    <string name="mi_smart_play_entry_title">Mi akıllı oynatıcı</string>
     <string name="mi_transfer">Aktarma</string>
     <string name="mi_upi_settings">Mi cüzdan hesabı</string>
     <string name="mi_wallet">Mi cüzdan</string>
@@ -11428,12 +11430,14 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="icon_app_color_title">Renkli bildirim simgeleri</string>
     <string name="privacy_icon_title">Gizlilik simgesini gizle</string>
     <string name="battery_icon_title">Pil simgesini gizle</string>
-    <string name="unread_notifications_title">Okunmamış bildirimler</string>
-    <string name="unread_notifications_summary">Kilit ekranında her zaman okunmamış bildirimleri gösterir</string>
     <string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
     <string name="call_brightness_title">Arama parlaklığı</string>
     <string name="list_view_animation_title">Liste animasyonu</string>
     <string name="list_view_interpolator_title">liste interpolasyonu</string>
+    <string name="lockscreen_powermenu_title">Güç menüsü</string>
+    <string name="lockscreen_powermenu_summary">Kilit ekranında güç menüsünü etkinleştirir veya devre dışı bırakır</string>
+    <string name="unread_notifications_title">Okunmamış bildirimler</string>
+    <string name="unread_notifications_summary">Kilit ekranında her zaman okunmamış bildirimleri gösterir</string>
     <string name="charging_animations_title">Şarj animasyonları</string>
     <string name="full_charge_sound_title">Şarj doldu sesi</string>
     <string name="volume_button_title">Ses tuşları ayarları</string>
