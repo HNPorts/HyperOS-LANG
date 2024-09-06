@@ -72,14 +72,14 @@
     <string name="calendar_storage">Takvim depolama</string>
     <string name="camera_application_introduction">Fotoğraf ve video çekmek için bu uygulamayı kullanabilirsiniz</string>
     <string name="camera_introduction">Fotoğraf çekmek ve video çekmek için kamerayı kullanabilirsiniz</string>
-    <string name="carousel_cookies_content">Duvar kağıdı döngüsünde resimlere ve hikayelere dokunduğunuzda bunların tam sürümleri tarayıcınızda açılır. Güvenilir üçüncü taraf içerik sağlayıcımız daha sonra ilgi alanlarınıza göre uyarlanmış ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz  Çerez politikasında açıklandığı gibi tarayıcınıza çerez yerleştireceklerdir. Çerezleri reddederseniz duvar kağıdı döngüsü çalışmaya devam eder ancak içeriği ve önerileri sizinle alakalı olmayabilir. Tercihlerinizi istediğiniz zaman ayarlardan değiştirebilirsiniz</string>
+    <string name="carousel_cookies_content">Duvar kağıdı döngüsünde resimlere ve hikayelere dokunduğunuzda bunların tam sürümleri tarayıcınızda açılır. Güvenilir üçüncü taraf içerik sağlayıcımız daha sonra ilgi alanlarınıza göre uyarlanmış ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz Çerez politikasında açıklandığı gibi tarayıcınıza çerez yerleştireceklerdir. Çerezleri reddederseniz duvar kağıdı döngüsü çalışmaya devam eder ancak içeriği ve önerileri sizinle alakalı olmayabilir. Tercihlerinizi istediğiniz zaman ayarlardan değiştirebilirsiniz</string>
     <string name="carousel_cookies_subtitle">Çerezler kilit ekranı deneyiminizi kişiselleştirmemize olanak tanır</string>
     <string name="carousel_cookies_title">Kişiselleştirilmiş içerik ve çerezler</string>
-    <string name="carousel_privacy">Duvar kağıdı döngüsünü kullanmadan önce güvenilir üçüncü taraf hizmet sağlayıcımızın  Gizlilik politikası ve %2$s Kullanıcı sözleşmesi belgelerini okuyun ve kabul edin</string>
+    <string name="carousel_privacy">Duvar kağıdı döngüsünü kullanmadan önce güvenilir üçüncü taraf hizmet sağlayıcımızın Gizlilik politikası ve Kullanıcı sözleşmesi belgelerini okuyun ve kabul edin</string>
     <string name="carousel_setting">Kilit ekranınızı ayarlayın</string>
     <string name="carousel_setting_sub">Duvar kağıdı döngüsü cihazınızın kilidini her açtığınızda size yeni hikayeler gösterecek</string>
     <string name="carrier_introduction_china">Size daha iyi hizmet verebilmek için cihazınızda çalışan işlemler cihazınız ve Sim kartınızla ilgili bilgileri periyodik olarak gönderebilir. Xiaomi sürümü, Android sürümü, cihaz modeli ve temel donanım özellikleri vede yaklaşık konum bilgilerini Wi-Fi, mobil veri ağı veya ücretsiz mesaj yoluyla taşıyıcıya gönderir. Taşıyıcı ilgili bilgileri yalnızca hizmetlerin kalitesini iyileştirmek veya özelleştirilmiş hizmetler veya teknolojiler sağlamak için analiz etmeyi taahhüt eder ve ilgili bilgileri sizi kişisel olarak tanımlayan hiçbir biçimde üçüncü taraflara ifşa etmeyecektir. Belirli taşıyıcı beyanı geçerli olacaktır. Bu hizmeti kullanmanın maliyeti konusunda operatörünüze danışın</string>
-    <string name="check_box_label">Bu özelliği açarak  Xiaomi bağlantı hizmetleri gizlilik politikasını kabul etmiş olursunuz</string>
+    <string name="check_box_label">Bu özelliği açarak Xiaomi bağlantı hizmetleri gizlilik politikasını kabul etmiş olursunuz</string>
     <string name="chinese_day_1">/1</string>
     <string name="chinese_day_10">/10</string>
     <string name="chinese_day_11">/11</string>
@@ -165,7 +165,7 @@
     <string name="content_description_start">Başlat</string>
     <string name="content_introduction">İçerik merkezi ile içeriği ve hizmetleri birden fazla kanaldan toplar. Burada makaleler okuyabilir, videolar izleyebilir, günlük öne çıkan öğeleri görüntüleyebilir ve içerik önerileri alabilirsiniz</string>
     <string name="continue_to_enable_accessibility">Erişilebilirliği etkinleştirmek için iki parmağınızı basılı tutmaya devam edin</string>
-    <string name="cookies_content_one">Duvar kağıdı döngüsü resimlere ve hikayelere dokunduğunuzda tarayıcınızda tam sürümlerini açacaktır. Güvenilir üçüncü taraf içerik sağlayıcımız Taboola daha sonra ilgi alanlarınıza göre uyarlanmış ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz Taboolanın  çerez politikasında açıklandığı gibi tarayıcı aracılığıyla cihazınıza çerezler yerleştirecektir. Tanımlama bilgilerinin kullanımını reddederseniz duvar kağıdı döngüsü öğeleri kilit ekranınızda görünmeye devam edecek ve tam hikayeler tarayıcınızda açılacak ancak ek öneriler sizin için özel olarak seçilmeyecektir. Tercihlerinizi istediğiniz zaman ayarlardan değiştirebilirsiniz</string>
+    <string name="cookies_content_one">Duvar kağıdı döngüsü resimlere ve hikayelere dokunduğunuzda tarayıcınızda tam sürümlerini açacaktır. Güvenilir üçüncü taraf içerik sağlayıcımız Taboola daha sonra ilgi alanlarınıza göre uyarlanmış ek içerik ve reklamlar önerebilir. Bu özelliği etkinleştirmeyi kabul ederseniz Taboolanın çerez politikasında açıklandığı gibi tarayıcı aracılığıyla cihazınıza çerezler yerleştirecektir. Tanımlama bilgilerinin kullanımını reddederseniz duvar kağıdı döngüsü öğeleri kilit ekranınızda görünmeye devam edecek ve tam hikayeler tarayıcınızda açılacak ancak ek öneriler sizin için özel olarak seçilmeyecektir. Tercihlerinizi istediğiniz zaman ayarlardan değiştirebilirsiniz</string>
     <string name="cookies_content_two">Güvenilir üçüncü taraf içerik sağlayıcılarımızın, ilgi alanlarınıza göre içerik önerilerini ve reklamları kişiselleştirmek için çerezleri kullanmasını isteyip istemediğinize karar verin</string>
     <string name="cookies_title">Kişiselleştirilmiş içerik ve çerezler</string>
     <string name="copy">Kopyala</string>
@@ -270,7 +270,7 @@ ve cihazınızın itme bildirimleri almasına izin vermelidir"</string>
     <string name="intent_filter_verification_service">Amaç filtresi doğrulama hizmeti</string>
     <string name="interconnection_communication_introduction">Xiaomi internet iletişim hizmetleri diğer Xiaomi cihazlarını keşfetmenize, bağlamanıza ve iletişim kurmanıza olanak tanır</string>
     <string name="interconnection_service_global_item_title">Xiaomi ara bağlantı</string>
-    <string name="interconnection_service_global_label">Xiaomi ara bağlantı cihazlarınızın birbirleriyle kablosuz olarak etkileşime girmesini sağlar. Bu anahtarı açarak Xiaomi ara bağlantının  Gizlilik politikasını kabul etmiş olursunuz</string>
+    <string name="interconnection_service_global_label">Xiaomi ara bağlantı cihazlarınızın birbirleriyle kablosuz olarak etkileşime girmesini sağlar. Bu anahtarı açarak Xiaomi ara bağlantının Gizlilik politikasını kabul etmiş olursunuz</string>
     <string name="interconnection_service_summary_china">"Xiaomi ara bağlantı hizmetleri cihazlarınızın birbirleriyle kablosuz olarak etkileşime girmesine olanak tanır. Bu hizmetler arasında Mi akıllı oynatıcı, yayınlama, uygulama aktarımı, ana ekran+, paylaşılan pano, cihazlar arası görüntü yakalama, ağ yardımı, paylaşılan klavyeler ve fareler, paylaşılan kamera ve Mi akıllı ses yer alır. Normal çalışabilmek için Xiaomi ara bağlantı hizmetleri internete bağlanmanız ve aşağıdaki izinleri istemeniz gerekir:
 Mi akıllı oynatma ve yayınlama:
 Bluetooth'u açın veya kapatın
@@ -463,7 +463,7 @@ Mevcut ara bağlantı hizmetleri, sistem sürümünüze ve cihaz modelinize gör
     <string name="other_settings_ad_enable_summary">Davranış verilerinize dayalı kişiselleştirilmiş reklamlar önerin</string>
     <string name="other_settings_alarm_assistance">Acil durum konumu</string>
     <string name="other_settings_alarm_assistance_privacy">Gizlilik politikası</string>
-    <string name="other_settings_alarm_assistance_summary" formatted="false">"110, 120, 119 veya 122'yi ararken konum bilgilerinizi mesaj veya mobil veri kullanarak otomatik olarak polise gönderebilirsiniz. <a href="%">Kullanıcı sözleşmesi</a> ve <a href="%2$s">Gizlilik politikasını</a> inceleyin"</string>
+    <string name="other_settings_alarm_assistance_summary" formatted="false">"110, 120, 119 veya 122'yi ararken konum bilgilerinizi mesaj veya mobil veri kullanarak otomatik olarak polise gönderebilirsiniz."</string>
     <string name="other_settings_alarm_assistance_user">Kullanıcı sözleşmesi</string>
     <string name="other_settings_auto_update">Otomatik olarak yükle</string>
     <string name="other_settings_auto_update_summary">Xiaomi güncellemeleri yüklemek için en iyi zamanı seçer</string>
@@ -471,7 +471,7 @@ Mevcut ara bağlantı hizmetleri, sistem sürümünüze ve cihaz modelinize gör
     <string name="other_settings_enhanced_lockscreen">Duvar kağıdı döngüsü</string>
     <string name="other_settings_enhanced_lockscreen_for_india">Mi için bakış</string>
     <string name="other_settings_enhanced_lockscreen_privacy_index">Gizlilik politikası</string>
-    <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak kilit ekranınıza gönderilen fotoğrafları ve hikayelerini alın.  ve %2$s</string>
+    <string name="other_settings_enhanced_lockscreen_summary">Günlük olarak kilit ekranınıza gönderilen fotoğrafları ve hikayelerini alın.</string>
     <string name="other_settings_enhanced_lockscreen_summary_index">Şartlar ve koşullar</string>
     <string name="other_settings_get_apps">Uygulamaları otomatik olarak güncelle</string>
     <string name="other_settings_get_apps_summary">"En son özelliklerini kullanabilmek için sistemi ve üçüncü taraf ortak uygulamalarını GetApps aracılığıyla güncelleyin
@@ -625,8 +625,8 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="power_and_performance_introduction">Bu servis temel pil yönetimi, kullanım istatistikleri, güç tasarrufu özellikleri ve daha fazlasını sağlar</string>
     <string name="pref_title_data_slot">Tercih edilen veri Sim kartı</string>
     <string name="pref_title_voice_slot">Tercih edilen ses Sim kartı</string>
-    <string name="preference_copied">%1$s panoya kopyalandı</string>
-    <string name="privacy_content_one">"Duvar kağıdı döngüsü önerileri güvenilir üçüncü taraf içerik sağlayıcımız olan Taboola tarafından desteklenmektedir. Bu içeriği sağlamak için Taboola'nın, sistem diliniz ve tarayıcı türünüz de dahil olmak üzere cihazınızdaki kişisel olmayan verilere erişmesi ve bunları depolaması gerekir. Taboola'nın toplanan verileri nasıl kullandığını Taboola'nın  Gizlilik politikası ve %2$s Kullanıcı sözleşmesinden öğrenebilirsiniz. Devam etmeden önce bu belgelerde sağlanan hüküm ve koşulları okuyun ve kabul edin. Kabul etmezseniz duvar kağıdı döngüsü hizmetleri devre dışı bırakılacaktır"</string>
+    <string name="preference_copied">Panoya kopyalandı</string>
+    <string name="privacy_content_one">"Duvar kağıdı döngüsü önerileri güvenilir üçüncü taraf içerik sağlayıcımız olan Taboola tarafından desteklenmektedir. Bu içeriği sağlamak için Taboola'nın, sistem diliniz ve tarayıcı türünüz de dahil olmak üzere cihazınızdaki kişisel olmayan verilere erişmesi ve bunları depolaması gerekir. Taboola'nın toplanan verileri nasıl kullandığını Taboola'nın Gizlilik politikası ve Kullanıcı sözleşmesinden öğrenebilirsiniz. Devam etmeden önce bu belgelerde sağlanan hüküm ve koşulları okuyun ve kabul edin. Kabul etmezseniz duvar kağıdı döngüsü hizmetleri devre dışı bırakılacaktır"</string>
     <string name="privacy_policy">Gizlilik politikası</string>
     <string name="privacy_provision_more">Gizlilik koruması hakkında daha fazla bilgi edinin</string>
     <string name="privacy_provision_summary">Gizlilik hakkında</string>
@@ -637,7 +637,7 @@ Bu özelliği kontrol etmek için ayarlardan kullanım ve teşhisi arayın"</str
     <string name="protect_persoanl_info_statement">Kişisel bilgilerinizi ilgili yasalara, düzenlemelere ve gizlilik politikalarına uygun olarak koruyacağız</string>
     <string name="provide_date_management_service">Bu hizmet tarihi kontrol etmenize ve etkinlikleri yönetmenize olanak tanır</string>
     <string name="provision_back">Geri</string>
-    <string name="provision_inputmethod_policy_description">Seçili klavyenin  gizlilik politikasını görüntüleyin</string>
+    <string name="provision_inputmethod_policy_description">Seçili klavyenin gizlilik politikasını görüntüleyin</string>
     <string name="provision_inputmethod_policy_description1">Gizlilik politikası</string>
     <string name="provision_next">Sonraki</string>
     <string name="provision_skip_underline">Atla</string>
@@ -672,9 +672,9 @@ IMEI ve IMSI'ye erişin"</string>
     <string name="send">Gönder</string>
     <string name="service_agreement">Şartlar ve koşulları okudum ve kabul ediyorum</string>
     <string name="service_company_adjust_content">Xunlei ağ hizmetleri kullanıcı sözleşmesi</string>
-    <string name="service_fast_pairing_policy">Devam etmeden önce Mi bağlantı gizlilik politikası okuyun ve kabul edin: </string>
+    <string name="service_fast_pairing_policy">Devam etmeden önce Mi bağlantı gizlilik politikası okuyun ve kabul edin</string>
     <string name="service_interconnection_communication">Xiaomi internet iletişim hizmetleri</string>
-    <string name="service_location_share_policy">Devam etmeden önce konum hizmetleri gizlilik bildirimini okuyun ve kabul edin: </string>
+    <string name="service_location_share_policy">Devam etmeden önce konum hizmetleri gizlilik bildirimini okuyun ve kabul edin</string>
     <string name="service_mi_account">Xiaomi hesap</string>
     <string name="service_name_MIUIDaemon">Xiaomi arka plan programı</string>
     <string name="service_name_address_dialing">Kişiler ve telefon</string>
@@ -706,11 +706,11 @@ IMEI ve IMSI'ye erişin"</string>
     <string name="service_name_security">Güvenlik</string>
     <string name="service_name_service_framework">Mi hizmet çerçevesi</string>
     <string name="service_name_systemdesktop">Ana ekran hizmet eklentisi</string>
-    <string name="service_policy">Gizlilik politikamızı okuyun ve kabul edin: </string>
+    <string name="service_policy">Gizlilik politikamızı okuyun ve kabul edin</string>
     <string name="service_policy_adjust_content">Xunlei gizlilik politikası</string>
-    <string name="service_policy_download">Hizmetlerimizi kullanmadan önce Xunlei gizlilik politikasını okuyun ve kabul edin: </string>
+    <string name="service_policy_download">Hizmetlerimizi kullanmadan önce Xunlei gizlilik politikasını okuyun ve kabul edin</string>
     <string name="service_privacy_index">Gizlilik politikası</string>
-    <string name="service_security_over_r">Güvenliği kullanmadan önce Gizlilik politikamızı okuyun ve kabul edin: . Android sürümü standartlarına uygun olarak ilgili uygulamanın çalışması durduktan sonra 5 saniye içinde bir kerelik izin geri alınacaktır. Uygulamayı bu kısa süre içinde açarsanız izin geri alınacaktır</string>
+    <string name="service_security_over_r">Güvenliği kullanmadan önce Gizlilik politikamızı okuyun ve kabul edin: Android sürümü standartlarına uygun olarak ilgili uygulamanın çalışması durduktan sonra 5 saniye içinde bir kerelik izin geri alınacaktır. Uygulamayı bu kısa süre içinde açarsanız izin geri alınacaktır</string>
     <string name="service_sim_activation">Sim kart aktivasyonu</string>
     <string name="servicestate_title">Temel hizmetler</string>
     <string name="setting_locale">Bölge ayarlanıyor</string>
@@ -772,7 +772,7 @@ IMEI ve IMSI'ye erişin"</string>
     <string name="system_update_statement">"Sistem güncellemesi yapabilmek için cihazın IMEI'sini, cihazın IMSI'sini, cihaz tanımlayıcılarını , Xiaomi hesabını, cihaz üreticisini, cihaz modelini, ağ operatörünü, cihaz hafızasını, işletim sistemi sürümünü, bölgeyi, dil, bağlantı, ağ türü ve IP adresi"</string>
     <string name="system_update_title">Sistem güncellemeleri</string>
     <string name="systemdesktop_introduction">Ana ekran hizmeti eklentisi size ana ekran sistem kullanıcı arayüzü ve ekran görüntüleri gibi temel özellikler sağlar</string>
-    <string name="term_condition_detail">Kilit ekranınıza günlük olarak gönderilen çarpıcı görüntüler ve heyecan verici hikayeler alın. Bu özellik izniniz olmadan verilerinizi kişiselleştirmek için kullanmaz. Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcının  Gizlilik politikasını ve %2$s kullanıcı sözleşmesini okuyun ve kabul edin</string>
+    <string name="term_condition_detail">Kilit ekranınıza günlük olarak gönderilen çarpıcı görüntüler ve heyecan verici hikayeler alın. Bu özellik izniniz olmadan verilerinizi kişiselleştirmek için kullanmaz. Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcının Gizlilik politikasını ve kullanıcı sözleşmesini okuyun ve kabul edin</string>
     <string name="terms_of_use">Şartlar ve koşullar</string>
     <string name="terms_of_use_label_MSA">MSA</string>
     <string name="terms_of_use_label_Mistore">, Mi mağaza sistemi eklentisi</string>
@@ -901,7 +901,7 @@ Bu özelliği kullanmadan önce Mint klavyesinin gizlilik politikasını kabul e
     <string name="wc_double_check_reject">Hayır</string>
     <string name="wc_double_check_summary">Sizin için çalışıp çalışmadığını görmek için kilit ekranı duvar kağıdını açabilirsiniz. Ayarlar > Kilit ekranından her zaman kilit ekranı duvar kağıdını açıp kapatabileceğinizi unutmayın</string>
     <string name="wc_double_check_title">Kilit ekranı duvar kağıdını dene</string>
-    <string name="wc_notice_link_announcement_summary">Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcısının  gizlilik politikası ve %2$s kullanıcı sözleşmesini okuyun ve kabul edin</string>
+    <string name="wc_notice_link_announcement_summary">Bu özelliği kullanmadan önce üçüncü taraf içerik sağlayıcısının gizlilik politikası ve kullanıcı sözleşmesini okuyun ve kabul edin</string>
     <string name="wednesday">Çarşamba</string>
     <string name="wednesday_short">Çarşamba</string>
     <string name="wednesday_shortest">Ç</string>

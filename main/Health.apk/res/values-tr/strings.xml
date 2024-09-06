@@ -3402,7 +3402,7 @@ Lütfen bu kodu teknisyene gönderin"</string>
     <string name="feedback_copied_to_pasteboard">Panoya eklendi</string>
     <string name="feedback_copy">Kopyala</string>
     <string name="feedback_crop_tip">Sorunları tespit etmemize yardımcı olmak için ekran görüntülerini yükleyin</string>
-    <string name="feedback_customer_service_tel">Müşteri desteği: MIUITR forum</string>
+    <string name="feedback_customer_service_tel">Müşteri desteği</string>
     <string name="feedback_device_log">"Sorunu bulmamızda ve çözmemizde bize yardımcı olacak kayıtları yükleyin. "</string>
     <string name="feedback_device_log_dest">Bu yaklaşık 1-2 dakika sürer</string>
     <string name="feedback_device_log_title">Kayıtları yükle</string>

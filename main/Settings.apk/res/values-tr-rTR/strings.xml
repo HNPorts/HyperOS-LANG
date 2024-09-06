@@ -4332,7 +4332,7 @@ Ekran kilidinizi onaylayabileceğiniz alan sağa hareket edecektir"</string>
     <string name="haptic_experience_details">Dokunsal geri bildirim &amp; erişilebilirlik</string>
     <string name="haptic_feedback_enable_title">Dokunma titreşimi</string>
     <string name="haptic_feedback_level">Titreşim</string>
-    <string name="haptic_feedback_progress">Dokunsal geri bildirim düzeyi</string>
+    <string name="haptic_feedback_progress">Dokunsal geri bildirim seviyesi</string>
     <string name="haptic_feedback_summary">Hareketlere ve sistem kontrollerine dokunsal yanıt alın</string>
     <string name="haptic_feedback_title">Dokunsal geri bildirim</string>
     <string name="haptic_fingerprint_unlock_16_content_description">Parmak iziyle kilit aç</string>
@@ -7310,7 +7310,7 @@ Güç ve sesi aç'a aynı anda basın"</string>
     <string name="privacy_password_not_login_account">Oturum açmadınız</string>
     <string name="privacy_password_remind_bind_notlogin_account">Şifrenizi unutmanız durumda sıfırlayabilmeniz için Xiaomi hesabınızı ekleyin</string>
     <string name="privacy_password_remind_bindaccount_title">Xiaomi hesabı ekle</string>
-    <string name="privacy_password_settings">Gizlilik koruma şifresini kullan</string>
+    <string name="privacy_password_settings">Gizlilik koruma şifresi</string>
     <string name="privacy_password_settings_next">İleri</string>
     <string name="privacy_password_settings_summary">Gizlilik koruma şifresi hassas bilgiler içerebilen uygulamalar için kullanılır</string>
     <string name="privacy_password_settings_titles">Gizlilik şifresi mesajlarınızı, fotoğraflarınızı, dosyalarınızı ve notlarınızı korur</string>
@@ -7334,7 +7334,8 @@ Güç ve sesi aç'a aynı anda basın"</string>
     <string name="privacy_thumbnail_blur_progress_message">Yükleniyor</string>
     <string name="privacy_thumbnail_blur_title">Uygulama önizlemelerini bulanıklaştır</string>
     <string name="private_dns_broken">Gizli DNS sunucusuna erişilemiyor</string>
-    <string name="private_dns_help_message">Gizli DNS özellikleri ile ilgili daha fazla bilgi edinin</string>
+    <string name="private_dns_help_message">Özel DNS özellikleri hakkında <annotation id="url">daha fazla</annotation> bilgi edinin</string>
+    <string name="private_dns_host_name">Özel DNS sağlayıcı sunucu adı</string>
     <string name="private_dns_mode_off">Kapalı</string>
     <string name="private_dns_mode_on">Açık</string>
     <string name="private_dns_mode_opportunistic">Otomatik</string>
@@ -7343,6 +7344,7 @@ Güç ve sesi aç'a aynı anda basın"</string>
     <string name="private_dns_mode_provider_exposed_hostname">Keşfedilebilir</string>
     <string name="private_dns_mode_provider_failure">Bağlanılamadı</string>
     <string name="private_dns_mode_provider_hostname_hint">DNS sağlayıcının sunucu adını girin</string>
+    <string name="private_dns_title">Özel DNS</string>
     <string name="private_gallery_need_to_unlock">Şifrenizi girin:</string>
     <string name="private_gallery_recording_intro_header">Kilit açma deseni çizin:</string>
     <string name="private_gallery_reset_by_account">Şifrenizi sıfırlamak için Xiaomi hesabınızda oturum açın</string>
@@ -11435,7 +11437,7 @@ Telefon işlemleri ve durumu ile ilgili önemli bildirimlerin gösterilmeye deva
     <string name="secure_screenshot_disable_title">Her yerde ekran resmi al</string>
     <string name="call_brightness_title">Arama parlaklığı</string>
     <string name="list_view_animation_title">Liste animasyonu</string>
-    <string name="list_view_interpolator_title">liste interpolasyonu</string>
+    <string name="list_view_interpolator_title">Liste interpolasyonu</string>
     <string name="lockscreen_powermenu_title">Güç menüsü</string>
     <string name="lockscreen_powermenu_summary">Kilit ekranında güç menüsünü etkinleştirir veya devre dışı bırakır</string>
     <string name="unread_notifications_title">Okunmamış bildirimler</string>
